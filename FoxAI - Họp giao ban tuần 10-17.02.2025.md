@@ -50,6 +50,8 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 
 - Báo cáo tổng hợp doanh thu, doanh số theo sản phẩm, dịch vụ (kéo từ SQL SAP trực tiếp).
 
+- Kế hoạch doanh thu AI nằm trong khối khác: 5 tỷ đ/năm.
+
 5.Quy trình nhập lỗi trên link Google Drive
 
 5.1.KH nhập lỗi trên link 
