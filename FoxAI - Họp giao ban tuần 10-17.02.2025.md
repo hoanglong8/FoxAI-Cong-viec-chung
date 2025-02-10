@@ -15,7 +15,7 @@
 # Các vấn đề vướng mắc
 
 # Kế hoạch cho thời gian tới
-1.Phòng DA thiết kế Power BI cho Bảo tín Minh Châu:
+**1.Phòng DA thiết kế Power BI cho Bảo tín Minh Châu**
 - Chiều phân tích (bộ lọc): Cửa hàng, Sản phẩm, Khách hàng
 - Bán hàng: Tiền, vàng, số lượng, khối lượng
 - Mua hàng: Tiền, vàng, số lượng, khối lượng
@@ -24,7 +24,18 @@
 Liên quan đến liên kết dữ liệu SQL thì liên hệ Mr.Tụ.
 => Tính toán ước lượng khối lượng công việc
 
-2.Chuẩn hóa MRP cho công ty TCI.
-Đội AI chuẩn bị nghiên cứu.
+**2.Chuẩn hóa MRP cho công ty TCI**
+=> Đội AI chuẩn bị nghiên cứu giải pháp.
 
-3.Dự án nội bộ
+**3.Chuẩn hóa lỗi**
+3.1.Lỗi SAP quy chuẩn (Quantity, Xuất kho âm...)
+3.2.Lỗi FoxAI chặn theo yêu cầu người theo
+3.3.Lỗi thao tác người dùng
+3.4.Lỗi code
+
+Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi qua nhóm chung, xử lý và phân loại lỗi theo 4 nhóm trên)
+=> Trưởng phòng kiểm tra lại.
+
+=> Đội AI sử dụng N8N để gửi email thông báo tới NV bảo trì khi KH thêm dòng trên file Google Drive.
+
+4.Phòng DA thiết kế Power BI cho FoxAI.
