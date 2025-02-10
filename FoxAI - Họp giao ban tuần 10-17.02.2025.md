@@ -85,3 +85,10 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 - Tuyển dụng thực tập sinh: không giới hạn số lượng
 
 - DA Power BI: 2 junior
+
+**7.Thủ tục xin nghỉ phép**
+
+-Làm trên HRM để nhân sự có thông tin chấm công.
+
+-Nhân viên xin phép, Trưởng phòng duyệt, báo lại cho PM dự án.
+
