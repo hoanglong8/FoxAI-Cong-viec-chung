@@ -27,7 +27,7 @@ Liên quan đến liên kết dữ liệu SQL thì liên hệ Mr.Tụ.
 **2.Chuẩn hóa MRP cho công ty TCI**
 => Đội AI chuẩn bị nghiên cứu giải pháp.
 
-**3.Chuẩn hóa lỗi**
+**3.Chuẩn hóa lỗi bảo trì**
 
 3.1.Lỗi SAP quy chuẩn (Quantity, Xuất kho âm...)
 
@@ -44,7 +44,7 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 
 => Đội AI sử dụng N8N để gửi email thông báo tới NV bảo trì khi KH thêm dòng trên file Google Drive.
 
-4.Phòng DA thiết kế Power BI cho FoxAI.
+**4.Phòng DA thiết kế Power BI cho FoxAI**
 
 - Chuẩn hóa báo cáo: Mr.Toàn + Hiền kế toán
 
@@ -52,7 +52,7 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 
 - Kế hoạch doanh thu AI nằm trong khối khác: 5 tỷ đ/năm.
 
-5.Quy trình nhập lỗi trên link Google Drive
+**5.Quy trình nhập lỗi trên link Google Drive**
 
 5.1.KH nhập lỗi trên link 
 
@@ -79,3 +79,9 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 -Cách giải quyết
 
 5.5.Follow, nếu lỗi bị Reopen.
+
+**6.Kế hoạch tuyển dụng nhân sự**
+
+- Tuyển dụng thực tập sinh: không giới hạn số lượng
+
+- DA Power BI: 2 junior
