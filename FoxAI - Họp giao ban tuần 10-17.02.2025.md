@@ -11,3 +11,13 @@
   * Đối tượng: Bộ phận nhập liệu
 
 # Các vấn đề vướng mắc
+
+# Kế hoạch cho thời gian tới
+Phòng DA thiết kế Power BI cho Bảo tín Minh Châu:
+- Chiều phân tích (bộ lọc): Cửa hàng, Sản phẩm, Khách hàng
+- Bán hàng: Tiền, vàng, số lượng, khối lượng
+- Mua hàng: Tiền, vàng, số lượng, khối lượng
+- Tồn kho: Tiền, vàng, số lượng, khối lượng
+
+Liên quan đến liên kết dữ liệu SQL thì liên hệ Mr.Tụ.
+=> Tính toán ước lượng khối lượng công việc
