@@ -31,7 +31,8 @@ Liên quan đến liên kết dữ liệu SQL thì liên hệ Mr.Tụ.
 3.1.Lỗi SAP quy chuẩn (Quantity, Xuất kho âm...)
 3.2.Lỗi FoxAI chặn theo yêu cầu người theo
 3.3.Lỗi thao tác người dùng
-3.4.Lỗi code
+3.4.Lỗi code kỹ thuật
+3.5.Lỗi data transfer Workbend
 
 Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi qua nhóm chung, xử lý và phân loại lỗi theo 4 nhóm trên)
 => Trưởng phòng kiểm tra lại.
