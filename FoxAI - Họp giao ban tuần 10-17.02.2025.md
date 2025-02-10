@@ -39,3 +39,19 @@ Nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi
 => Đội AI sử dụng N8N để gửi email thông báo tới NV bảo trì khi KH thêm dòng trên file Google Drive.
 
 4.Phòng DA thiết kế Power BI cho FoxAI.
+
+5.Quy trình nhập lỗi trên link Google Drive
+
+5.1.KH nhập lỗi trên link 
+5.2.NV bảo trì tiếp nhận lỗi
+-Qua kênh Zalo, Email
+-Hàng ngày review lỗi
+5.3.Xử lý lỗi
+-Giao tiếp qua nhóm Zalo chung
+-Gọi điện, ultraview
+-Liên hệ với kỹ thuật code, triển khai liên quan.
+5.4.Điền kết quả lên link
+-Kết quả
+-Phân loại lỗi
+-Cách giải quyết
+5.5.Follow, nếu lỗi bị Reopen.
