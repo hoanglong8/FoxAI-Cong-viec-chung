@@ -59,14 +59,14 @@
 - Giao cho team AI (Mr.Sơn) sử dụng N8N để gửi email thông báo tới NV bảo trì khi KH thêm dòng trên file Google Drive bảo trì.
 
 ## 3.Phổ biến quy trình, quy định công ty
-**Quy trình nhập lỗi bảo trì trên link Google Drive**
+**3.1.Quy trình quản lý lỗi bảo trì**
 
 ```mermaid
 graph TB;
     Nhập_lỗi_lên_Google_Drive --> Tiếp_nhận_lỗi --> Xử_lý_lỗi --> Cập_nhật_kết_quả --> Theo_dõi_follow
 ```
 
-Bước 1.KH nhập lỗi trên link 
+Bước 1.KH nhập lỗi trên link Google Drive
 
 Bước 2.NV bảo trì tiếp nhận lỗi
 
@@ -103,7 +103,7 @@ Hàng ngày, nhân viên bảo trì cập nhật trên link Google Drive (tiếp
   - Mr.Toàn chuẩn hóa tài liệu các dự án trên Sharepoint
   - Mr.Toàn chuẩn hóa Database chuẩn, VAS chuẩn
 
-**Quy trình xin nghỉ phép**
+**3.2.Quy trình xin nghỉ phép**
 
 ```mermaid
 graph TB;
