@@ -8,3 +8,10 @@ Template
 |Tên dự án|Doanh số|Doanh thu đã xuất hóa đơn|Doanh thu chưa xuất hóa đơn|Doanh thu dự kiến tháng|
 |---|---|---|---|---|
 
+## 2.Tiến độ dự án
+**2.1.Tên dự án 1**
+- Hiện tại: Đang ở giai đoạn nào? 
+- Kế hoạch tiếp theo: Bắt đầu từ ngày nào?
+- Các vướng mắc: ...
+- Công việc cần thực hiện: ...
+
