@@ -15,3 +15,11 @@ Template
 - Các vướng mắc: ...
 - Công việc cần thực hiện: ...
 
+## 3.Phổ biến quy trình, quy định công ty
+**3.1.Quy trình số 1**
+
+```mermaid
+graph TB;
+    Bước_1 --> Bước_2 --> Bước_3 --> Bước_4 --> Bước_5
+```
+
