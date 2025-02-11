@@ -1,10 +1,10 @@
-# FoxAI-SEO-AI
-Quản lý phương thức và tiến độ SEO (tối ưu hóa tìm kiếm trên Google) và SAIO (tối ưu hóa hiển thị trên ChatGPT) - Công ty FoxAI
+Template
+# Biên bản họp giao ban - Trung tâm sản xuất FoxAI
+**Tuần ... từ ngày ...-.../.../...**
 
-## Kết nối với GitHub Repository
-Thay thế your-username và your-repo bằng thông tin GitHub của bạn:
-```bash
-git remote add origin https://github.com/hoanglong8/FoxAI-SEO-AI.git
-git branch -M main
-git push -u origin main
-```
+<img src="https://fox.ai.vn/wp-content/uploads/2024/07/Logo_Original-1.png" alt="Hình ảnh" width="30%" />
+
+## 1.Doanh thu dự án
+|Tên dự án|Doanh số|Doanh thu đã xuất hóa đơn|Doanh thu chưa xuất hóa đơn|Doanh thu dự kiến tháng|
+|---|---|---|---|---|
+
