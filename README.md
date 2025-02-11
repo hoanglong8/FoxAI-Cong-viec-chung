@@ -23,3 +23,17 @@ graph TB;
     Bước_1 --> Bước_2 --> Bước_3 --> Bước_4 --> Bước_5
 ```
 
+## 4.Công tác nhân sự
+- Luân chuyển:
+- Tuyển dụng:
+  - Thực tập sinh: ...
+  - DA Power BI: ...
+  - Triển khai: ...
+  - Bảo trì - kỹ thuật SAP: ...
+- Đào tạo:
+
+- Đánh giá:
+
+## 5.Công việc khác
+
+- Ai? Làm công việc gì? Thời hạn?...
