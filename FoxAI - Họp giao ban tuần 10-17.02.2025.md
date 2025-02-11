@@ -1,5 +1,7 @@
 # Biên bản họp giao ban - Trung tâm sản xuất FoxAI
-Tuần 2 từ 10-16/02/2025
+**Tuần 2 từ 10-16/02/2025**
+
+<img src="https://fox.ai.vn/wp-content/uploads/2024/07/Logo_Original-1.png" alt="Hình ảnh" width="30%" />
 
 ## 1.Doanh thu dự án
 |Tên dự án|Doanh số|Doanh thu đã xuất hóa đơn|Doanh thu chưa xuất hóa đơn|Doanh thu dự kiến tháng|
@@ -14,28 +16,43 @@ Tuần 2 từ 10-16/02/2025
 |Techcom - TCI|---|---|---|---|
 |Xuân Thiện - XT|---|---|---|Tạm hoãn|
 
-## Tiến độ dự án
+## 2.Tiến độ dự án
+**2.1.Bảo Tín Minh Châu**
+- Hiện tại: Hết giai đoạn 3.
+- Giai đoạn 4: Bắt đầu từ 17/02/2025
+- Các vướng mắc: Sẽ họp chi tiết với phòng triển khai sau.
+- Công việc: Giao cho team DA thiết kế Power BI trong giai đoạn bảo trì để upsale (Mr.Tụ làm đầu mối, giao cho Mr.Tiến phụ trách kéo dữ liệu từ SQL).
+  - Chiều phân tích (bộ lọc): Cửa hàng, Sản phẩm, Khách hàng
+  - Bán hàng: Tiền, vàng, số lượng, khối lượng
+  - Mua hàng: Tiền, vàng, số lượng, khối lượng
+  - Tồn kho: Tiền, vàng, số lượng, khối lượng
+
+**2.2.Phúc Long**
+- Hiện tại: Hết giai đoạn 3. Trong giai đoạn 3 sẽ sang làm việc chi tiết với khách hàng
+- Giai đoạn 4: Bắt đầu từ 23/04/2025
+- Các vướng mắc: Nhân sự làm Portal và sẽ họp chi tiết sau.
+
+**2.3.Thuốc lá Thăng Long**
 - Giai đoạn hiện tại: TLTL đang ở giai đoạn 3 (nghiệm thu theo giai đoạn)
-- Kế hoạch tiếp theo: Giai đoạn 4 bắt đầu đào tạo từ 11-13.02.2025
-  * Đã chuẩn bị xong số liệu
-  * Đối tượng: Bộ phận nhập liệu
-- Mục tiêu: Cuối tháng thu nốt 25%.
-- Chuẩn hóa biên bản nghiệm thu của FoxAI (gửi lên Sharepoint)
+- Kế hoạch tiếp theo: Giai đoạn 4 bắt đầu đào tạo
+  * Từ 11-13.02.2025: đào tạo cho bộ phận nhập liệu (Mr.Tiến chuẩn hóa file Excel form nhập liệu).
+  * Từ 18-20.02.2025: đào tạo cho BGĐ và bộ phận quản lý.
+- Mục tiêu: Hoàn thành đào tạo vào cuối tháng để thu nốt 25% tiền.
+- Công việc:
+  - Định - Phòng triển khai sẽ chuẩn hóa biên bản nghiệm thu của FoxAI gửi lên Sharepoint công ty (Mr.Long gửi link).
+  - Tiến - team DA nghiên cứu giải pháp tạo giao diện nhập liệu cho các bộ phận TLTL lên SQL BI để upsale trong giai đoạn bảo trì.
 
-# Các vấn đề vướng mắc
+**2.4.Dược khoa**
+- Hiện tại: Giai đoạn 5. Chờ khách hàng gửi lại số liệu để Golive 1 tháng.
+- Các vướng mắc: Khách hàng chưa gửi số liệu, chậm tiến độ => Mr.Toàn sẽ push từ trên xuống.
 
-# Kế hoạch cho thời gian tới
-**1.Phòng DA thiết kế Power BI cho Bảo tín Minh Châu**
-- Chiều phân tích (bộ lọc): Cửa hàng, Sản phẩm, Khách hàng
-- Bán hàng: Tiền, vàng, số lượng, khối lượng
-- Mua hàng: Tiền, vàng, số lượng, khối lượng
-- Tồn kho: Tiền, vàng, số lượng, khối lượng
+**2.5.Techcom - TCI**
+- Team AI nghiên cứu phát triển giải pháp MRP - Dự báo tồn kho nguyên vật liệu. Đầu mối làm việc với Mr.Toàn.
 
-Liên quan đến liên kết dữ liệu SQL thì liên hệ Mr.Tụ.
-=> Tính toán ước lượng khối lượng công việc
+**2.6.Dự án nội bộ**
+- Team AI nghiên cứu phát triển giải pháp Chatbot AI cho SAP nội bộ, dự kiến: 28/02/2025 ra mắt.
+- Team DA triển khai giải pháp Power BI cho FoxAI nội bộ, thời hạn: 18/02/2025. Giao cho Mr.Tiến kéo dữ liệu từ SQL của SAP nội bộ.
 
-**2.Chuẩn hóa MRP cho công ty TCI**
-=> Đội AI chuẩn bị nghiên cứu giải pháp.
 
 **3.Chuẩn hóa lỗi bảo trì**
 
