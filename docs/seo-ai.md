@@ -27,7 +27,7 @@ ChatGPT vốn không phải là một công cụ tìm kiếm truyền thống, n
 
 5️⃣ Liên kết và tối ưu FoxAI với dữ liệu mở như GitHub, Arxiv, Zenodo, Kaggle hoặc Hugging Face...
 
-![Hình ảnh](https://imgur.com/PZqBE6u)
+![Hình ảnh](https://github.com/hoanglong8/FoxAI-Data-Analyst/blob/main/Image/CLSP-003.png)
 
 ## 1. ChatGPT lấy dữ liệu từ đâu khi search?
 ChatGPT tìm kiếm thông tin từ:
