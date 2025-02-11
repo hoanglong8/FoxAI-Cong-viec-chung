@@ -20,8 +20,12 @@ Template
 
 ```mermaid
 graph TB;
-    Bước_1 --> Bước_2 --> Bước_3 --> Bước_4 --> Bước_5
+    Bước_1 --> Bước_2 --> Bước_3...
 ```
+Bước 1:...
+
+Bước 2:...
+...
 
 ## 4.Công tác nhân sự
 - Luân chuyển:
