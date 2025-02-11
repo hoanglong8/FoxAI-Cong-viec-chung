@@ -61,6 +61,11 @@
 ## 3.Phổ biến quy trình, quy định công ty
 **Quy trình nhập lỗi bảo trì trên link Google Drive**
 
+```mermaid
+graph TB;
+    Nhập_lỗi_lên_Google_Drive --> Tiếp_nhận_lỗi --> Xử_lý_lỗi --> Cập_nhật_kết_quả --> Theo_dõi_follow
+```
+
 Bước 1.KH nhập lỗi trên link 
 
 Bước 2.NV bảo trì tiếp nhận lỗi
@@ -99,16 +104,47 @@ Hàng ngày, nhân viên bảo trì cập nhật trên link Google Drive (tiếp
   - Mr.Toàn chuẩn hóa Database chuẩn, VAS chuẩn
 
 **Quy trình xin nghỉ phép**
--Làm trên HRM để nhân sự có thông tin chấm công.
 
--Nhân viên xin phép, Trưởng phòng duyệt, báo lại cho PM dự án.
+```mermaid
+graph TB;
+    Nhân_viên_lập_trên_HRM --> TP_phê_duyệt --> BGĐ_BP.NS_theo_dõi --> Yêu_cầu_giải_trình_nếu_có
+```
 
+Bước 1.Nhân viên lập đơn nghỉ phép trên hrm.fox.ai.com.vn
+
+=> Mr.Toàn đề xuất phân quyền duyệt nghỉ phép trên HRM cho các trưởng phòng.
+
+-Đối với các đơn nghỉ trong tháng 2.2025 đã duyệt ngoài thì nhân viên làm bổ sung trên HRM để bộ phận nhân sự có thông tin chấm công.
+
+Bước 2.Trưởng phòng phê duyệt đơn nghỉ phép
+
+-Đối với nhân viên đang trong dự án thì vẫn xin phép trưởng phòng của mình và báo cáo lại cho PM (Project Manager) dự án.
+
+Bước 3.Bộ phận nhân sự tổng hợp chấm công
+
+Bước 4.Bộ phận nhân sự yêu cầu giải trình qua email với các trường hợp chưa rõ thông tin
 
 ## 4.Công tác nhân sự
-- Luân chuyển Mr.Lê Hải Sơn sang phòng Phân tích dữ liệu
-- Tuyển dụng thực tập sinh: không giới hạn số lượng
+- Luân chuyển Mr.Lê Hải Sơn sang phòng Phân tích dữ liệu (DA)
+- Tuyển dụng:
+  - Thực tập sinh: không giới hạn số lượng
+  - DA Power BI: 2 junior
+  - Triển khai: 4 junior trở lên
+  - Bảo trì - kỹ thuật SAP: 2 junior trở lên
+- Đào tạo:
+  - Mr.Toàn lên kế hoạch đào tạo SQL, Python...
+  - Mr.Long lên kế hoạch đào tạo Kế toán, Data Science, Data Analyst...
+  - Thời gian dự kiến: sáng thứ 7 hàng tuần (ngoài giờ để không ảnh hưởng đến chất lượng các dự án)
+- Đánh giá:
+  - Review KPIs: Mr.Toàn sẽ gửi lại danh sách để các trưởng phòng review, ngồi riêng với từng nhân viên
+  - Tăng lương: Mr.Toàn sẽ gửi và ngồi riêng với từng trưởng phòng.
 
-- DA Power BI: 2 junior
+## 5.Công việc khác
 
-
-
+- Phòng triển khai đề xuất mua máy tính cho các nhân viên đã đủ điều kiện vào chính thức (Máy MSI cấu hình chưa ổn => Đề xuất máy khác như Dell, Hp...)
+- Phòng DA đề xuất tài khoản Chat GPT dùng chung bản Plus (Tài khoản 5 account, mua 2 tài khoản)
+- Phòng DA đề xuất Server có thêm cạc đồ họa NVDIA RTX 4070, 16Gb VRAM trở lên để chạy các mô hình AI.
+- Hàng tuần, các trưởng phòng theo dõi kế hoạch và kết quả công việc tuần trên GitHub theo nguyên tắc:
+  - Dự án bên ngoài thì công việc gắn người.
+  - Dự án R&D thì người gắn với việc.
+ 
