@@ -40,4 +40,12 @@
 - Tuần sau: Lên kế hoạch đào tạo ChatGPT chatbot "FoxAI Chat"
 
 ## 5.Công việc khác
-- Long lập tờ trình mua sắm.
+- Mr.Long lập tờ trình mua sắm (hỏi Mrs.Hiền) rồi đưa lên Sharepoint.
+- Quy tắc xây dựng thư mục trên Sharepoint:
+  * KHÁCH HÀNG --> SẢN PHẨM --> TÀI LIỆU phân theo 6 thư mục sau:
+    * 1.Blue Print
+    * 2.HDSD
+    * 3.Hồ sơ dữ liệu KH gửi
+    * 4.Kế hoạch làm việc, biên bản nghiệm thu
+    * 5.Tài liệu kỹ thuật
+    * 6.Tài liệu khác
