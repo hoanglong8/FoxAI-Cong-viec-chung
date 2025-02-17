@@ -38,6 +38,7 @@
 - Đào tạo: 16h thứ 3 đào tạo sử dụng GitHub cho team BTMC.
 - Đào tạo: 15h thứ 5 họp xây lộ trình đào tạo nghiệp vụ kế toán cho TTSX.
 - Tuần sau: Lên kế hoạch đào tạo ChatGPT chatbot "FoxAI Chat"
+- Tuyển dụng: Dự kiến phỏng vấn nhân viên, thực tập sinh vào thứ 5, thứ 6 tuần này.
 
 ## 5.Công việc khác
 - Mr.Long lập tờ trình mua sắm (hỏi Mrs.Hiền) rồi đưa lên Sharepoint.
