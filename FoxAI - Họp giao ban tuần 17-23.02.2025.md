@@ -35,6 +35,9 @@
 ## 3.Phổ biến quy trình, quy định công ty
 
 ## 4.Công tác nhân sự
-- Đào tạo: 
+- Đào tạo: 16h thứ 3 đào tạo sử dụng GitHub cho team BTMC.
+- Đào tạo: 15h thứ 5 họp xây lộ trình đào tạo nghiệp vụ kế toán cho TTSX.
+- Tuần sau: Lên kế hoạch đào tạo ChatGPT chatbot "FoxAI Chat"
 
 ## 5.Công việc khác
+- Long lập tờ trình mua sắm.
