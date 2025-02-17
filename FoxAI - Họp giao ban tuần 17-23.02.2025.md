@@ -50,3 +50,4 @@
     * 4.Kế hoạch làm việc, biên bản nghiệm thu
     * 5.Tài liệu kỹ thuật
     * 6.Tài liệu khác
+- Đào tạo bộ phận bảo trì: cập nhật đầy đủ các issue hỗ trợ KH trong tuần, yêu cầu KH phải có mã issue thì mới hỗ trợ, Mr.Thắng là đầu mối tiếp nhận và điều phối các bộ phận khác cùng xử lý vấn đề cho KH.
