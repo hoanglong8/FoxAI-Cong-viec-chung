@@ -57,6 +57,7 @@
 Chốt phương án Golive: KH chọn 5 lệnh SX, 5 đơn mua hàng, 5 đơn hàng bán để thực hiện full quy trình trên hệ thống. Các chứng từ khác nếu không nhập được full quy trình thì kế toán sẽ nhập vào các chứng từ liên quan.
 
 ## 3.Công việc chung
-- Mr.Toàn xây dựng bộ dữ liệu báo cáo KQKD và BCĐKT chuẩn - Deadline: 28.02/2025
-- Mr.Toàn xây dựng khung các dự án trên GitHub để 01/03 Golive - Deadline: 28.02.2025
-- Mr.Long xây dựng tài liệu và đào tạo sử dụng Sharepoint để quản lý link tất cả tài liệu, biên bản họp giao ban 17h ngày 25/02/2025.
+- Mr.Toàn xây dựng bộ dữ liệu báo cáo KQKD và BCĐKT chuẩn - Deadline: 28/02/2025
+- Mr.Toàn xây dựng khung các dự án trên GitHub để 01/03 Golive - Deadline: 28/02/2025
+- Mr.Long xây dựng tài liệu và đào tạo sử dụng Sharepoint để quản lý link tất cả tài liệu, biên bản họp giao ban 17h ngày 25/02/2025
+- Mr.Long đào tạo Chatbot FoxAI Chat và kỹ năng prompt engineering để tối ưu LLMs - 16h ngày 25/02/2025
