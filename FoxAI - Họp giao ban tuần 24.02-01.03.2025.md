@@ -14,26 +14,26 @@
 - Kế hoạch:...
 
 **2.2.Thuốc lá Thăng Long**
-- Kế hoạch: Đào tạo cho các trưởng bộ phận ngày 27-28/02/2025
+- Kế hoạch: Đào tạo cho các trưởng bộ phận ngày 26-27/02/2025
 - Kiến nghị:...
 
 **2.3.Hỗ trợ bảo trì NEO Floor**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
-|---|---|---|---|---|---|
-|Hoàn thành|---|---|---|---||
-|Đang xử lý|---|---|---|---||
-|Chưa xử lý|---|---|---|---||
-|Tổng cộng|---|---|---|---||
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Hoàn thành|10|2|6|2|114|
+|Đang xử lý|8|1|6|1|33|
+|Chưa xử lý|1|0|1|0|6|
+|Tổng cộng|19|3|13|3|153|
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
-|---|---|---|
-|FoxAI làm thông báo chặn|||
-|Lỗi thao tác người dùng|||
-|Lỗi SAP quy chuẩn|||
-|Lỗi code|||
-|Lỗi phần mềm bên thứ 3|||
-|FoxAI từ chối thực hiện|||
-|Tổng cộng|||
+|:---:|:---:|:---:|
+|FoxAI làm thông báo chặn|0|2|
+|Lỗi thao tác người dùng|1|4|
+|Lỗi SAP quy chuẩn|0|1|
+|Lỗi code|5|10|
+|Lỗi phần mềm bên thứ 3|0|0|
+|FoxAI từ chối thực hiện|0|0|
+|Tổng cộng|6|17|
 
 **2.4.Hỗ trợ bảo trì APFCO**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
@@ -52,10 +52,3 @@
 |Lỗi phần mềm bên thứ 3|||
 |FoxAI từ chối thực hiện|||
 |Tổng cộng|||
-
-## Công tác nhân sự của phòng DA
-- Công tác C&B: Bảng chấm công hàng tuần [tại đây](https://docs.google.com/spreadsheets/d/10i4sFlOOz-D13WCeTfPkgnDDwdMlKbjK7mEapQZR_DE/edit?usp=sharing)
-- Công tác tuyển dụng: Đề xuất công ty tuyển 2 DA, 2 thực tập sinh DA và 1 Dev Back-end
-- Công tác đào tạo:
-  * Thực hành kỹ năng tạo, huấn luyện chatbot cá nhân (theo chương trình thứ 7 - ngày 22/02/2025)
-  * Đào tạo kỹ năng tùy chỉnh prompt trên ChatGPT... (đã chia sẻ tài khoản chung của công ty cho cả trung tâm)
