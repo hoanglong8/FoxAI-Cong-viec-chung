@@ -56,3 +56,5 @@
 **2.5.Dược Khoa**
 Chốt phương án Golive: KH chọn 5 lệnh SX, 5 đơn mua hàng, 5 đơn hàng bán để thực hiện full quy trình trên hệ thống. Các chứng từ khác nếu không nhập được full quy trình thì kế toán sẽ nhập vào các chứng từ liên quan.
 
+## 3.Công việc chung
+- Mr.Toàn xây dựng bộ dữ liệu báo cáo KQKD và BCĐKT chuẩn.
