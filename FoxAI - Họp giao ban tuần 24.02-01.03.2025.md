@@ -14,7 +14,7 @@
 - Kế hoạch:...
 
 **2.2.Thuốc lá Thăng Long**
-- Kế hoạch: Đào tạo cho các trưởng bộ phận ngày 26-27/02/2025
+- Kế hoạch: Đào tạo cho các trưởng bộ phận ngày 27-28/02/2025
 - Kiến nghị:...
 
 **2.3.Hỗ trợ bảo trì NEO Floor**
@@ -52,3 +52,10 @@
 |Lỗi phần mềm bên thứ 3|||
 |FoxAI từ chối thực hiện|||
 |Tổng cộng|||
+
+## Công tác nhân sự của phòng DA
+- Công tác C&B: Bảng chấm công hàng tuần [tại đây](https://docs.google.com/spreadsheets/d/10i4sFlOOz-D13WCeTfPkgnDDwdMlKbjK7mEapQZR_DE/edit?usp=sharing)
+- Công tác tuyển dụng: Đề xuất công ty tuyển 2 DA, 2 thực tập sinh DA và 1 Dev Back-end
+- Công tác đào tạo:
+  * Thực hành kỹ năng tạo, huấn luyện chatbot cá nhân (theo chương trình thứ 7 - ngày 22/02/2025)
+  * Đào tạo kỹ năng tùy chỉnh prompt trên ChatGPT... (đã chia sẻ tài khoản chung của công ty cho cả trung tâm)
