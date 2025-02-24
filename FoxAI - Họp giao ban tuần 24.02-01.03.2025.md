@@ -38,10 +38,10 @@
 **2.4.Hỗ trợ bảo trì APFCO**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
 |---|---|---|---|---|---|
-|Hoàn thành|---|---|---|---||
-|Đang xử lý|---|---|---|---||
-|Chưa xử lý|---|---|---|---||
-|Tổng cộng|---|---|---|---||
+|Hoàn thành|7|7|---|---||
+|Đang xử lý|2|0|---|---||
+|Chưa xử lý|0|0|---|---||
+|Tổng cộng|9|7|---|---||
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
 |---|---|---|
