@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zalo OAuth Callback</title>
+    <script>
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const code = urlParams.get('code');
+
+            if (code) {
+                document.getElementById("code").textContent = "Authorization Code: " + code;
+            } else {
+                document.getElementById("code").textContent = "No code received.";
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1>Zalo OAuth Callback</h1>
+    <p id="code">Waiting for authorization code...</p>
+</body>
+</html>
