@@ -61,3 +61,4 @@ Chốt phương án Golive: KH chọn 5 lệnh SX, 5 đơn mua hàng, 5 đơn h�
 - Mr.Toàn xây dựng khung các dự án trên GitHub để 01/03 Golive - Deadline: 28/02/2025
 - Mr.Long xây dựng tài liệu và đào tạo sử dụng Sharepoint để quản lý link tất cả tài liệu, biên bản họp giao ban 17h ngày 25/02/2025
 - Mr.Long đào tạo Chatbot FoxAI Chat và kỹ năng prompt engineering để tối ưu LLMs - 16h ngày 25/02/2025
+- Công ty chuẩn bị tuyển dụng nhiều vị trí tư vấn triển khai, DA, Dev... Đề nghị toàn thể nhân viên chia sẻ thông tin tuyển dụng. Đối với mỗi ứng viên vào vòng thử việc thì người giới thiệu được 500.000đ/ứng viên.
