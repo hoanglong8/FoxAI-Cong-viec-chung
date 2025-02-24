@@ -58,3 +58,5 @@ Chốt phương án Golive: KH chọn 5 lệnh SX, 5 đơn mua hàng, 5 đơn h�
 
 ## 3.Công việc chung
 - Mr.Toàn xây dựng bộ dữ liệu báo cáo KQKD và BCĐKT chuẩn.
+- Mr.Toàn Xây dựng khung các dự án trên GitHub để 01/03 Golive.
+- Mr.Long đào tạo sử dụng Sharepoint để quản lý link tất cả tài liệu, biên bản họp giao ban 17h ngày 25/02/2025.
