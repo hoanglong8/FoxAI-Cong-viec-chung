@@ -69,4 +69,4 @@ Chốt phương án Golive: KH chọn 5 lệnh SX, 5 đơn mua hàng, 5 đơn h�
 
 [Link tài liệu Sharepoint của trung tâm sản xuất](https://foxai.sharepoint.com/sites/TaiLieuTTSXFoxAI/Shared%20Documents/Forms/AllItems.aspx)
 
-Tài liệu hướng dẫn nhập liệu xem [tại đây](https://foxai.sharepoint.com/sites/TaiLieuTTSXFoxAI/Shared%20Documents/Forms/AllItems.aspx)
+Tài liệu hướng dẫn sử dụng Sharepoint xem [tại đây](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
