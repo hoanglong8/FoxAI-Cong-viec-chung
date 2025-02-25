@@ -1,5 +1,17 @@
 ## Tài liệu hướng dẫn cách quản lý tài liệu, biên bản và link trên Sharepoints
 
+## Nội dung
+
+1.[Sharepoint là gì?](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
+
+2.[Cách truy cập vào Sharepoint](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
+
+3.[Quản lý quy trình - quy định](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
+
+4.[Quản lý tài liệu dự án](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
+
+5.[Cách gắn link tài liệu](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Quy%20tr%C3%ACnh%20-%20Quy%20%C4%91%E1%BB%8Bnh/FoxAI%20-%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20li%E1%BB%87u%20tr%C3%AAn%20Sharepoint.md)
+
 ### 1.Sharepoint là gì?
 
 ![Ảnh 0](https://vina-aspire.com/wp-content/uploads/2024/03/Microsoft-Sharepoint.jpg)
