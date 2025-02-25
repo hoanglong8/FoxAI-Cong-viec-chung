@@ -42,11 +42,14 @@ Quy trình - quy định của công ty được quản lý theo sơ đồ sau:
 0.Quy trình - Quy định
 |
 |-- 1.Tài liệu quy trình
-|   |-- Quy trình số 1:...
+|   |
+|   |-- Quy trình số 1
+|   |-- Quy trình số 2
+|   |
 |-- 2.Biên bản họp giao ban
 |   |-- Năm 2025
 |   |   |-- Tháng 2
-|   |   |   |--- Tuần 1...
+|   |   |   |--- Tuần 1
 ```
 
 ![Ảnh 2](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_2.png)
