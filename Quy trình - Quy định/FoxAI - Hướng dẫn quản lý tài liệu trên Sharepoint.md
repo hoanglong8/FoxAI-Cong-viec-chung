@@ -45,7 +45,11 @@ Quy trình - quy định của công ty được quản lý theo sơ đồ sau:
 
 ![Ảnh 3](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_3.png)
 
-Tài liệu dự án được quản lý theo sơ đồ sau:
+Tài liệu dự án được quản lý theo nguyên tắc:
+
+- **Nhánh cấp 1**: 🌍 Tên khách hàng  
+  - **Nhánh cấp 2**: 📦 Tên sản phẩm  
+    - **Nhánh cấp 3**: 🔄 Tên giai đoạn triển khai  
 
 ```
 Khách hàng
@@ -57,7 +61,7 @@ Khách hàng
 |   |-- 4: Kế hoạch làm việc, biên bản nghiệm thu
 |   |-- 5: Tài liệu kỹ thuật, code
 |   |-- 6: Tài liệu khác
-|   |-- 7: Link quản lý công việc (kế hoạch tuần trên GitHub, kết quả trên SAP)
+|   |-- 7: Link từ nguồn khác (Google, GitHub, SAP...)
 |
 |-- Sản phẩm PBI
     |-- 1: Blueprint
@@ -67,12 +71,21 @@ Khách hàng
 
 ![Ảnh 4](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_4.png)
 
-### 5.Cách gắn link tài liệu từ các nguồn khác (Google Drive, Zalo, GitHub...)
+---
 
+### 5.Cách gắn link tài liệu từ các nguồn khác (Google Drive, GitHub, Website...)
 
+a.Link từ nguồn khác bao gồm:
+- **Google Drive**:       🌍 Quản lý các vấn đề theo dõi chung với khách hàng
+- **GitHub**:             📦 Quản lý kế hoạch công việc hàng tuần
+- **SAP**:                🔄 Quản lý kết quả các công việc hàng tháng 
+
+![Ảnh 7](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_7.png)
+
+b.Cách gắn link như sau:
 
 ![Ảnh 5](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_5.png)
 
 ![Ảnh 6](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_6.png)
 
-![Ảnh 7](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/image/Sharepoint_7.png)
+---
