@@ -9,4 +9,4 @@
 
 3.[Marketing](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Marketing)
 
-4.Tài liệu khác
+4.[Tài liệu khác](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/docs)
