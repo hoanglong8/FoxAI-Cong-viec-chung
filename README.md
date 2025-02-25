@@ -7,6 +7,6 @@
 
 2.[Biên bản họp giao ban hàng tuần](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp)
 
-3.Marketing
+3.[Marketing](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Marketing)
 
 4.Tài liệu khác
