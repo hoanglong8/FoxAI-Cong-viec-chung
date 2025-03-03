@@ -37,23 +37,23 @@
 |FoxAI từ chối thực hiện|0|0|
 |Tổng cộng|6|17|
 
-**2.4.Hỗ trợ bảo trì APFCO**
+**2.4.Hỗ trợ bảo trì [APFCO](https://docs.google.com/spreadsheets/d/1hrzJ8shZMMsz5Ueclong4FIQyl3XdeRd7nUgtvmYEyA/edit?gid=1120222708#gid=1120222708)**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
 |---|---|---|---|---|---|
-|Hoàn thành|7|7|---|---||
-|Đang xử lý|2|0|---|---||
-|Chưa xử lý|0|0|---|---||
-|Tổng cộng|9|7|---|---||
+|Hoàn thành|11|11|---|---|295|
+|Đang xử lý|0|0|---|---|26|
+|Chưa xử lý|0|0|---|---|0|
+|Tổng cộng|11|11|---|---|321|
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
 |---|---|---|
-|FoxAI làm thông báo chặn|||
-|Lỗi thao tác người dùng|||
-|Lỗi SAP quy chuẩn|||
-|Lỗi code|||
-|Lỗi phần mềm bên thứ 3|||
-|FoxAI từ chối thực hiện|||
-|Tổng cộng|||
+|FoxAI làm thông báo chặn||7|
+|Lỗi thao tác người dùng|3|11|
+|Lỗi SAP quy chuẩn|7|127|
+|Lỗi code|1|146|
+|Lỗi phần mềm bên thứ 3||0|
+|FoxAI từ chối thực hiện||0|
+|Tổng cộng|11|291|
 
 **2.5.Dược Khoa**
 
