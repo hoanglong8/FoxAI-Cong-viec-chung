@@ -47,12 +47,12 @@
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
 |---|---|---|
-|FoxAI làm thông báo chặn||7|
+|FoxAI làm thông báo chặn|0|7|
 |Lỗi thao tác người dùng|3|11|
 |Lỗi SAP quy chuẩn|7|127|
 |Lỗi code|1|146|
 |Lỗi phần mềm bên thứ 3||0|
-|FoxAI từ chối thực hiện||0|
+|FoxAI từ chối thực hiện|0|0|
 |Tổng cộng|11|291|
 
 **2.5.Dược Khoa**
