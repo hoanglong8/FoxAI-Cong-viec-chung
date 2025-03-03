@@ -62,3 +62,5 @@
 - Công tác nhân sự:
   - Giới thiệu ứng viên: Mr.Bang chuyển 1 hồ sơ DA => đã gửi Mr.Thủy HR để gọi tới phỏng vấn
   - TP đề xuất Mr.Ngọc chuyển sang giai đoạn thử việc bắt đầu từ ngày 03/03/2025 (Đánh giá kết quả thực tập: Đạt).
+- Mr.Toàn chia sẻ giá trị doanh thu/doanh số hợp đồng các dự án.
+- Mr.Thắng phụ trách bảo trì dự án SAP cho TLTL.
