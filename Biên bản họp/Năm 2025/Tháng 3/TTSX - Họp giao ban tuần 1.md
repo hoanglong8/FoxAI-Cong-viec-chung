@@ -58,4 +58,4 @@
 **2.5.Dược Khoa**
 
 ## 3.Công việc chung
-- ...
+- Mr.Long cùng Mr.Thắng xây dựng lộ trình đào tạo nghiệp vụ kế toán - Deadline: 03/03/2025
