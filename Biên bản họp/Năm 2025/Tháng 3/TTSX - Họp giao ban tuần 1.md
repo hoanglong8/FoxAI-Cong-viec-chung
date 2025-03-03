@@ -59,3 +59,6 @@
 
 ## 3.Công việc chung
 - Mr.Long cùng Mr.Thắng xây dựng lộ trình đào tạo nghiệp vụ kế toán - Deadline: 03/03/2025
+- Công tác nhân sự:
+  - Giới thiệu ứng viên: Mr.Bang chuyển 1 hồ sơ DA => đã gửi Mr.Thủy HR để gọi tới phỏng vấn
+  - TP đề xuất Mr.Ngọc chuyển sang giai đoạn thử việc bắt đầu từ ngày 03/03/2025 (Đánh giá kết quả thực tập: Đạt).
