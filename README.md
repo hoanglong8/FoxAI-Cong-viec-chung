@@ -9,4 +9,8 @@
 
 3.[Marketing](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Marketing)
 
-4.[Tài liệu khác](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/docs)
+4.[Hành chính nhân sự](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Marketing)
+
+5.[Tài chính kế toán](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Marketing)
+
+6.[Các tài liệu khác](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/docs)
