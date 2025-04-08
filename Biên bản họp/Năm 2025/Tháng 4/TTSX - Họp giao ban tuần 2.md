@@ -14,7 +14,10 @@
 - Các vướng mắc: ...
 - Công việc cần thực hiện: ...
 
-## 3.Phổ biến [quy trình, quy định](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=TtfWY5) công ty
+## 3.Phổ biến quy trình, quy định công ty
+
+Cập nhật 4 mẫu biểu mới nhất [tại đây](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=eZYByl)
+
 **3.1.Quy định khai báo mẫu biểu 01 - Kế hoạch tổng thể dự án**
 
 - **Mục đích:** Báo cáo tiến độ cho ban lãnh đạo công ty.
