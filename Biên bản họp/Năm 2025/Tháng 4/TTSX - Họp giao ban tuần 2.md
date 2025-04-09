@@ -23,13 +23,13 @@
 
 ## 3.Phổ biến quy trình, quy định công ty
 
-Cập nhật 4 mẫu biểu mới nhất [tại đây](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=eZYByl)
+Ngày 08/04/2025, công ty ban hành 04 mẫu quy định cụ thể như sau:
 
 **3.1.Quy định khai báo mẫu biểu 01 - Kế hoạch tổng thể dự án**
 
-- **Mục đích:** Báo cáo tiến độ cho ban lãnh đạo công ty.
-
+- **Mục đích:** Báo cáo tiến độ từng dự án cho ban lãnh đạo công ty.
 - **Người chịu trách nhiệm khai báo:** PM dự án.
+- **Thư mục quản lý:** Nằm trong thư mục từng dự án của khách hàng trên Sharepoint, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
 
 ```mermaid
 graph TB;
@@ -38,11 +38,13 @@ graph TB;
 
 **3.2.Quy định khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
 
-- **Mục đích:** Giúp trưởng phòng & PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
+- **Mục đích:** Giúp PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
 
 - **Người chịu trách nhiệm khai báo:**
   - PM dự án: đối với các công việc theo kế hoạch ở 3.1.
   - Nhân viên: đối với các công việc phát sinh ngoài kế hoạch.
+
+- **Thư mục quản lý:** Nằm trong thư mục từng dự án của khách hàng, mỗi sheet là 1 sản phẩm, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
 
 ```mermaid
 graph TB;
@@ -56,6 +58,8 @@ graph TB;
 - **Người chịu trách nhiệm khai báo:**
   - Nhân viên: Tự khai báo kết quả của cá nhân.
   - Trưởng phòng: Tổng hợp, đối chiếu với kết quả thời gian làm việc thực tế của từng nhân viên, cập nhật lên hệ thống của toàn công ty.
+ 
+- **Thư mục quản lý:** Nằm trong thư mục riêng của từng phòng ban, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
 
 ```mermaid
 graph TB;
@@ -78,11 +82,16 @@ graph TB;
 ## 4.Công tác nhân sự
 - Luân chuyển:
 - Tuyển dụng:
-  - Thực tập sinh: ...
+  - Thực tập sinh: Phòng DA tuyển thêm 2 thành viên là Sơn ở team PBI và Phúc ở team AI.
   - DA Power BI: ...
   - Triển khai: ...
   - Bảo trì - kỹ thuật SAP: ...
-- Đào tạo:
+- Đào tạo: 
+    - Tuần này trung tâm sản xuất tiếp tục đào tạo nội bộ từ 18h ngày thứ 6 (11/04/2025).
+    - Kết quả đánh giá 3 đợt:
+      - Đợt 1 có 22/22 tham gia và hoàn thành bài kiểm tra.
+      - Đợt 2 có 20/22 hoàn thành, 2 người chưa hoàn thành là Nguyễn Xuân Tiến và Trần Quang Tùng.
+      - Đợt 3 có 22/22 tham gia và hoàn thành bài kiểm tra.
 
 - Đánh giá:
 
