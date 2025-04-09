@@ -9,16 +9,17 @@
 
 ## 2.Tiến độ dự án
 **2.1.TLTL-PBI**
-- Hiện tại: Đã ký nghiệm thu giai đoạn 3 vào ngày 05/04/2025.
-- Kế hoạch tiếp theo: Bắt đầu chuyển sang giai đoạn 4 - Bảo trì từ ngày 07/04/2025.
+- Hiện tại: Đã ký nghiệm thu giai đoạn 3 vào ngày 05/04/2025 => Đã gửi Mrs.Hiền kế toán để làm đề nghị thanh toán.
+- Kế hoạch tuần này: Bắt đầu chuyển sang giai đoạn 4 - Bảo trì từ ngày 07/04/2025.
 - Các vướng mắc: ...
 - Công việc cần thực hiện: ...
+- Link cập nhật yêu cầu bảo trì tại đây - Mẫu 04
 
 **2.2.BTMC-PBI**
-- Hiện tại: Đã thiết kế xong hệ thống báo cáo, đã so sánh số liệu với POS.
-- Kế hoạch tiếp theo: Chờ 02 tài khoản Microsoft để add báo cáo vào.
-- Công việc cần thực hiện: Mr.Tiến publish báo cáo lên web để gửi cho KH xem trước khi đào tạo, viết 
-- Link cập nhật công việc dự án [tại đây](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
+- Hiện tại: Đã thiết kế xong hệ thống báo cáo, đã so sánh số liệu Mua hàng, Bán hàng & Kho với POS (đến ngày 31/03/2025).
+- Kế hoạch tuần này: Chuẩn bị đào tạo khách hàng.
+- Công việc cần thực hiện: ...
+- Link cập nhật công việc dự án [tại đây - Mẫu 02](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
 
 ## 3.Phổ biến quy trình, quy định công ty
 
