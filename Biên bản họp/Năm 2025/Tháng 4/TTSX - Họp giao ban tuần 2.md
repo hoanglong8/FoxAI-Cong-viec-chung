@@ -14,6 +14,12 @@
 - Các vướng mắc: ...
 - Công việc cần thực hiện: ...
 
+**2.2.BTMC-PBI**
+- Hiện tại: Đã thiết kế xong hệ thống báo cáo, đã so sánh số liệu với POS.
+- Kế hoạch tiếp theo: Chờ 02 tài khoản Microsoft để add báo cáo vào.
+- Công việc cần thực hiện: Mr.Tiến publish báo cáo lên web để gửi cho KH xem trước khi đào tạo, viết 
+- Link cập nhật công việc dự án [tại đây](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
+
 ## 3.Phổ biến quy trình, quy định công ty
 
 Cập nhật 4 mẫu biểu mới nhất [tại đây](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=eZYByl)
