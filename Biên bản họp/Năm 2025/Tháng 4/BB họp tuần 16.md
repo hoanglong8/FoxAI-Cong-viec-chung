@@ -53,8 +53,37 @@ graph TB;
   - `02. Quản lý dự án chung - Bảng theo dõi kế hoạch công việc hàng tuần FOXAI Nội bộ` tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Ef_XOax4kflCloZweGue-mYBskdr4NxPitdgWnB8tC6VOA?e=WzuQHS)
 
 ```mermaid
-graph TB;
-    1_Chi_tiết_CV_hàng_tuần_từng_dự_án --> 2_File_tổng_hợp_theo_Project_Manager --> 3_File_tổng_hợp_toàn_công_ty
+graph LR;
+
+  %% Leader bên phải
+  Long["👨‍💼 Leader: Nguyễn Long"]
+
+  %% PM quản lý
+  PM_BTMC["🧑‍💼 PM: Đinh Quế"]
+  PM_LVBANK["🧑‍💼 PM: Nguyễn Toàn"]
+
+  %% Dự án BTMC
+  subgraph BTMC["🏢 Dự án khách hàng BTMC"]
+    direction TB
+    BTMC_SP1["📦 BTMC-PBI"]
+    BTMC_SP2["📦 BTMC-SAP"]
+    BTMC_SP3["📦 BTMC-POS"]
+  end
+  PM_BTMC --> BTMC
+
+  %% Dự án LVBANK
+  subgraph LVBANK["🏢 Dự án LVBANK"]
+    direction TB
+    LVBANK_SP1["📦 LVBANK-PBI"]
+    LVBANK_SP2["🤖 Chatbot LVBANK"]
+    LVBANK_SP3["📦 DWH-LVBANK"]
+  end
+  PM_LVBANK --> LVBANK
+
+  %% Leader phụ trách sản phẩm
+  BTMC_SP1 --> Long
+  LVBANK_SP1 --> Long
+  LVBANK_SP2 --> Long
 ```
 
 **3.3.Quy định khai báo mẫu biểu 03 - Thời gian tham gia dự án**
