@@ -51,18 +51,18 @@ graph LR;
   %% Dự án BTMC
   subgraph BTMC["🏢 Dự án khách hàng BTMC"]
     direction TB
-    BTMC_SP1["📦 BTMC-PBI"]
-    BTMC_SP2["📦 BTMC-SAP"]
-    BTMC_SP3["📦 BTMC-POS"]
+    BTMC_SP1["📦 BTMC-PBI:🟢 Giai đoạn 1 Khảo sát"]
+    BTMC_SP2["📦 BTMC-SAP:🟡 Giai đoạn 2 Triển khai"]
+    BTMC_SP3["📦 BTMC-POS:🟠 Giai đoạn 3: UAT Kiểm thử"]
   end
   PM_BTMC --> BTMC
 
   %% Dự án LVBANK
   subgraph LVBANK["🏢 Dự án LVBANK"]
     direction TB
-    LVBANK_SP1["📦 LVBANK-PBI"]
-    LVBANK_SP2["🤖 Chatbot LVBANK"]
-    LVBANK_SP3["📦 DWH-LVBANK"]
+    LVBANK_SP1["📦 LVBANK-PBI: 🟡 Giai đoạn 2 Triển khai"]
+    LVBANK_SP2["🤖 Chatbot LVBANK: 🔴 Giai đoạn 4: Nghiệm thu"]
+    LVBANK_SP3["📦 DWH-LVBANK: 🟢 Giai đoạn 1: Khảo sát"]
   end
   PM_LVBANK --> LVBANK
 
