@@ -68,7 +68,7 @@ graph LR;
 
 **3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
 
-- **Mục đích:** Giúp PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
+- **Mục đích:** Giúp PM dự án quản lý chi tiết deadline, chất lượng các công việc (theo kế hoạch + phát sinh ngoài), số ngày công theo kế hoạch, số ngày công đã nghiệm thu, deadline Golive là ngày nào?...
 
 - **Người chịu trách nhiệm khai báo:**
   - PM dự án: đối với các công việc theo kế hoạch ở 3.1.
