@@ -210,4 +210,4 @@ graph TB
 
 ## 5.Công việc khác
 
-- Ai? Làm công việc gì? Thời hạn?...
+- Bộ phận bảo trì: Dự kiến sẽ chuyển Thắng (thực tập) và Hiếu (thực tập) sang, Mr.Toàn sẽ phụ trách cả bộ phận.
