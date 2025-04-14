@@ -112,8 +112,25 @@ graph TB;
   - Trong giai đoạn bảo trì: Khách hàng cập nhật phiếu yêu cầu, FoxAI phê duyệt thì mới được sửa trên phần mềm.
 
 ```mermaid
-graph TB;
-    1_Khai_báo_yêu_cầu(KH,NV) --> 2_Kiểm_tra_hệ_thống --> 3_Xử_lý&theo_dõi --> 4_Báo_cáo
+graph TB
+
+  %% Các đầu vào
+  InternalBugFile["📄 File theo dõi lỗi nội bộ FoxAI"]
+  ChangeRequestForm["📄 Phiếu yêu cầu thay đổi"]
+  MasterFile["📑 Mẫu 04 - File tổng hợp lỗi & yêu cầu thay đổi"]
+
+  %% Mối quan hệ tổng hợp
+  InternalBugFile --> MasterFile
+  ChangeRequestForm --> MasterFile
+
+  %% Ai cập nhật vào đâu
+  Tester["🧪 Tester"]
+  Deployer["🛠️ Nhân viên triển khai"]
+  Customer["👤 Khách hàng"]
+
+  Tester --> InternalBugFile
+  Deployer --> InternalBugFile
+  Customer --> ChangeRequestForm
 ```
 
 ## 4.Công tác nhân sự
