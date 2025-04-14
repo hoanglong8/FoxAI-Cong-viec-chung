@@ -30,13 +30,13 @@ Ngày 14/04/2025, toàn công ty thống nhất luồng cập nhật 4 mẫu bá
 - **Mục đích:** Báo cáo tiến độ từng dự án cho ban lãnh đạo công ty.
 - **Người chịu trách nhiệm khai báo:** PM dự án.
 - **Thư mục quản lý:**
-  - Báo cáo gốc nằm trong thư mục từng dự án của khách hàng, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
-  - Tự động Sharepoint sẽ cập nhật vào file tổng hợp trên thư mục tài liệu chung tại [link](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=Pt9Fcx)
-  - Hiện chưa có file tổng hợp biểu mẫu 01 - Toàn công ty tại [link](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EtkKk23UpydBre5wW1_fZEQBHsBp0p2zw3UXNUJil6oykg?e=szfNVl)
+  - Báo cáo gốc theo từng sản phẩm của từng dự án khách hàng, mỗi SP là 1 sheet, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
+  - File tổng hợp theo leader, PM tại [link](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EsCdHatkZXRMqusbhk-c5RQBYgXP77xblXnB-19LI4_J9g?e=Pt9Fcx)
+  - File tổng hợp biểu mẫu 01 - Toàn công ty tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/ETIBybqoo7pPpO6-XSaXe0EBrPzY4kUBb5FvCeJQBBnBAQ?e=r1EbaE)
 
 ```mermaid
 graph TB;
-    1_KH_tổng_thể_từng_dự_án --> 2_File_tổng_hợp_theo_Project_Manager --> 3_File_tổng_hợp_toàn_công_ty
+    1_Kế_hoạch_từng_SP --> 2_File_tổng_hợp_theo_PM_Leader --> 3_File_tổng_hợp_toàn_công_ty
 ```
 
 **3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
@@ -91,14 +91,16 @@ graph LR;
 - **Mục đích:** Giúp công ty phân bổ được số ngày công thực hiện theo từng dự án để tính toán chi phí thực tế.
 
 - **Người chịu trách nhiệm khai báo:**
-  - Nhân viên: Tự khai báo kết quả của cá nhân.
+  - Nhân viên: Tự khai báo kết quả của cá nhân hàng tuần
   - Trưởng phòng: Tổng hợp, đối chiếu với kết quả thời gian làm việc thực tế của từng nhân viên, cập nhật lên hệ thống của toàn công ty.
  
-- **Thư mục quản lý:** Nằm trong thư mục riêng của từng phòng ban, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
+- **Thư mục quản lý:**
+  - File gốc nằm trong thư mục riêng của từng phòng ban, mỗi tuần là 1 sheet, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
+  - File tổng hợp toàn công ty tại [đây](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/ESbc7o7tpXNMilSeUmVewlsBF2nUZOE4gio5b-X2lDkUZw?e=3lEVrf)
 
 ```mermaid
 graph TB;
-    1_NV_tự_khai_báo --> 2_TP_kiểm_tra_cập_nhật --> 3_Công_ty_phân_bổ_CP --> 4_Báo_cáo
+    1_NV_tự_khai_báo_hàng_ngày --> 2_TP_kiểm_tra_cập_nhật_file_tổng_hợp
 ```
 
 **3.4.Quy định khai báo mẫu biểu 04 - Theo dõi lỗi & yêu cầu thay đổi hệ thống**
@@ -117,16 +119,12 @@ graph TB;
 ## 4.Công tác nhân sự
 - Luân chuyển:
 - Tuyển dụng:
-  - Thực tập sinh: Phòng DA tuyển thêm 2 thành viên là Sơn ở team PBI và Phúc ở team AI.
+  - Thực tập sinh: ...
   - DA Power BI: ...
   - Triển khai: ...
   - Bảo trì - kỹ thuật SAP: ...
 - Đào tạo: 
-    - Tuần này trung tâm sản xuất tiếp tục đào tạo nội bộ từ 18h ngày thứ 6 (11/04/2025).
-    - Kết quả đánh giá 3 đợt:
-      - Đợt 1 có 22/22 tham gia và hoàn thành bài kiểm tra.
-      - Đợt 2 có 20/22 hoàn thành, 2 người chưa hoàn thành là Nguyễn Xuân Tiến và Trần Quang Tùng.
-      - Đợt 3 có 22/22 tham gia và hoàn thành bài kiểm tra.
+    - Tuần này trung tâm sản xuất tiếp tục đào tạo nội bộ từ 18h ngày thứ 6 (18/04/2025). Đề cử Đinh Thị Quế làm lớp trưởng tạm quyền chịu trách nhiệm thông báo cho toàn bộ học viên ở trung tâm (Ít nhất sớm trước 02 ngày so với ngày đào tạo để mọi người sắp xếp lịch cán nhân).
 
 - Đánh giá:
 
