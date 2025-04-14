@@ -25,7 +25,7 @@
 
 Ngày 14/04/2025, toàn công ty thống nhất luồng cập nhật 4 mẫu báo cáo cụ thể như sau:
 
-**3.1.Luồn khai báo mẫu biểu 01 - Kế hoạch tổng thể dự án**
+**3.1.Luồng khai báo mẫu biểu 01 - Kế hoạch tổng thể dự án**
 
 - **Mục đích:** Báo cáo tiến độ từng dự án cho ban lãnh đạo công ty.
 - **Người chịu trách nhiệm khai báo:** PM dự án.
@@ -39,7 +39,7 @@ graph TB;
     1_KH_tổng_thể_từng_dự_án --> 2_File_tổng_hợp_theo_Project_Manager --> 3_File_tổng_hợp_toàn_công_ty
 ```
 
-**3.2.Quy định khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
+**3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
 
 - **Mục đích:** Giúp PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
 
@@ -47,11 +47,14 @@ graph TB;
   - PM dự án: đối với các công việc theo kế hoạch ở 3.1.
   - Nhân viên: đối với các công việc phát sinh ngoài kế hoạch.
 
-- **Thư mục quản lý:** Nằm trong thư mục từng dự án của khách hàng, mỗi sheet là 1 sản phẩm, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
+- **Thư mục quản lý:**
+  - Báo cáo gốc do leader và nhân viên khai báo cho từng sản phẩm của KH, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
+  - Báo cáo tổng hợp theo KH sẽ được Sharepoint tự động cập nhật vào từng sheet, mỗi sheet là 1 sản phẩm tại [link]
+  - `02. Quản lý dự án chung - Bảng theo dõi kế hoạch công việc hàng tuần FOXAI Nội bộ` tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Ef_XOax4kflCloZweGue-mYBskdr4NxPitdgWnB8tC6VOA?e=WzuQHS)
 
 ```mermaid
 graph TB;
-    1_PM_giao_việc --> 2_Nhân_viên_cập_nhật --> 3_Xử_lý_công_việc --> 4_Báo_cáo
+    1_Chi_tiết_CV_hàng_tuần_từng_dự_án --> 2_File_tổng_hợp_theo_Project_Manager --> 3_File_tổng_hợp_toàn_công_ty
 ```
 
 **3.3.Quy định khai báo mẫu biểu 03 - Thời gian tham gia dự án**
