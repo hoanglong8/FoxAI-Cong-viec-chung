@@ -35,32 +35,18 @@ Ngày 14/04/2025, toàn công ty thống nhất luồng cập nhật 4 mẫu bá
   - File tổng hợp biểu mẫu 01 - Toàn công ty tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/ETIBybqoo7pPpO6-XSaXe0EBrPzY4kUBb5FvCeJQBBnBAQ?e=r1EbaE)
 
 ```mermaid
-graph TB;
-    1_Kế_hoạch_từng_SP --> 2_File_tổng_hợp_theo_PM_Leader --> 3_File_tổng_hợp_toàn_công_ty
-```
-
-**3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
-
-- **Mục đích:** Giúp PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
-
-- **Người chịu trách nhiệm khai báo:**
-  - PM dự án: đối với các công việc theo kế hoạch ở 3.1.
-  - Nhân viên: đối với các công việc phát sinh ngoài kế hoạch.
-
-- **Thư mục quản lý:**
-  - Báo cáo gốc do leader và nhân viên khai báo cho từng sản phẩm của KH, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
-  - Báo cáo tổng hợp theo KH sẽ được Sharepoint tự động cập nhật vào từng sheet, mỗi sheet là 1 sản phẩm tại [link]
-  - `02. Quản lý dự án chung - Bảng theo dõi kế hoạch công việc hàng tuần FOXAI Nội bộ` tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Ef_XOax4kflCloZweGue-mYBskdr4NxPitdgWnB8tC6VOA?e=WzuQHS)
-
-```mermaid
 graph LR;
 
-  %% Leader bên phải
-  Long["👨‍💼 Leader: Nguyễn Long"]
+  %% Ban lãnh đạo cấp cao
+  Boss["🏛️ Ban lãnh đạo công ty"]
 
   %% PM quản lý
   PM_BTMC["🧑‍💼 PM: Đinh Quế"]
   PM_LVBANK["🧑‍💼 PM: Nguyễn Toàn"]
+
+  %% Mối quan hệ quản lý
+  Boss --> PM_BTMC
+  Boss --> PM_LVBANK
 
   %% Dự án BTMC
   subgraph BTMC["🏢 Dự án khách hàng BTMC"]
@@ -80,10 +66,80 @@ graph LR;
   end
   PM_LVBANK --> LVBANK
 
-  %% Leader phụ trách sản phẩm
-  BTMC_SP1 --> Long
-  LVBANK_SP1 --> Long
-  LVBANK_SP2 --> Long
+```
+
+**3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
+
+- **Mục đích:** Giúp PM dự án quản lý chi tiết deadline và chất lượng các công việc (theo kế hoạch + phát sinh ngoài).
+
+- **Người chịu trách nhiệm khai báo:**
+  - PM dự án: đối với các công việc theo kế hoạch ở 3.1.
+  - Nhân viên: đối với các công việc phát sinh ngoài kế hoạch.
+
+- **Thư mục quản lý:**
+  - Báo cáo gốc do leader và nhân viên khai báo cho từng sản phẩm của KH, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/EdGUkESgaDVCkQFkZ3m3wnUB1Yw6Rsk82gyNjOlYNVotOw?e=6hBfmI)
+  - Báo cáo tổng hợp theo KH sẽ được Sharepoint tự động cập nhật vào từng sheet, mỗi sheet là 1 sản phẩm tại [link]
+  - `02. Quản lý dự án chung - Bảng theo dõi kế hoạch công việc hàng tuần FOXAI Nội bộ` tại [link](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Ef_XOax4kflCloZweGue-mYBskdr4NxPitdgWnB8tC6VOA?e=WzuQHS)
+
+```mermaid
+graph LR;
+
+  %% PM các dự án
+  PM_BTMC["🧑‍💼 PM: Đinh Quế"]
+  PM_TLTL["🧑‍💼 PM: Nguyễn Toàn"]
+
+  %% Danh sách Leader phụ trách sản phẩm
+  Long["👨‍💼 Leader PBI: Nguyễn Long"]
+  Định["👨‍💼 Leader SAP: Lê Định"]
+
+  %% Dự án BTMC
+  subgraph BTMC["🏢 Dự án BTMC"]
+    direction TB
+    BTMC_PBI["📦 BTMC-PBI"]
+    BTMC_SAP["📦 BTMC-SAP"]
+    BTMC_POS["📦 BTMC-POS"]
+    
+    BTMC_Dev["💻 Dev Team BTMC"]
+    BTMC_QA["🧪 QA BTMC"]
+    BTMC_BA["📋 BA BTMC"]
+  end
+
+  %% Dự án TLTL
+  subgraph TLTL["🏢 Dự án TLTL"]
+    direction TB
+    TLTL_PBI["📦 TLTL-PBI"]
+    TLTL_SAP["📦 TLTL-SAP"]
+
+    TLTL_Dev["💻 Dev Team TLTL"]
+    TLTL_QA["🧪 QA TLTL"]
+    TLTL_BA["📋 BA TLTL"]
+  end
+
+  %% PM quản lý dự án
+  PM_BTMC --> BTMC
+  PM_TLTL --> TLTL
+
+  %% Leader gắn với sản phẩm
+  BTMC_PBI --> Long
+  TLTL_PBI --> Long
+  BTMC_SAP --> Định
+  TLTL_SAP --> Định
+
+  %% Gắn team vào từng dự án
+  BTMC_Dev --> BTMC_PBI
+  BTMC_Dev --> BTMC_SAP
+  BTMC_QA --> BTMC_PBI
+  BTMC_QA --> BTMC_SAP
+  BTMC_BA --> BTMC_PBI
+  BTMC_BA --> BTMC_SAP
+
+  TLTL_Dev --> TLTL_PBI
+  TLTL_Dev --> TLTL_SAP
+  TLTL_QA --> TLTL_PBI
+  TLTL_QA --> TLTL_SAP
+  TLTL_BA --> TLTL_PBI
+  TLTL_BA --> TLTL_SAP
+
 ```
 
 **3.3.Quy định khai báo mẫu biểu 03 - Thời gian tham gia dự án**
@@ -91,16 +147,23 @@ graph LR;
 - **Mục đích:** Giúp công ty phân bổ được số ngày công thực hiện theo từng dự án để tính toán chi phí thực tế.
 
 - **Người chịu trách nhiệm khai báo:**
-  - Nhân viên: Tự khai báo kết quả của cá nhân hàng tuần
-  - Trưởng phòng: Tổng hợp, đối chiếu với kết quả thời gian làm việc thực tế của từng nhân viên, cập nhật lên hệ thống của toàn công ty.
+  - Nhân viên: Tự khai báo kết quả của cá nhân hàng ngày/tuần lên `Mẫu 03A - Thời gian tham gia dự án của nhân viên theo phòng ban` (có thể khai báo chi tiết theo ngày).
+  - Trưởng phòng: Tổng hợp, đối chiếu với kết quả thời gian làm việc thực tế của từng nhân viên, cập nhật lên `Mẫu 03B - Thời gian tham gia dự án của toàn công ty` (tổng hợp theo tuần).
  
 - **Thư mục quản lý:**
   - File gốc nằm trong thư mục riêng của từng phòng ban, mỗi tuần là 1 sheet, [ví dụ](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/Edd9jKWKinpPtAaDHYm2vF8BrIsdKqYHDxyPnXtEvn9WFg?e=lGNxbn)
   - File tổng hợp toàn công ty tại [đây](https://foxai.sharepoint.com/:x:/s/TaiLieuTTSXFoxAI/ESbc7o7tpXNMilSeUmVewlsBF2nUZOE4gio5b-X2lDkUZw?e=3lEVrf)
 
 ```mermaid
-graph TB;
-    1_NV_tự_khai_báo_hàng_ngày --> 2_TP_kiểm_tra_cập_nhật_file_tổng_hợp
+sequenceDiagram
+  participant Nhân_viên as 👩‍💼 Nhân viên
+  participant Mẫu_03A as 📄 Mẫu 03A<br>Chi tiết theo ngày
+  participant Trưởng_phòng as 👨‍💼 Trưởng phòng
+  participant Mẫu_03B as 📄 Mẫu 03B<br>Tổng hợp theo tuần
+
+  Nhân_viên->>Mẫu_03A: Khai báo kết quả cá nhân hàng tuần
+  Trưởng_phòng->>Mẫu_03A: Đối chiếu thời gian thực tế
+  Trưởng_phòng->>Mẫu_03B: Cập nhật tổng hợp theo tuần
 ```
 
 **3.4.Quy định khai báo mẫu biểu 04 - Theo dõi lỗi & yêu cầu thay đổi hệ thống**
