@@ -197,7 +197,7 @@ graph TB
 ```
 
 ## 4.Công tác nhân sự
-- Luân chuyển:
+- Luân chuyển/Thay đổi: Anh Trương Minh Thắng - bộ phận bảo trì nghỉ việc từ ngày 12/04/2025.
 - Tuyển dụng:
   - Thực tập sinh: ...
   - DA Power BI: ...
