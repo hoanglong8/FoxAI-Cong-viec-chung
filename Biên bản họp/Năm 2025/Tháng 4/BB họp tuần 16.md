@@ -9,7 +9,7 @@
 
 ## 2.Tiến độ dự án
 **2.1.TLTL-PBI**
-- Hiện tại: Đã ký nghiệm thu giai đoạn 3 vào ngày 05/04/2025 => Đã gửi Mrs.Hiền kế toán để làm đề nghị thanh toán.
+- Hiện tại: 
 - Kế hoạch tuần này: Bắt đầu chuyển sang giai đoạn 4 - Bảo trì từ ngày 07/04/2025.
 - Các vướng mắc: ...
 - Công việc cần thực hiện: ...
@@ -36,7 +36,6 @@ Ngày 14/04/2025, toàn công ty thống nhất luồng cập nhật 4 mẫu bá
 
 ```mermaid
 graph LR;
-
   %% Ban lãnh đạo cấp cao
   Boss["🏛️ Ban lãnh đạo công ty"]
 
@@ -65,7 +64,6 @@ graph LR;
     LVBANK_SP3["📦 DWH-LVBANK: 🟢 Giai đoạn 1: Khảo sát"]
   end
   PM_LVBANK --> LVBANK
-
 ```
 
 **3.2.Luồng khai báo mẫu biểu 02 - Theo dõi chi tiết công việc hàng tuần**
@@ -83,7 +81,6 @@ graph LR;
 
 ```mermaid
 graph LR;
-
   %% PM các dự án
   PM_BTMC["🧑‍💼 PM: Đinh Quế"]
   PM_TLTL["🧑‍💼 PM: Nguyễn Toàn"]
@@ -139,7 +136,6 @@ graph LR;
   TLTL_QA --> TLTL_SAP
   TLTL_BA --> TLTL_PBI
   TLTL_BA --> TLTL_SAP
-
 ```
 
 **3.3.Quy định khai báo mẫu biểu 03 - Thời gian tham gia dự án**
@@ -176,7 +172,6 @@ sequenceDiagram
 
 ```mermaid
 graph TB
-
   %% Các đầu vào
   InternalBugFile["📄 File theo dõi lỗi nội bộ FoxAI"]
   ChangeRequestForm["📄 Phiếu yêu cầu thay đổi"]
