@@ -33,14 +33,24 @@ Dự án TLTL - Biên bản Golive => Kiểm tra lại
 ...
 
 ## 4.Công tác nhân sự
-- Luân chuyển/Thay đổi nhân sự: Ninh Thắng (fresher) và Trung Hiếu (fresher) sẽ chuyển sang bộ phận bảo trì SAP.
-- Công tác tuyển dụng:
-- Công tác đào tạo: 
-    - Tuần này trung tâm sản xuất tạm dừng đào tạo nội bộ do nghỉ lễ.
-  - Đào tạo nội bộ quản lý:
-  - Mr.Toàn xây dựng khung chương trình đào tạo kiến thức chuyên môn: SAP, kỹ thuật SQL, nghiệp vụ kế toán...
-  - Mr.Toàn xây dựng kỹ năng quản lý: QL bản thân (làm gương, chịu trách nhiệm, ghi nhận kết quả), Kỹ năng giải quyết vấn đề, QL thời gian, Kỹ năng điều hành, kỹ năng đắc nhân tâm, kỹ năng quản lý rủi ro - sự thay đổi.
-- Đào tạo nội bộ nhân viên:
+### 4.1.Luân chuyển/Thay đổi nhân sự: 
+Ninh Thắng (fresher) và Trung Hiếu (fresher) sẽ chuyển sang bộ phận bảo trì SAP.
+
+### 4.2.Công tác tuyển dụng:
+
+### 4.3.Công tác đào tạo: 
+- Tuần này trung tâm sản xuất tạm dừng đào tạo nội bộ do nghỉ lễ.
+- Về đào tạo nội bộ quản lý: Mr.Toàn chịu trách nhiệm xây dựng khung chương trình đào tạo và thuê giảng viên ngoài (nếu có).
+  - Khung kiến thức chuyên môn bao gồm: Am hiểu SAP, kỹ thuật lập trình SQL, nghiệp vụ kế toán, kỹ thuật lập trình Python, am hiểu nghiệp vụ business...
+  - Khung kỹ năng quản lý:
+    - QL bản thân (làm gương, chịu trách nhiệm, ghi nhận kết quả),
+    - Kỹ năng giải quyết vấn đề,
+    - Kỹ năng quản lý thời gian & nguồn lực,
+    - Kỹ năng điều hành cuộc họp,
+    - Kỹ năng quản lý nhân tâm,
+    - Kỹ năng quản lý rủi ro & sự thay đổi.
+
+- Về đào tạo nội bộ nhân viên:
   - Kiến thức chuyên môn: chia theo vị trí học kiến thức gì, level nào (Ví dụ: nguyên lý kế toán, kế toán trên SAP, kế toán chuyên sâu lvl.3)
   - Cách làm:
     - Xây dựng giáo trình
@@ -49,9 +59,14 @@ Dự án TLTL - Biên bản Golive => Kiểm tra lại
     - Quay video clip + tài liệu
     - Cập nhật, bổ sung tài liệu.
 => Thứ 3: Mr.Long xây dựng bộ câu hỏi về video 1.Tổng quan về SAP IRS gửi cho Mr.Toàn.
-  - Tự học: Trưởng phòng giao cho nhân viên khóa học về 1 kiến thức => Yêu cầu cho NV quay video nói về nội dung mình đã học được (1.Tuần vừa rồi tôi học được kiến thức gì, 2.Kiến thức thứ nhất là..., 3 Kiến thức thứ 2 là ..., 5.Tổng kết lại...) => Gửi cho giám khảo (Mr.Toàn) chấm điểm.
-=> 9h sáng ngày 29.4 => Mr.Toàn truyền thông cho toàn trung tâm về nội dung đào tạo nội bộ trên.
+
+- Về chương trình tự học của nhân viên:
+  - Hàng tuần trưởng phòng giao cho nhân viên khóa học về 1 kiến thức => Yêu cầu cho NV quay video nói về nội dung mình đã học được (1.Tuần vừa rồi tôi học được kiến thức gì, 2.Kiến thức thứ nhất là..., 3 Kiến thức thứ 2 là ..., 5.Tổng kết lại...) => Gửi cho giám khảo chấm điểm. Thời gian: 9h sáng ngày 29.4 => Mr.Toàn truyền thông cho toàn trung tâm về nội dung đào tạo nội bộ trên.
 - Công tác kiểm tra đánh giá:
+  - Phòng DA: Đã triển khai tự đào tạo nội bộ ở 3 vị trí
+  - Data Analyst: Đã tự đào tạo xong khóa `Power BI 101 - Microsoft Power BI DUAL Certification Course`, tài liệu tại [đây](https://github.com/hoanglong8/FoxAI-Elearning/blob/main/C%C3%A1c%20kh%C3%B3a%20h%E1%BB%8Dc%20v%C3%A0%20ebook%20v%E1%BB%81%20Data%20Analyst.md) và chứng chỉ lưu [tại đây](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/Em0D44HIZP1OrRj7XxMgLY8BjmoWawix93vAK1ol3EIm9g?e=ebphY4).
+  - Team Data Scientist: Đang phân công tự học khóa `Data Science: Machine Learning của ĐH Harvard trên Edx`, tài liệu tại [đây](https://github.com/hoanglong8/FoxAI-Elearning/blob/main/C%C3%A1c%20kh%C3%B3a%20h%E1%BB%8Dc%20v%C3%A0%20ebook%20v%E1%BB%81%20Data%20Engineering.md). Deadline: 10.05.2025
+  - Team AI Engineering: Đang phân công tự học khóa `IBM Artificial intelligence - Free learning and resources`, tài liệu tại [đây](https://github.com/hoanglong8/FoxAI-Elearning/blob/main/C%C3%A1c%20kh%C3%B3a%20h%E1%BB%8Dc%20v%C3%A0%20ebook%20v%E1%BB%81%20AI%20Engineering.md). Deadline: 10.05.2025
 
 ## 5.Công việc khác
 
