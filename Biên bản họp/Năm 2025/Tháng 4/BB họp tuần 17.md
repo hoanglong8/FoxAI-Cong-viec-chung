@@ -34,11 +34,12 @@
 
 - Xem xét lại quy trình phát triển sản phẩm mới, đặc biệt vị trí BA, công tác viết tài liệu giải pháp, công tác lập trình DevOps, công tác tester, công tác chuyển giao nội bộ... Chiến lược công ty vẫn không thay đổi, sẽ là triển khai PM chuẩn cho nhiều KH.
 - TTSX kiến nghị họp hàng tuần giữa TTSX với TT R&D, việc đào tạo chuyển giao giữa TTR&D với TTSX.
-- Về MSTT: Tính năng kết nối liên kết database,
-- Về SAP: VAS chuẩn, báo cáo hợp nhất, EAM, xây dựng bộ báo cáo check dữ liệu để giúp KH biết cách xử lý, sửa lỗi...
-- Mr.Toàn chịu trách nhiệm xây dựng xây dựng các công cụ trên (làm việc với đội bảo trì) và đào tạo nội bộ (bổ sung kiến thức, kỹ năng cho nhân viên TTSX).
-- Econect: LSX -> Trạm trộn -> SAP
-- PBI - LHC: Mr.Định phụ trách khảo sát yêu cầu của LHC về báo cáo của ban lãnh đạo (ký xác nhận) để team PBI xây dựng => Tuần 5/5-10/5: team PBI họp với team triển khai SAP để trình bày bản demo PBI trước khi qua khảo sát KH.
+- Dự án LHC: Tính năng kết nối liên kết database
+  - Về MSTT: Dự kiến sẽ đào tạo + chạy thử bắt đầu từ ngày 3.6.2025
+  - Về SAP: VAS chuẩn, báo cáo hợp nhất, EAM, xây dựng bộ báo cáo check dữ liệu để giúp KH biết cách xử lý, sửa lỗi...
+  - Mr.Toàn chịu trách nhiệm xây dựng xây dựng các công cụ trên (làm việc với đội bảo trì) và đào tạo nội bộ (bổ sung kiến thức, kỹ năng cho nhân viên TTSX).
+  - Econect: LSX -> Trạm trộn -> SAP
+  - PBI - LHC: Mr.Định phụ trách khảo sát yêu cầu của LHC về báo cáo của ban lãnh đạo (ký xác nhận) để team PBI xây dựng => Tuần 5/5-10/5: team PBI họp với team triển khai SAP để trình bày bản demo PBI trước khi qua khảo sát KH.
 - BTMC: Mrs.Quế tham gia họp với KH để chốt tồn kho tại thời điểm 30.4 (các TK kế toán khác chưa có số dư) => 15.5 bắt đầu nhập liệu thử => 5.6 dự kiến Golive, đồng bộ POS về SAP. Chiều ngày 28/4 => Mrs.Quế chốt lịch đào tạo PBI với KH BTMC và danh sách các báo cáo quản trị quan trọng hiện tại của ban lãnh đạo (Mr.Tú) và quản lý (Mrs.Miền).
 - Về thiết kế hệ thống: Mr.Toàn cần luồng workflow từ A -> Z của KH (hiện tại nhân viên đang bị sa đà vào các tính năng, tiện ích cho KH).
 - Về hệ thống báo cáo: Phải khảo sát ra được `Tên báo cáo` và `Form` báo cáo KH đang vận hành để xây dựng (phiên bản 1, phiên bản 2), để nghiệm thu tiền, để Golive, để làm biên bản thanh lý.
