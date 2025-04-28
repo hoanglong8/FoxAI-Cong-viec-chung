@@ -6,7 +6,6 @@
 ## 1.Doanh thu dự án
 |Tên dự án|Doanh số|Doanh thu đã xuất hóa đơn|Doanh thu chưa xuất hóa đơn|Doanh thu dự kiến tháng|
 |---|---|---|---|---|
-Dự án TLTL - Biên bản Golive => Kiểm tra lại
 
 ## 2.Tiến độ dự án
 **2.1.Dự án LHC**
@@ -27,6 +26,13 @@ Dự án TLTL - Biên bản Golive => Kiểm tra lại
 
 - Về dự án chatbot private: Thứ 3, Mr.Long đưa ra 4 mốc quan trọng (tài liệu chung, tài liệu phân quyền, báo cáo tĩnh SAP, báo cáo động & cảnh báo) -> họp với Mr.Toàn.
 - Về dự án PBI nội bộ: Chỉnh lại mẫu 1, mẫu 3 bổ sung thêm các giai đoạn quan trọng ảnh hưởng lên kết quả của dự án => thứ 3 trình bày với Mr.Toàn.
+
+**2.4.Dự án TLTL**
+
+- PBI: Mrs.Ngân phối hợp cùng Ms.Quỳnh Anh hoàn thiện `Biên bản Golive` để in ra, ký và gửi cho KH.
+- Bảo trì SAP - Tài chính kế toán
+- WMS
+- Chatbot Private: 
 
 ## 3.Phổ biến quy trình, quy định công ty
 
