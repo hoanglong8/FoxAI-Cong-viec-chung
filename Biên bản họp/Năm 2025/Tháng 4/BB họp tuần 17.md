@@ -58,3 +58,4 @@
     - Cập nhật, bổ sung tài liệu.
 => Thứ 3: Mr.Long xây dựng bộ câu hỏi về video 1.Tổng quan về SAP IRS gửi cho Mr.Toàn.
   - Tự học: Trưởng phòng giao cho nhân viên khóa học về 1 kiến thức => Yêu cầu cho NV quay video nói về nội dung mình đã học được (1.Tuần vừa rồi tôi học được kiến thức gì, 2.Kiến thức thứ nhất là..., 3 Kiến thức thứ 2 là ..., 5.Tổng kết lại...) => Gửi cho giám khảo (Mr.Toàn) chấm điểm.
+=> 9h sáng ngày 29.4 => Mr.Toàn truyền thông cho toàn trung tâm về nội dung đào tạo nội bộ trên.
