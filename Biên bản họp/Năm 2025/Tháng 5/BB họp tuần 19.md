@@ -40,14 +40,19 @@
 
 
 ## 5.Công việc khác
-### 5.1.Công tác chuyển giao sản phẩm
+### 5.1.Quy trình phát triển sản phẩm mới
 
+- Demo cho khách hàng bằng `giao diện Figma` chứ không cần phải code.
 - Công tác khảo sát (kịch bản từ A->Z phải chạy được) => Thiết kế hệ thống (bao gồm cả `Quy trình Test case`) => Chuyển giao hệ thống => Đào tạo KH.
+- Tài liệu Blueprint phải thống nhất được tất cả các trường có ảnh hưởng tới hệ thống.
 
 - Chuyển giao sản phẩm: bao gồm cả tài liệu hướng dẫn sử dụng + test case + version 1.0
-- Khi nâng cấp phiên bản thì vẫn có thể backup được phiên bản cũ: version 2.0 (bao gồm các tính năng gì)
-- Khi nâng cấp tính năng B thì không được làm mất tính năng A: version 10.0 (khi phát sinh lỗi thì sửa lỗi cho khách hàng thành version 10.1, bản fix lỗi thì có cập nhật lên version 11.0)
-
+  (Tách riêng từng giai đoạn trong mỗi phiên bản:
+  v1.1: Tạo và thêm báo cáo
+  v1.2: Thêm tính năng tiện ích)
+- Khi nâng cấp phiên bản thì vẫn có thể backup được phiên bản cũ: version 2.0 (bao gồm các tính năng gì, đặt tên phiên bản 2.1.10 có thay đổi tính năng gì).
+- Khi nâng cấp tính năng B thì không được làm mất tính năng A: version 10.0 (khi phát sinh lỗi thì sửa lỗi cho khách hàng thành version 10.1, bản fix lỗi thì có cập nhật lên version 11.0).
+- Đối với SAP, cần đào tạo cho nhân viên BA hiểu được các trường `key` trong các màn hình giao diện phần mềm.
 
 ### 5.2.Trao đổi thông tin, đào tạo nội bộ, tương tác giữa TT R&D và TTSX
 
