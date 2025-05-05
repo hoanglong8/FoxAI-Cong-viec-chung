@@ -44,9 +44,9 @@
 
 - Công tác khảo sát (kịch bản từ A->Z phải chạy được) => Thiết kế hệ thống (bao gồm cả `Quy trình Test case`) => Chuyển giao hệ thống => Đào tạo KH.
 
-- Chuyển giao sản phẩm: bao gồm cả tài liệu hướng dẫn sử dụng + test case.
-- Khi nâng cấp phiên bản thì vẫn có thể backup được phiên bản cũ
-- Khi nâng cấp tính năng B thì không được làm mất tính năng A.
+- Chuyển giao sản phẩm: bao gồm cả tài liệu hướng dẫn sử dụng + test case + version 1.0
+- Khi nâng cấp phiên bản thì vẫn có thể backup được phiên bản cũ: version 2.0 (bao gồm các tính năng gì)
+- Khi nâng cấp tính năng B thì không được làm mất tính năng A: version 10.0 (khi phát sinh lỗi thì sửa lỗi cho khách hàng thành version 10.1, bản fix lỗi thì có cập nhật lên version 11.0)
 
 
 ### 5.2.Trao đổi thông tin, đào tạo nội bộ, tương tác giữa TT R&D và TTSX
