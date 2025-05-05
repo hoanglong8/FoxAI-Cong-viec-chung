@@ -40,3 +40,18 @@
 
 
 ## 5.Công việc khác
+### 5.1.Công tác chuyển giao sản phẩm
+
+- Công tác khảo sát (kịch bản từ A->Z phải chạy được) => Thiết kế hệ thống (bao gồm cả `Quy trình Test case`) => Chuyển giao hệ thống => Đào tạo KH.
+
+- Chuyển giao sản phẩm: bao gồm cả tài liệu hướng dẫn sử dụng + test case.
+- Khi nâng cấp phiên bản thì vẫn có thể backup được phiên bản cũ
+- Khi nâng cấp tính năng B thì không được làm mất tính năng A.
+
+
+### 5.2.Trao đổi thông tin, đào tạo nội bộ, tương tác giữa TT R&D và TTSX
+
+- Đào tạo hệ thống, hiểu quy trình nghiệp vụ cho nội bộ
+- Khi nào TT R&D không phải đi hỗ trợ KH sau Golive nữa
+- Chưa có tài liệu giải pháp trong quá trình khảo sát
+
