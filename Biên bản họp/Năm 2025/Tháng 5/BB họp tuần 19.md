@@ -10,13 +10,15 @@
 ## 2.Tiến độ dự án
 **2.1.Dự án LHC**
 
+- Đối với kế hoạch trên hợp đồng => phải có deadline với KH, deadline nội bộ (phải sớm hơn khoảng 10 ngày để có khoảng thay đổi).
+- Trên Google Drive cần phải theo dõi thời hạn các tài liệu KH gửi + thời gian gửi + email nhắc lịch KH để làm bằng chứng để sau này làm việc với khách hàng.
 
 **2.2.Dự án BTMC**
+- Từ khi hoàn thành Blueprint v.1 (chỉ cho POS) => có sự thay đổi nhiều so giai đoạn 2 (khi có sự đồng bộ từ POS về SAP).
+- Trên báo cáo yêu cầu thay đổi: hiện có 24 yêu cầu lũy kế của POS và SAP. Yêu cầu thay đổi phải chia làm 2 loại: trong tài liệu giải pháp (không thu thêm tiền KH) và ngoài tài liệu giải pháp (phải thu thêm tiền KH).
 
 
-
-**2.3.Các dự án nội bộ**
-
+**2.3.Dự án WMS Dược Khoa**
 
 
 **2.4.Dự án TLTL**
