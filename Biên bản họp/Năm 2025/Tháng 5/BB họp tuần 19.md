@@ -16,7 +16,7 @@
 **2.2.Dự án BTMC**
 - Từ khi hoàn thành Blueprint v.1 (chỉ cho POS) => có sự thay đổi nhiều so giai đoạn 2 (khi có sự đồng bộ từ POS về SAP).
 - Trên báo cáo yêu cầu thay đổi: hiện có 24 yêu cầu lũy kế của POS và SAP. Yêu cầu thay đổi phải chia làm 2 loại: trong tài liệu giải pháp (không thu thêm tiền KH) và ngoài tài liệu giải pháp (phải thu thêm tiền KH).
-
+- BTMC POS2 chưa thống nhất được lịch đào tạo với KH => Nội bộ FoxAI cần có động thái giục với KH (cần có cán bộ theo sát từ CEO, email xác nhận của khách hàng).
 
 **2.3.Dự án WMS Dược Khoa**
 
