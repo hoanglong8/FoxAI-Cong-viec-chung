@@ -13,4 +13,4 @@
 
 5.[Tài chính kế toán](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/T%C3%A0i%20ch%C3%ADnh%20k%E1%BA%BF%20to%C3%A1n)
 
-6.[Các tài liệu khác](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/docs)
+6.[Hồ sơ, chứng chỉ và tài liệu khác](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/FoxAI%20Certificate)
