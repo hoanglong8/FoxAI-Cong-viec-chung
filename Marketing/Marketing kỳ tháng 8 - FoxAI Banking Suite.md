@@ -1,4 +1,4 @@
-# FoxAI – Banking Suite  
+# FoxAI Banking Suite  
 ## Trợ lý Ngân hàng Thông minh: Dùng AI để Phân loại và Cảnh báo Rủi ro Tín dụng
 
 Trong bối cảnh ngành ngân hàng ngày càng chịu áp lực cạnh tranh khốc liệt, việc kiểm soát rủi ro và tối ưu hóa quá trình thẩm định tín dụng trở thành yếu tố then chốt để duy trì sự ổn định và tăng trưởng. Đó là lý do **FoxAI – Banking Suite** ra đời, như một trợ lý ngân hàng thông minh giúp tự động hóa quy trình đánh giá, phân loại và cảnh báo rủi ro tín dụng dựa trên sức mạnh của trí tuệ nhân tạo.
