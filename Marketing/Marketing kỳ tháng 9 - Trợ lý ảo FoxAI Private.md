@@ -1,4 +1,4 @@
-# Chatbot Ai Private - Trợ lý ảo Fox-AI 
+# Chatbot AI Private - Trợ lý ảo Fox-AI 
 ## Thuốc lá Thăng Long tăng hiệu suất công việc với Trợ lý ảo Fox-AI  
 ## Hướng tới doanh nghiệp vận hành thông minh, ra quyết định nhanh, dữ liệu chính xác
 
