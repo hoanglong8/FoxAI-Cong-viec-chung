@@ -4,11 +4,11 @@
 
 Trong bối cảnh trí tuệ nhân tạo (AI) ngày càng phát triển mạnh mẽ, việc xây dựng các sản phẩm AI không chỉ đòi hỏi yếu tố công nghệ mà còn cần tuân thủ nghiêm ngặt các nguyên tắc đạo đức để đảm bảo tính minh bạch, công bằng và bảo vệ quyền lợi người dùng. Nhằm nâng cao năng lực và cam kết phát triển các sản phẩm AI có trách nhiệm, ngày 13/05/2025 vừa qua FoxAI tự hào là một trong những doanh nghiệp tiên phong tham gia khóa đào tạo "Đạo đức AI" – sự kiện đào tạo AI đầu tiên tại Việt Nam do Đại sứ quán Mỹ phối hợp cùng Viện Công nghệ Blockchain & AI Việt Nam (ABAII) tổ chức.
 
-[Hình ảnh khóa học]
+[Hình ảnh khóa học [tại đây](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EvlPmVlZAztKuETPY-kkUhUBjXxOxAEnaPWQYgecasr-4A?e=XXlflF)]
 
 Tham gia khóa học, FoxAI cùng các chuyên gia, nhà nghiên cứu, đại diện các doanh nghiệp công nghệ hàng đầu trong nước đã được trang bị các kiến thức cập nhật nhất về các vấn đề đạo đức AI như phân biệt đối xử, bảo mật dữ liệu, trách nhiệm trong phát triển và triển khai AI, cũng như các tiêu chuẩn và khung pháp lý quốc tế.
 
-[Hình ảnh đội ngũ FoxAI]
+[Hình ảnh đội ngũ [FoxAI](https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EvlPmVlZAztKuETPY-kkUhUBjXxOxAEnaPWQYgecasr-4A?e=XXlflF) => nhờ team MKT lựa chọn ảnh]
 
 Ông Nguyễn Hoàng Long, đại diện FoxAI chia sẻ: "Việc tham gia khóa đào tạo về đạo đức AI không chỉ giúp đội ngũ FoxAI nâng cao hiểu biết mà còn củng cố cam kết của chúng tôi trong việc phát triển các giải pháp AI có trách nhiệm và minh bạch. Đây là một bước đi chiến lược giúp FoxAI tự tin hơn khi triển khai các sản phẩm công nghệ AI trong tương lai, đồng thời góp phần xây dựng hệ sinh thái AI phát triển bền vững tại Việt Nam."
 
@@ -22,7 +22,7 @@ Khóa học trang bị cho đội ngũ FoxAI các kiến thức quan trọng nh�
 
 - Quy định về AI tại Hoa Kỳ: FoxAI tiếp nhận và áp dụng các tiêu chuẩn, quy định về bảo mật, bảo vệ dữ liệu và trách nhiệm pháp lý trong phát triển sản phẩm AI, giúp nâng cao chất lượng và độ tin cậy của giải pháp cung cấp cho khách hàng.
 
-[Hình ảnh FoxAI – Đối tác tin cậy với các giải pháp AI thực tiễn và có đạo đức]
+[Hình ảnh FoxAI => Đưa ra 1 số Chứng chỉ]
 
 ### Những kiến thức và quy định này đã và đang được FoxAI áp dụng chặt chẽ trong việc thiết kế và triển khai các sản phẩm AI dành cho khách hàng, gồm:
 
