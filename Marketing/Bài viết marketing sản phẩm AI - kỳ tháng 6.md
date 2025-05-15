@@ -1,4 +1,5 @@
-# Techcom giảm công việc thủ công với FOX Business AI
+# Fox Business AI tích hợp OCR vào SAP B1
+## Techcom giảm công việc thủ công với FOX Business AI
 
 Techcom là một trong những doanh nghiệp hàng đầu tại Việt Nam trong lĩnh vực phân phối và cung cấp các thiết bị công nghiệp, linh kiện điện tử và vật tư kỹ thuật. Với mạng lưới khách hàng đa dạng, phục vụ hơn **5,000 khách hàng** trên toàn quốc, Techcom xử lý trung bình **hàng ngàn đơn hàng mỗi tháng**, đóng vai trò quan trọng trong chuỗi cung ứng của nhiều ngành sản xuất và công nghiệp. Trong thời đại số hóa mạnh mẽ, việc tự động hóa quy trình nghiệp vụ trở thành yếu tố then chốt giúp các doanh nghiệp tối ưu vận hành và nâng cao hiệu quả công việc. Nắm bắt xu hướng này, Techcom đã triển khai giải pháp **FOX Business AI**, mang lại bước đột phá trong quản lý đơn hàng và hóa đơn mua hàng trên nền tảng SAP Business One (SAP B1).
 
