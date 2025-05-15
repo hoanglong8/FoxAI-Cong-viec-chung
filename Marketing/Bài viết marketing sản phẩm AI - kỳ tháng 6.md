@@ -6,6 +6,8 @@ Trong thời đại số hóa mạnh mẽ, việc tự động hóa quy trình n
 
 ## Giải pháp tự động nhận diện và xử lý thông tin đơn hàng
 
+[...Bổ sung một số thông tin về Techcom - làm trong lĩnh vực gì, bao nhiêu khách hàng, bao nhiêu đơn hàng và quy trình nhập liệu đơn hàng trước đây cụ thể ra sao...]
+
 Trước đây, đội ngũ kế toán của Techcom phải nhập liệu thủ công từng đơn hàng và hóa đơn đầu vào từ các tài liệu PDF, gây tốn nhiều thời gian và dễ phát sinh sai sót. Với **FOX Business AI**, hệ thống được trang bị khả năng tự động nhận diện chính xác các thông tin quan trọng từ file PDF đơn hàng. Sau đó, dữ liệu này được chuyển đổi thành bảng kê hóa đơn đầu vào một cách tự động và chuẩn xác.
 
 > **[Chèn hình ảnh minh họa: Quy trình tự động nhận diện và chuyển đổi dữ liệu từ PDF sang bảng kê hóa đơn]**
