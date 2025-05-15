@@ -8,3 +8,15 @@
 | Tháng 9   | [Trợ lý ảo Fox-AI tại Thuốc lá Thăng Long](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Marketing/Marketing%20k%E1%BB%B3%20th%C3%A1ng%209%20-%20Tr%E1%BB%A3%20l%C3%BD%20%E1%BA%A3o%20FoxAI%20Private.md)                          | Hướng đến Doanh nghiệp sản xuất, ứng dụng AI nội bộ          |  - Website (bài storytelling + 4 tính năng chính) <br> - Fanpage (ảnh quote từ lãnh đạo nhà máy) <br> - TikTok (mô phỏng Q&A giữa nhân viên – AI agent) <br> - Nội bộ (chạy workshop thử nghiệm)  | - Video TikTok: “AI trả lời tài liệu nội bộ – chuẩn không?” <br> - Mô phỏng truy vấn báo cáo cho lãnh đạo      |
 | Tháng 10  | [Fox Business AI – Dự báo KPI theo thời gian thực](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Marketing/Marketing%20k%E1%BB%B3%20th%C3%A1ng%2010%20-%20Fox%20Business%20AI.md)                 | Giới thiệu giải pháp đánh giá hiệu suất nhân sự của ngân hàng, DN sản xuất   | - Website (bài viết phân tích + biểu đồ) <br> - Fanpage (ảnh so sánh "Trước vs Sau dùng AI") <br> - TikTok (voice-over: “Làm sao biết ai đang làm việc tốt?”) <br> - Nội bộ (chia sẻ thử nghiệm mẫu demo tại xưởng A) | - Bộ ảnh KPI realtime trên di động <br> - Minigame nội bộ: “Dự báo KPI đúng nhận quà”                           |
 | Tháng 11  | [Tối ưu quản lý kho thông minh với Fox WMS AI](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/Marketing/Marketing%20k%E1%BB%B3%20th%C3%A1ng%2011%20-%20Fox%20WMS%20AI.md)                     | Hướng đến doanh nghiệp sản xuất, quản lý kho, logistics          | - Website (Bài blog chính) <br> - Fanpage (ảnh + trích đoạn bài viết) <br> - TikTok (video 45s: “Tồn kho ứ đọng, có cách nào xử lý nhanh?”) <br> - Nội bộ (đính kèm demo/ảnh dashboard thực tế) | - Infographic "Quy trình dự báo kho với AI" <br> - Mini case study: giảm chi phí lưu kho, xoay vòng tồn tốt hơn |
+
+---
+
+📌 Gợi ý triển khai đồng bộ theo tuần
+
+Tuần 1 mỗi tháng: Đăng bài viết chính lên Website: fox.ai.vn
+
+Tuần 2: Chuyển hóa thành ảnh trích đoạn + đăng Fanpage Facebook, Zalo OA
+
+Tuần 3: Biến nội dung thành video TikTok (45–60s, subtitle rõ ràng)
+
+Tuần 4: Gửi bản rút gọn + infographic đăng nhóm Zalo nội bộ công ty
