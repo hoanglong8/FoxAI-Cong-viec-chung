@@ -1,4 +1,5 @@
-# Sakura Clinic nâng cao hiệu quả tư vấn với Chatbot AI chăm sóc khách hàng từ FoxAI
+# Chatbot AI Public
+## Sakura Clinic nâng cao hiệu quả tư vấn với Chatbot AI chăm sóc khách hàng từ FoxAI
 
 Trong lĩnh vực chăm sóc sức khỏe, việc tư vấn và hỗ trợ khách hàng nhanh chóng, chính xác đóng vai trò then chốt giúp nâng cao trải nghiệm người bệnh cũng như tối ưu hoạt động vận hành. Hiểu rõ điều đó, **Sakura Clinic** – phòng khám hàng đầu phục vụ cộng đồng người Nhật và Việt tại Việt Nam – đã lựa chọn giải pháp **Chatbot AI chăm sóc khách hàng** do FoxAI phát triển để nâng tầm dịch vụ của mình.
 
