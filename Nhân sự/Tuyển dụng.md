@@ -4,9 +4,38 @@
 
 Cập nhật tại đây: https://foxai-my.sharepoint.com/:x:/g/personal/thuylt_fox_ai_vn/ETwNfpzHIwhAka43OxZLUhcBcpTnAwu2k9bCoHf06strMA?e=bkUitJ
 
-## 2.Đề xuất cấu trúc 2 vòng phỏng vấn
+---
 
-🔹 **Vòng 1: Case Interview (Phỏng vấn nghiệp vụ và kiến thức)**
+## 2.Đề xuất chia vị trí của trung tâm AI R&D thành 2 nhóm: Nghiệp vụ và Kỹ thuật
+
+* **Nhóm A** – Nhóm Nghiệp vụ, nghiên cứu & chuyển giao sản phẩm (Product/Research/Delivery)
+
+| Vị trí thuộc nhóm Nghiệp vụ  | Tên tiếng Việt                            | Vai trò                                                         |
+| ----------------------       | ----------------------------------------- | --------------------------------------------------------------- |
+| DA - Data Analyst            | Chuyên viên phân tích dữ liệu             | Phân tích dữ liệu, tạo báo cáo, tìm insight                     |
+| AI/ML Engineer (MLOps)       | Kỹ sư học máy                             | Nghiên cứu, huấn luyện, triển khai mô hình AI                   |
+| BA – Business Analyst        | Chuyên viên phân tích nghiệp vụ           | Thu thập yêu cầu, phân tích quy trình nghiệp vụ                 |
+| Tester UAT/QA/QC             | Chuyên viên kiểm thử & đảm bảo chất lượng | Kiểm thử sản phẩm từ góc nhìn người dùng & chất lượng nghiệp vụ |
+| Product Owner/Manager        | Giám đốc sản phẩm                         | Định hướng và quản lý roadmap AI/ML sản phẩm                    |
+| AI Researcher/Data Scientist | Nhà khoa học dữ liệu                      | Chuyên sâu nghiên cứu thuật toán AI                             |
+
+* **Nhóm B** – Nhóm Kỹ thuật, thi công & sản xuất sản phẩm (Technical/Implementation)
+
+| Vị trí thuộc nhóm Kỹ thuật   | Tên tiếng Việt           | Vai trò                                             |
+| -------------                | ------------------------ | --------------------------------------------------- |
+| Data Engineer                | Kỹ sư dữ liệu            | Xây dựng pipeline dữ liệu, ETL, hạ tầng dữ liệu     |
+| Dev Backend                  | Lập trình viên nền tảng  | Xây dựng API, logic hệ thống, microservices         |
+| Dev Frontend                 | Lập trình viên giao diện | Phát triển UI/UX, tương tác người dùng              |
+| DevOps                       | Lập trình viên vận hành  | Triển khai hệ thống, CI/CD, cloud, hạ tầng kỹ thuật |
+| Fullstack Developer          | Lập trình viên tổng hợp  | Yêu cầu làm được cả backend & frontend              |
+| Software Architect           | Kiến trúc sư hệ thống    | Định hình hệ thống tổng thể (phù hợp giai đoạn scale)|
+| Security Engineer            | Kỹ sư bảo mật hệ thống   | Sản phẩm nhắm đến lĩnh vực tài chính/dữ liệu nhạy cảm|
+
+---
+
+## 3.Đề xuất cấu trúc 2 vòng phỏng vấn
+
+### 🔹 **Vòng 1: Case Interview (Phỏng vấn nghiệp vụ và kiến thức)**
 
 Mục tiêu đánh giá:
 - Hiểu biết tổng quan về ứng viên: nền tảng học vấn, kinh nghiệm, định hướng nghề nghiệp.
@@ -17,11 +46,7 @@ Hình thức:
 - Phỏng vấn 1:1 hoặc 1:2 qua Zoom/Trực tiếp (~45–60 phút)
 - Có thể yêu cầu xử lý case ngắn ngay trong buổi
 
-Kết quả:
-- Pass → mời vào vòng 2
-- Fail → feedback chuyên môn
-
-🔹 **Vòng 2: Technical Interview (Phỏng vấn kỹ thuật và kỹ năng)**
+### 🔹 **Vòng 2: Technical Interview (Phỏng vấn kỹ thuật và kỹ năng)**
 
 Mục tiêu đánh giá:
 - Khả năng thao tác với dữ liệu thực tế: tiền xử lý, phân tích, trực quan hóa, mô hình đơn giản
@@ -32,14 +57,18 @@ Hình thức:
 - Giao 1 đề bài thực tế, ứng viên có 24–48h làm bài (dạng notebook/PPT/report/dashboard)
 - Trình bày bài làm trong buổi phỏng vấn (~30 phút thuyết trình + 15–30 phút QA)
 
-Kết quả:
-- Pass → Đề xuất offer
-- Fail → Feedback chi tiết bài làm
+### 📊 Cơ cấu nhóm vị trí và trọng số đánh giá theo từng vòng phỏng vấn
 
-📌 **Gợi ý ghi trên JD / Email mời**
-"Quy trình tuyển dụng vị trí [...] tại FoxAI gồm 2 vòng:
-- Vòng 1 – Case Interview: Đánh giá tư duy giải quyết vấn đề và kỹ năng giao tiếp logic.
-- Vòng 2 – Technical Interview: Làm bài tập thực tế và thuyết trình kết quả trước hội đồng."
+| **Nhóm vị trí**   | **Vòng phỏng vấn Nghiệp vụ**        | **Vòng phỏng vấn Kỹ thuật**        | **Tổng điểm tối đa** | **Cách tính tổng điểm cuối**               |
+| ------------------| ----------------------------------- | ---------------------------------- | -------------------- | ------------------------------------------ |
+| **Nhóm Nghiệp vụ**| 10 điểm<br>*(Trọng số **70%**)*     | 10 điểm<br>*(Trọng số **30%**)*    | 10 điểm              | `Tổng = (Điểm NV x 70%) + (Điểm KT x 30%)` |
+| **Nhóm Kỹ thuật** | 10 điểm<br>*(Trọng số **30%**)*     | 10 điểm<br>*(Trọng số **70%**)*    | 10 điểm              | `Tổng = (Điểm NV x 30%) + (Điểm KT x 70%)` |
+
+- Điểm từng vòng: Mỗi vòng chấm trên thang 10 điểm tuyệt đối.
+- Tổng điểm cuối: Tính theo trọng số phù hợp với tính chất công việc của từng nhóm vị trí.
+- Ứng dụng: Sử dụng công thức này để xếp hạng, lựa chọn, hoặc cân nhắc offer công bằng cho cả hai nhóm.
+
+---
 
 ## 3.Bộ hướng dẫn chấm điểm + Scoring Rubric cho từng vòng phỏng vấn
 ### 3.1.📘 BỘ HƯỚNG DẪN CHẤM ĐIỂM – VÒNG PHỎNG VẤN NGHIỆP VỤ (CASE INTERVIEW)
@@ -136,30 +165,4 @@ __________________________________________________________
 
 ✍️ Chữ ký người phỏng vấn: ____________________________
 ```
-
-## 4.Các vị trí của trung tâm AI R&D
-
-* Nhóm 1 – Nhóm Nghiệp vụ, nghiên cứu, chuyển giao sản phẩm (Product/Research/Delivery)
-
-| Vị trí thuộc nhóm Nghiệp vụ  | Tên tiếng Việt                            | Vai trò                                                         |
-| ----------------------       | ----------------------------------------- | --------------------------------------------------------------- |
-| DA - Data Analyst            | Chuyên viên phân tích dữ liệu             | Phân tích dữ liệu, tạo báo cáo, tìm insight                     |
-| AI/ML Engineer (MLOps)       | Kỹ sư học máy                             | Nghiên cứu, huấn luyện, triển khai mô hình AI                   |
-| BA – Business Analyst        | Chuyên viên phân tích nghiệp vụ           | Thu thập yêu cầu, phân tích quy trình nghiệp vụ                 |
-| Tester UAT/QA/QC             | Chuyên viên kiểm thử & đảm bảo chất lượng | Kiểm thử sản phẩm từ góc nhìn người dùng & chất lượng nghiệp vụ |
-| Product Owner/Manager        | Giám đốc sản phẩm                         | Định hướng và quản lý roadmap AI/ML sản phẩm                    |
-| AI Researcher/Data Scientist | Nhà khoa học dữ liệu                      | Chuyên sâu nghiên cứu thuật toán AI                             |
-
-* Nhóm 2 – Nhóm Kỹ thuật & thi công sản phẩm (Technical/Implementation)
-
-| Vị trí thuộc nhóm Kỹ thuật   | Tên tiếng Việt           | Vai trò                                             |
-| -------------                | ------------------------ | --------------------------------------------------- |
-| Data Engineer                | Kỹ sư dữ liệu            | Xây dựng pipeline dữ liệu, ETL, hạ tầng dữ liệu     |
-| Dev Backend                  | Lập trình viên nền tảng  | Xây dựng API, logic hệ thống, microservices         |
-| Dev Frontend                 | Lập trình viên giao diện | Phát triển UI/UX, tương tác người dùng              |
-| DevOps                       | Lập trình viên vận hành  | Triển khai hệ thống, CI/CD, cloud, hạ tầng kỹ thuật |
-| Fullstack Developer          | Lập trình viên tổng hợp  | Yêu cầu làm được cả backend & frontend              |
-| Software Architect           | Kiến trúc sư hệ thống    | Định hình hệ thống tổng thể (phù hợp giai đoạn scale)|
-| Security Engineer            | Kỹ sư bảo mật hệ thống   | Sản phẩm nhắm đến lĩnh vực tài chính/dữ liệu nhạy cảm|
-
 
