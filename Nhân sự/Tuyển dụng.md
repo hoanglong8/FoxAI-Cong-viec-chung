@@ -70,16 +70,16 @@ Hình thức:
 
 ---
 
-## 3.Bộ hướng dẫn chấm điểm + Scoring Rubric cho từng vòng phỏng vấn
-### 3.1.📘 BỘ HƯỚNG DẪN CHẤM ĐIỂM – VÒNG PHỎNG VẤN NGHIỆP VỤ (CASE INTERVIEW)
+## 4.Bộ hướng dẫn chấm điểm + Scoring Rubric cho từng vòng phỏng vấn
+### 📘 BỘ HƯỚNG DẪN CHẤM ĐIỂM – VÒNG PHỎNG VẤN NGHIỆP VỤ (CASE INTERVIEW)
 
-🎯 Mục tiêu đánh giá
+🎯 **Mục tiêu đánh giá**
 - Tư duy phân tích, phản biện và logic nghiệp vụ
 - Khả năng hiểu bài toán thực tế
 - Kỹ năng giao tiếp và truyền đạt giải pháp rõ ràng
 - Khả năng kết nối dữ liệu/thực tiễn và insight kinh doanh
 
-📋 TỔNG QUAN VỀ RUBRIC CHẤM ĐIỂM
+📋 **TỔNG QUAN VỀ RUBRIC CHẤM ĐIỂM**
 
 | Nhóm năng lực                            | Trọng số | Thang điểm | Mô tả chung                                                |
 | ---------------------------------------- | -------- | ---------- | ---------------------------------------------------------- |
@@ -92,7 +92,7 @@ Hình thức:
 🎯 Tổng điểm tối đa: 10 điểm
 ✅ Điểm đạt yêu cầu đề xuất vòng tiếp theo: ≥ 7 điểm
 
-📄 MẪU PHIẾU ĐÁNH GIÁ ỨNG VIÊN – VÒNG PHỎNG VẤN NGHIỆP VỤ
+📄 **MẪU PHIẾU ĐÁNH GIÁ ỨNG VIÊN – VÒNG PHỎNG VẤN NGHIỆP VỤ**
 
 ```plaintext
 🔹 Ứng viên: _______________________
@@ -119,15 +119,15 @@ _________________________________________________________________
 Chữ ký giám khảo: ________________
 ```
 
-### 3.2.📘 BỘ HƯỚNG DẪN CHẤM ĐIỂM – VÒNG PHỎNG VẤN KỸ THUẬT (TECHNICAL INTERVIEW)
+### 📘 BỘ HƯỚNG DẪN CHẤM ĐIỂM – VÒNG PHỎNG VẤN KỸ THUẬT (TECHNICAL INTERVIEW)
 
-🎯 Mục tiêu đánh giá
+🎯 **Mục tiêu đánh giá**
 - Đánh giá năng lực chuyên môn và hiểu biết công nghệ cốt lõi của ứng viên
 - Kiểm tra khả năng phân tích, giải quyết bài toán kỹ thuật thực tế
 - Đánh giá kỹ năng viết code, tư duy hệ thống, và best practices
 - Xác nhận sự phù hợp với stack và kiến trúc FoxAI đang sử dụng
 
-📋 TỔNG QUAN VỀ RUBRIC CHẤM ĐIỂM
+📋 **TỔNG QUAN VỀ RUBRIC CHẤM ĐIỂM**
 
 | Nhóm năng lực                               | Trọng số | Thang điểm | Mô tả                                                                     |
 | ------------------------------------------- | -------- | ---------- | ---------------------------------------------------                       |
@@ -139,7 +139,7 @@ Chữ ký giám khảo: ________________
 🎯 Tổng điểm tối đa: 10 điểm
 ✅ Điểm đạt yêu cầu đề xuất vòng sau hoặc offer: ≥ 7 điểm
 
-📄 MẪU PHIẾU ĐÁNH GIÁ ỨNG VIÊN – VÒNG PHỎNG VẤN KỸ THUẬT
+📄 **MẪU PHIẾU ĐÁNH GIÁ ỨNG VIÊN – VÒNG PHỎNG VẤN KỸ THUẬT**
 
 ```plaintext
 🔹 Ứng viên: _______________________
