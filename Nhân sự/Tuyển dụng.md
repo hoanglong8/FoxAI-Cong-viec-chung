@@ -1,8 +1,13 @@
 # Công tác Tuyển dụng tại trung tâm AI R&D
 
-## 1.File thống kê đánh giá ứng viên tuyển dụng của FoxAI
+## 1.Tuyển dụng
+### File thống kê đánh giá ứng viên tuyển dụng của FoxAI
 
 Cập nhật tại đây: https://foxai-my.sharepoint.com/:x:/g/personal/thuylt_fox_ai_vn/ETwNfpzHIwhAka43OxZLUhcBcpTnAwu2k9bCoHf06strMA?e=bkUitJ
+
+### Thư mục lưu trữ CV ứng viên thực tập AI
+
+Cập nhật tại đây: https://foxai.sharepoint.com/:f:/s/FOXAI-HRM/EryVMv3MtdJMmB_ptQztj8ABrTOBaVcG5YXPw9XK5pWt4Q?e=5TbU3f
 
 ---
 
