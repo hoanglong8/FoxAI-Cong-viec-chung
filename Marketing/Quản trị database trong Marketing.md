@@ -84,6 +84,23 @@ flowchart TD
    - Hỗ trợ định dạng dữ liệu phù hợp với hệ thống chạy quảng cáo (Facebook Ads Manager, Google Ads,...).
    - Cung cấp API hoặc bảng tổng hợp để Ads Marketing triển khai chạy quảng cáo nhanh chóng.
 
+### Luồng Crawling dữ liệu mạng xã hội & tự động hoá marketing
+#### Yêu cầu chính
+- Lưu trữ dữ liệu phi cấu trúc / bán cấu trúc (JSON, text).
+- Hỗ trợ truy vấn linh hoạt, tích hợp dễ với Python để xử lý.
+- Triển khai on-premise, dễ mở rộng.
+
+#### Công cụ gợi ý
+
+| Công cụ     | Lý do phù hợp                                                                                         |
+|-------------|-----------------------------------------------------------------------------------------------------|
+| **MongoDB** | - Lưu trữ dữ liệu dạng JSON, phi cấu trúc phù hợp dữ liệu mạng xã hội.                              |
+|             | - Hỗ trợ truy vấn bằng query language đơn giản, Python có driver tốt (PyMongo).                     |
+|             | - Triển khai on-prem, dễ dàng mở rộng theo cụm.                                                     |
+| **Elasticsearch** | - Tối ưu cho dữ liệu text, tìm kiếm nhanh, phân tích real-time.                               |
+|             | - Hỗ trợ REST API, Python có thư viện elasticsearch-py.                                            |
+|             | - Dùng on-prem để lưu trữ log, dữ liệu mạng xã hội và hỗ trợ báo cáo nhanh.                         |
+
 ---
 
 ## 2. Luồng 2: Thiết lập hạ tầng quản trị database khách hàng cho marketing & phân tích
@@ -124,8 +141,25 @@ flowchart TD
    - Đảm bảo dữ liệu cập nhật liên tục, có khả năng truy xuất nhanh.
    - Hỗ trợ Data Analyst trong việc xây dựng báo cáo, dashboard cho ban lãnh đạo.
 
+### Luồng Quản trị database khách hàng & phân tích
+
+#### Yêu cầu chính
+- Quản lý dữ liệu quan hệ, nhiều bảng, chuẩn hóa dữ liệu.
+- Bảo mật, mã hóa, phân quyền.
+- Hỗ trợ tốt SQL, có thể tích hợp DAX cho BI (Power BI).
+- Triển khai on-prem, ổn định cho doanh nghiệp.
+
+#### Công cụ gợi ý
+
+| Công cụ                | Lý do phù hợp                                                                                   |
+|------------------------|-----------------------------------------------------------------------------------------------|
+| **Microsoft SQL Server** | - Hỗ trợ đầy đủ SQL, tối ưu cho dữ liệu quan hệ.                                             |
+|                        | - Tích hợp sâu với Power BI, dùng DAX cho phân tích nâng cao.                                 |
+|                        | - Tính năng bảo mật, phân quyền, mã hóa dữ liệu chuẩn doanh nghiệp.                           |
+|                        | - Triển khai on-prem mạnh mẽ, có hệ sinh thái công cụ quản trị và backup tốt.                 |
+| **PostgreSQL**         | - Hỗ trợ chuẩn SQL mạnh mẽ, mở rộng JSON cho dữ liệu bán cấu trúc nếu cần.                    |
+|                        | - Python có thư viện hỗ trợ rất tốt (psycopg2, SQLAlchemy).                                   |
+|                        | - Cộng đồng lớn, triển khai on-prem ổn định, dễ dàng mở rộng.                                 |
+|                        | - Có thể tích hợp BI bằng Power BI qua kết nối trực tiếp hoặc các công cụ trung gian.         |
+
 ---
-
-# Kết luận
-
-Data Engineering đóng vai trò trung tâm trong việc xây dựng hệ thống thu thập, xử lý, quản lý và cung cấp dữ liệu chất lượng cao cho các hoạt động marketing và phân tích. Hai luồng nghiệp vụ trên phối hợp chặt chẽ nhằm tăng hiệu quả marketing, tối ưu nội dung và hỗ trợ quyết định của lãnh đạo dựa trên dữ liệu chính xác, kịp thời.
