@@ -94,10 +94,27 @@
   - Lễ trao giải ngay trong ngày diễn ra sự kiện.  
   - Livestream nội bộ để nhân viên theo dõi và cổ vũ.
 
-## 9. Yếu tố sáng tạo & dấu ấn FoxAI ✨🚀
+## 9. Kế hoạch xin tài trợ từ ban lãnh đạo 🏅
 
-- **Áo đồng phục giải đấu**: Áo thun nhẹ nhàng, có logo FoxAI và slogan “Trẻ - Chất - Đổi mới”.  
-- **Mascot FoxAI** xuất hiện trên poster, banner và quà tặng.  
+- **Mục tiêu**: Gọi tài trợ để tăng quy mô giải thưởng, chất lượng quà tặng, đồng thời tạo sự kiện chuyên nghiệp, có dấu ấn FoxAI rõ nét hơn.
+
+- **3 rank tài trợ đề xuất**:
+
+| Rank         | Quyền lợi tài trợ                                             | Giá trị tài trợ ước tính    |
+|--------------|---------------------------------------------------------------|----------------------------|
+| Kim Cương    | Logo xuất hiện trên banner, áo đồng phục, lời cảm ơn trong lễ trao giải + quà đặc biệt | 3,000,000 VNĐ trở lên       |
+| Vàng         | Logo trên banner, lời cảm ơn trong sự kiện                    | 2,000,000 VNĐ trở lên       |
+| Bạc          | Được ghi nhận trong email cảm ơn và poster                   | 1,000,000 VNĐ trở lên       |
+
+- **Cách thực hiện**:  
+  - Soạn thư gửi ban lãnh đạo, trình bày mục đích, lợi ích và phân hạng tài trợ.  
+  - Hẹn lịch trao đổi, xin ý kiến và thống nhất hỗ trợ.  
+  - Cập nhật danh sách tài trợ trong truyền thông nội bộ.
+
+## 10. Yếu tố sáng tạo & dấu ấn FoxAI ✨🚀
+
+- **Áo đồng phục giải đấu**: Áo đồng phục FoxAI để truyền thông.  
+- **Mascot con cáo FoxAI** xuất hiện trên poster, banner của giải đấu. 
 - **Phần thi phụ “Bắn bi nhanh”**: Thử thách tốc độ đánh bóng có thưởng nhỏ trong giờ giải lao.  
 - **Góc chia sẻ cảm xúc**: Thu thập những khoảnh khắc thú vị của người chơi để làm clip tổng kết.  
 - **Hashtag nội bộ**: #FoxAIBilliardsCup #TrẻChấtĐổiMới để nhân viên dễ dàng chia sẻ hình ảnh và video.
