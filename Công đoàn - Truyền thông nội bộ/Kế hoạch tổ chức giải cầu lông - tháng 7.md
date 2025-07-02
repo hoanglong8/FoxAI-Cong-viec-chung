@@ -112,9 +112,9 @@ Tổng cộng: khoảng 7-8 trđ.
 
 ## 9. Yếu tố sáng tạo & dấu ấn FoxAI ✨🚀
 
-- **Áo đồng phục giải đấu**: Thiết kế theo phong cách trẻ trung, có logo FoxAI + hashtag #FoxAIBadmintonCup  
-- **Mascot Linh vật FoxAI** xuất hiện xuyên suốt giải đấu qua các ấn phẩm truyền thông.  
-- **Phần thi phụ “Bắt shuttle tốc độ”** trong giờ giải lao với quà tặng hấp dẫn.  
+- **Áo đồng phục**:  Các VĐV mặc đồng phục công ty để chụp ảnh truyền thông, sau đó có thể thay ra đồng phục khác để thi đấu.
+- **Mascot Linh vật** là con cáo FoxAI xuất hiện xuyên suốt giải đấu trên banner, poster.  
+- **Phần thi phụ “Bắt shuttle tốc độ”**: bức ảnh có lượt like + share nhiều nhất tính trong thời gian giải đấu (phần thưởng là 1 cốc trà sữa).
 - **Góc “Storytelling” chia sẻ cảm xúc, highlight của từng người chơi trên mạng nội bộ**.  
 - **Photo booth với khung ảnh “Trẻ - Chất - Đổi mới” để mọi người chụp ảnh lưu niệm**.
 
