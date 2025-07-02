@@ -2,19 +2,19 @@
 
 ## 1. Mục tiêu chương trình 🎯
 
-- Gắn kết 24 thành viên FoxAI qua sân chơi thể thao bổ ích.
+- Gắn kết các thành viên FoxAI qua sân chơi thể thao bổ ích.
 - Rèn luyện sức khỏe, tạo tinh thần đồng đội và cạnh tranh lành mạnh.
 - Tăng tương tác, tạo không khí sôi nổi trong nội bộ công ty.
-- Thể hiện văn hóa “Trẻ - Chất - Đổi mới” qua hoạt động đặc sắc.
+- Thể hiện văn hóa FoxAI “Trẻ - Chất - Đổi mới” qua hoạt động đặc sắc.
 
 ## 2. Thời gian - Địa điểm ⏰📍
 
 - **Thời gian**:  
-  - 1 ngày duy nhất, dự kiến thứ 7 tuần giữa tháng 7 (ví dụ 13 hoặc 20/7).  
-  - Bắt đầu lúc 8h00 sáng, kết thúc khoảng 17h00.
+  - 1 ngày, dự kiến vào cả ngày thứ 7 cuối tháng 7 (ví dụ 19 hoặc 26/7).  
+  - Bắt đầu lúc 8h00 sáng, kết thúc khoảng 17h00 (bao gồm các trận đấu, nghỉ giải lao và trao giải), sau đó có thể đi liên hoan (tự túc).
 
 - **Địa điểm**:  
-  - Thuê 2 sân cầu lông liền kề tại trung tâm thể thao gần văn phòng FoxAI để đảm bảo thi đấu song song, tiết kiệm thời gian.
+  - Thuê 2 sân cầu lông liền kề tại trung tâm thể thao gần văn phòng FoxAI để đảm bảo thi đấu song song, tiết kiệm thời gian. Ví dụ ở Xuân Đỉnh hoặc Đông Ngạc - Nam Từ Liêm.
 
 ## 3. Đối tượng tham gia 👥
 
@@ -29,7 +29,7 @@
 
 - **Thi đấu loại trực tiếp** (knock-out):  
   - Mỗi nội dung thi đấu theo nhánh loại trực tiếp, thua là bị loại ngay.  
-  - Nếu số lượng không phải là số chẵn phù hợp (8, 16...), có thể bốc thăm ưu tiên “bye” cho một số người.  
+  - Nếu số lượng không phải là số chẵn phù hợp (8, 16...), có thể bốc thăm ưu tiên 1 số hạt giống được phép vượt qua vòng 1.
   - Mỗi trận đấu 3 hiệp thắng 2, mỗi hiệp 21 điểm.
 
 - **Lịch thi đấu**:  
@@ -42,21 +42,34 @@
   - Phân công rõ ràng trước ngày thi đấu.
 
 - **Ban tổ chức**:  
-  - Trưởng ban: HR hoặc truyền thông nội bộ.  
-  - Phụ trách hậu cần: Team admin + marketing nội bộ (lo nước uống, quà tặng...).  
-  - Truyền thông: Team marketing nội bộ (chụp ảnh, livestream, cập nhật diễn biến).  
-  - Cổ động viên và hỗ trợ kỹ thuật: Các bạn tình nguyện viên trong công ty.
+  - Trưởng ban: Chủ tịch công đoàn  
+  - Phụ trách hậu cần: Công đoàn viên + bộ phận HR (lo nước uống, quà tặng...) + bộ phận kế toán (lo chi phí...)  
+  - Truyền thông: Team marketing (chụp ảnh, livestream, cập nhật diễn biến).  
+  - Cổ động viên và hỗ trợ kỹ thuật: Toàn thể nhân viên trong công ty.
 
 ## 6. Ngân sách dự kiến 💰
 
 | Khoản chi               | Ước tính (VNĐ)           |
 |-------------------------|--------------------------|
-| Thuê 2 sân bãi          | 4,000,000 - 5,000,000    |
-| Giải thưởng             | 7,000,000 - 8,000,000    |
-| Nước uống, snack        | 1,000,000                |
-| Banner, poster, đồng phục| 1,200,000                |
-| Livestream & thiết bị   | 500,000                  |
-| Chi phí phát sinh khác  | 1,000,000                |
+| Thuê 2 sân (80-100k/h)          | 2 - 2,5 trđ    |
+| Giải thưởng             | 1,5 - 2 trđ   |
+| Nước uống, snack , đá lạnh       | 700k-1 trđ               |
+| Banner, poster, đồng phục| 1,2 trđ               |
+| Livestream & thiết bị   | 0-500k                |
+| Chi phí phát sinh khác  | 1 trđ              |
+
+Tổng cộng: khoảng 7-8 trđ.
+
+**Chi tiết hạng mục đồ uống:**
+| Khoản chi                  | Ước tính (VNĐ)           |
+|----------------------------|--------------------------|
+| - 2 thùng nước 20 lít      | ~100,000                 |
+| - 1 thùng 24 chai nước điện giải | ~360,000            |
+| - 30 phần snack            | ~240,000                 |
+| - Đá lạnh + xô                 | ~100,000                 |
+| - 50 cốc giấy dùng 1 lần   | ~90,000                  |
+
+*Lưu ý:* Bữa ăn sáng và trưa mọi người tự túc. Cần bố trí nhân sự chở thùng nước, chở xô đá, chở loa kéo + mic.
 
 ## 7. Kế hoạch xin tài trợ từ ban lãnh đạo 🏅
 
@@ -66,8 +79,8 @@
 
 | Rank         | Quyền lợi tài trợ                                             | Giá trị tài trợ ước tính    |
 |--------------|---------------------------------------------------------------|----------------------------|
-| Kim Cương    | Logo xuất hiện trên banner, áo đồng phục, lời cảm ơn trong lễ trao giải + quà đặc biệt | 5,000,000 VNĐ trở lên       |
-| Vàng         | Logo trên banner, lời cảm ơn trong sự kiện                    | 3,000,000 VNĐ trở lên       |
+| Kim Cương    | Logo xuất hiện trên banner, áo đồng phục, lời cảm ơn trong lễ trao giải + quà đặc biệt | 3,000,000 VNĐ trở lên       |
+| Vàng         | Logo trên banner, lời cảm ơn trong sự kiện                    | 2,000,000 VNĐ trở lên       |
 | Bạc          | Được ghi nhận trong email cảm ơn và poster                   | 1,000,000 VNĐ trở lên       |
 
 - **Cách thực hiện**:  
@@ -81,17 +94,17 @@
 
 | Hạng mục                  | Phần thưởng đề xuất                                   |
 |---------------------------|-------------------------------------------------------|
-| Vô địch đơn nam           | Cúp + Huy chương + Voucher mua sắm/ăn uống + quà tặng FoxAI |
-| Á quân đơn nam            | Huy chương + Quà tặng nhỏ                              |
-| Vô địch đơn nữ            | Cúp + Huy chương + Voucher + quà tặng FoxAI           |
-| Á quân đơn nữ             | Huy chương + Quà tặng nhỏ                              |
-| Vô địch đôi nam nữ        | Cúp + Huy chương + Voucher + quà tặng FoxAI           |
-| Á quân đôi nam nữ         | Huy chương + Quà tặng nhỏ                              |
+| Vô địch đơn nam           | Huy chương vàng + Quà tặng FoxAI 200k           |
+| Á quân đơn nam            | Huy chương bạc + Quà tặng FoxAI 100k            |
+| Vô địch đơn nữ            | HHuy chương vàng + Quà tặng FoxAI 200k          |
+| Á quân đơn nữ             | Huy chương bạc + Quà tặng FoxAI 100k            |
+| Vô địch đôi nam nữ        | Huy chương vàng + Quà tặng FoxAI 500k           |
+| Á quân đôi nam nữ         | Huy chương bạc + Quà tặng FoxAI 300k            |
 
 - **Giải thưởng phụ**:  
-  - Fair-play: Phần thưởng khen thưởng tinh thần thể thao.  
-  - Cổ động viên cuồng nhiệt nhất: Quà nhỏ + giấy chứng nhận.  
-  - Vận động viên “pha cầu đẹp nhất”: Quà lưu niệm.
+  - Fair-play: Gấu bông...  
+  - Cổ động viên cuồng nhiệt nhất: Một cái ôm của BGĐ...
+  - Vận động viên “pha cầu đẹp nhất”: Tấm ảnh kỷ niệm in & đóng khung.
 
 - **Trao giải**:  
   - Lễ trao giải ngay sau khi kết thúc giải đấu trong cùng ngày, có livestream nội bộ.  
