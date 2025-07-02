@@ -10,7 +10,7 @@
 
 | Tháng   | Hoạt động chính                         | Mô tả ngắn & mục tiêu                                   | Đối tượng     | Địa điểm       | Ngân sách dự kiến | Ghi chú                             |
 |---------|----------------------------------------|---------------------------------------------------------|--------------|----------------|-------------------|------------------------------------|
-| **7**   | Giải cầu lông nội bộ                    | Thi đấu thể thao, gắn kết, rèn luyện sức khỏe          | Toàn công ty | Sân cầu lông thuê ngoài | Trung bình (5-8 triệu) | Đã có kế hoạch chi tiết           |
+| **7**   | Giải cầu lông nội bộ                    | Thi đấu thể thao, gắn kết, rèn luyện sức khỏe          | Toàn công ty | Sân cầu lông thuê ngoài | Trung bình (5-8 triệu) | [Kế hoạch chi tiết giải cầu lông](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/blob/main/C%C3%B4ng%20%C4%91o%C3%A0n%20-%20Truy%E1%BB%81n%20th%C3%B4ng%20n%E1%BB%99i%20b%E1%BB%99/K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20gi%E1%BA%A3i%20c%E1%BA%A7u%20l%C3%B4ng%20-%20th%C3%A1ng%207.md)           |
 | **8**   | Giải Billards nội bộ                    | Thi đấu billiards cho cả nam và nữ, vui khỏe, kết nối   | Toàn công ty | Quán billiards gần văn phòng | Trung bình (3-5 triệu) | Thuê bàn + giải thưởng nhỏ       |
 | **9**   | Sinh nhật quý III & Minigame FoxAI Challenge | Kết hợp ăn mừng sinh nhật tập thể + minigame tương tác, vui nhộn | Toàn công ty | Văn phòng      | Thấp - trung bình (2-4 triệu) | Gắn kết, tăng tương tác          |
 | **10**  | Trung thu & Kỷ niệm ngày 20-10         | Phá cỗ trung thu, làm lồng đèn + tri ân nhân viên nữ    | Toàn công ty | Văn phòng hoặc ngoài trời | Trung bình (3-5 triệu) | Không khí ấm áp, văn hóa FoxAI   |
