@@ -67,6 +67,8 @@
 | Livestream & thiết bị   | 0-400,000                  |
 | Chi phí phát sinh khác  | 500,000                  |
 
+Tổng cộng: Từ 3-5 trđ.
+
 **Chi tiết hạng mục đồ uống:**
 | Khoản chi                  | Ước tính (VNĐ)           |
 |----------------------------|--------------------------|
@@ -102,9 +104,9 @@
 
 | Rank         | Quyền lợi tài trợ                                             | Giá trị tài trợ ước tính    |
 |--------------|---------------------------------------------------------------|----------------------------|
-| Kim Cương    | Logo xuất hiện trên banner, áo đồng phục, lời cảm ơn trong lễ trao giải + quà đặc biệt | 3,000,000 VNĐ trở lên       |
-| Vàng         | Logo trên banner, lời cảm ơn trong sự kiện                    | 2,000,000 VNĐ trở lên       |
-| Bạc          | Được ghi nhận trong email cảm ơn và poster                   | 1,000,000 VNĐ trở lên       |
+| Kim Cương    | Logo xuất hiện trên banner, áo đồng phục, lời cảm ơn trong lễ trao giải + quà đặc biệt | 2,000,000 VNĐ trở lên       |
+| Vàng         | Logo trên banner, lời cảm ơn trong sự kiện                    | 1,000,000 VNĐ trở lên       |
+| Bạc          | Được ghi nhận trong email cảm ơn và poster                   | 500,000 VNĐ trở lên       |
 
 - **Cách thực hiện**:  
   - Soạn thư gửi ban lãnh đạo, trình bày mục đích, lợi ích và phân hạng tài trợ.  
