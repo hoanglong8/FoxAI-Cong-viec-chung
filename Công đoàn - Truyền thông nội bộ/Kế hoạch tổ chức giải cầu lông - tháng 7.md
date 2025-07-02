@@ -58,7 +58,7 @@
 | Livestream & thiết bị   | 0-500k                |
 | Chi phí phát sinh khác  | 1 trđ              |
 
-Tổng cộng: khoảng 7-8 trđ.
+Tổng cộng: khoảng 5-8 trđ.
 
 **Chi tiết hạng mục đồ uống:**
 | Khoản chi                  | Ước tính (VNĐ)           |
