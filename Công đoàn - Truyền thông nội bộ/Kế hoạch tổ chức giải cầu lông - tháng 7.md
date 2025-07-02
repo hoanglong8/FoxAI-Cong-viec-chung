@@ -96,15 +96,15 @@ Tổng cộng: khoảng 7-8 trđ.
 |---------------------------|-------------------------------------------------------|
 | Vô địch đơn nam           | Huy chương vàng + Quà tặng FoxAI 200k           |
 | Á quân đơn nam            | Huy chương bạc + Quà tặng FoxAI 100k            |
-| Vô địch đơn nữ            | HHuy chương vàng + Quà tặng FoxAI 200k          |
+| Vô địch đơn nữ            | Huy chương vàng + Quà tặng FoxAI 200k          |
 | Á quân đơn nữ             | Huy chương bạc + Quà tặng FoxAI 100k            |
 | Vô địch đôi nam nữ        | Huy chương vàng + Quà tặng FoxAI 500k           |
 | Á quân đôi nam nữ         | Huy chương bạc + Quà tặng FoxAI 300k            |
 
 - **Giải thưởng phụ**:  
-  - Fair-play: Gấu bông...  
+  - Bức ảnh chụp được "pha cầu đẹp nhất": bức ảnh có lượt like + share nhiều nhất tính trong thời gian giải đấu (phần thưởng là 1 cốc trà sữa 50k).
   - Cổ động viên cuồng nhiệt nhất: Một cái ôm của BGĐ...
-  - Vận động viên “pha cầu đẹp nhất”: Tấm ảnh kỷ niệm in & đóng khung.
+  - Vận động viên “pha cầu đẹp nhất”: ...
 
 - **Trao giải**:  
   - Lễ trao giải ngay sau khi kết thúc giải đấu trong cùng ngày, có livestream nội bộ.  
@@ -112,9 +112,9 @@ Tổng cộng: khoảng 7-8 trđ.
 
 ## 9. Yếu tố sáng tạo & dấu ấn FoxAI ✨🚀
 
-- **Áo đồng phục**:  Các VĐV mặc đồng phục công ty để chụp ảnh truyền thông, sau đó có thể thay ra đồng phục khác để thi đấu.
+- **Áo đồng phục**: Các VĐV mặc đồng phục công ty để chụp ảnh truyền thông, sau đó có thể thay ra đồng phục khác để thi đấu.
 - **Mascot Linh vật** là con cáo FoxAI xuất hiện xuyên suốt giải đấu trên banner, poster.  
-- **Phần thi phụ “Bắt shuttle tốc độ”**: bức ảnh có lượt like + share nhiều nhất tính trong thời gian giải đấu (phần thưởng là 1 cốc trà sữa).
+- **Phần thi phụ bức ảnh chụp được “Pha cầu đẹp nhất”** giúp lan tỏa trên mạng xã hội.
 - **Góc “Storytelling” chia sẻ cảm xúc, highlight của từng người chơi trên mạng nội bộ**.  
 - **Photo booth với khung ảnh “Trẻ - Chất - Đổi mới” để mọi người chụp ảnh lưu niệm**.
 
