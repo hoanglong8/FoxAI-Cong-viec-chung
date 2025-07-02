@@ -1,10 +1,10 @@
 # Kế hoạch dự kiến các hoạt động nội bộ FoxAI (Tháng 7 - 12/2025) 🎊🤝
 
 ## Nguyên tắc chung:
-- Luôn ưu tiên các hoạt động phù hợp cả nam nữ, dễ tham gia, không gây áp lực.
+- Luôn ưu tiên các hoạt động phù hợp cả nam nữ, dễ tham gia, không bị áp lực chấn thương hay đòi hỏi kỹ năng cao.
 - Tối ưu chi phí bằng cách tận dụng nguồn lực nội bộ, tận dụng quà tặng FoxAI, ưu tiên địa điểm trong văn phòng hoặc gần văn phòng.
 - Đẩy mạnh truyền thông trước sự kiện qua email, group chat, poster sinh động.
-- Thu thập feedback để cải tiến cho lần tổ chức sau.
+- Thu thập feedback để cải tiến cho lần tổ chức sau qua phỏng vấn, viết cảm nhận...
 
 # Kế hoạch tổng thể hoạt động nội bộ FoxAI (Tháng 7 - 12/2025) 🎊🤝
 
