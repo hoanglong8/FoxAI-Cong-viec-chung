@@ -10,23 +10,23 @@
 ## 2. Thời gian - Địa điểm ⏰📍
 
 - **Thời gian**:  
-  - 1 ngày duy nhất, dự kiến thứ 7 tuần thứ 2 hoặc 3 tháng 8 (ví dụ 10 hoặc 17/8).  
+  - 1 ngày, dự kiến thứ 7 cuối tháng 8 (ví dụ 16 hoặc 23/8).  
   - Thời gian: 9h00 - 16h30 (bao gồm các trận đấu, nghỉ giải lao và trao giải).
 
 - **Địa điểm**:  
-  - Thuê quán billiards chuyên nghiệp gần văn phòng FoxAI hoặc khu vực thuận tiện đi lại.  
+  - Tại quán Shark Billiards (tầng 2 tòa N03-T4 gần văn phòng FoxAI).  
   - Có từ 2-3 bàn billiards để tổ chức thi đấu đồng thời.
 
 ## 3. Đối tượng tham gia 👥
 
 - Toàn thể nhân viên FoxAI, khoảng 24 người (hoặc tùy số lượng đăng ký thực tế).  
-- Cả nam và nữ đều được khuyến khích tham gia, không phân biệt trình độ kỹ năng billiards.
+- Cả nam và nữ đều được khuyến khích tham gia, không phân biệt trình độ kỹ năng billiards, có thể chia làm 2 rank leaguages (không chuyên và bán chuyên).
 
 ## 4. Cách thức tổ chức 🏆
 
 - **Thi đấu loại trực tiếp (knock-out)**:  
   - Thi đấu theo nhánh đơn, thua sẽ bị loại ngay.  
-  - Nếu số lượng không phù hợp (không phải 8 hoặc 16 người), có thể áp dụng “bye” cho các vòng đầu.  
+  - Nếu số lượng không phù hợp (không phải 8 hoặc 16 người), có thể áp dụng vé hạt giống (được auto vào thẳng vòng 2).  
 - **Luật chơi**: Theo luật billiards cơ bản, bàn 8 bi hoặc 9 bi tùy theo thỏa thuận trước giải.  
 - **Thời gian thi đấu**: Mỗi trận có thể giới hạn tối đa 30 phút để đảm bảo lịch trình.
 
@@ -50,29 +50,45 @@
 ## 6. Nhân sự thực hiện 👥
 
 - **Ban tổ chức chính**:  
-  - Trưởng ban: Phòng HR hoặc truyền thông nội bộ.  
-  - Phụ trách truyền thông: Team marketing nội bộ.  
-  - Hậu cần & điều phối: Team admin công ty (đặt bàn, quán, nước uống...).  
+  - Trưởng ban: Chủ tịch công đoàn  
+  - Phụ trách truyền thông: Team marketing.  
+  - Hậu cần & điều phối: Công đoàn viên (đặt bàn, quán, nước uống...) + HR + Kế toán.
   - Trọng tài: Nhân sự FoxAI có kinh nghiệm hoặc am hiểu billiards.  
-  - Chụp ảnh, quay video: Thành viên đam mê nhiếp ảnh hoặc thuê ngoài nếu cần.
+  - Chụp ảnh, quay video: Team marketing
 
 ## 7. Ngân sách dự kiến 💰
 
 | Khoản chi               | Ước tính (VNĐ)           |
 |-------------------------|--------------------------|
-| Thuê bàn billiards & địa điểm  | 3,000,000 - 4,500,000    |
-| Giải thưởng             | 4,000,000 - 5,000,000    |
+| Thuê bàn billiards 7-9ft  | 1 - 1,5 trđ    |
+| Giải thưởng             | 1,5-2 trđ    |
 | Nước uống, snack        | 800,000 - 1,200,000      |
 | Banner, poster          | 700,000                  |
-| Livestream & thiết bị   | 400,000                  |
+| Livestream & thiết bị   | 0-400,000                  |
 | Chi phí phát sinh khác  | 500,000                  |
+
+**Chi tiết hạng mục đồ uống:**
+| Khoản chi                  | Ước tính (VNĐ)           |
+|----------------------------|--------------------------|
+| - 1 thùng nước 20 lít      | ~50,000                 |
+| - 1 thùng 24 chai nước điện giải | ~360,000            |
+| - 30 phần snack            | ~240,000                 |
+| - Đá lạnh + xô                 | ~100,000                 |
+| - 50 cốc giấy dùng 1 lần   | ~90,000                  |
+
+*Lưu ý:* Bữa ăn sáng và trưa mọi người tự túc. Cần bố trí nhân sự chở thùng nước, chở xô đá, chở loa kéo + mic.
 
 ## 8. Giải thưởng & Vinh danh 🥇🏅
 
-- **Giải thưởng chính**:  
-  - Vô địch giải Billards: Cúp + Huy chương + Voucher + Quà tặng FoxAI  
-  - Á quân: Huy chương + Quà tặng nhỏ  
-  - Giải phong cách chơi đẹp hoặc fair-play: Quà lưu niệm  
+- **Giải bán chuyên**:  
+  - Vô địch giải bán chuyên: Huy chương vàng + Quà tặng FoxAI 500k 
+  - Á quân: Huy chương bạc + Quà tặng FoxAI 300k
+  - Giải 3: Huy chương đồng + Quà tặng FoxAI 200k
+
+- **Giải không chuyên**: 
+  - Vô địch giải không chuyên: Huy chương vàng + Quà tặng FoxAI 500k 
+  - Á quân: Huy chương bạc + Quà tặng FoxAI 300k  
+  - Giải 3: Huy chương đồng + Quà tặng FoxAI 200k
 
 - **Hình thức trao giải**:  
   - Lễ trao giải ngay trong ngày diễn ra sự kiện.  
