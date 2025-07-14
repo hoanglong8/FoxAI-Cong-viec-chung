@@ -9,7 +9,8 @@ Dự kiến ngày 26-27/07/2025
 
 ## Mục tiêu: 
 - FoxAI ra mắt công ty FoxAI Lào chính thức (Mr.Thạch phụ trách chính)
-- Chuyển đổi số: người dân và doanh nghiệp ở Lào rất chuộng và đầu tư vào công nghệ như Facebook, WhatsApp... => Giới thiệu miễn phí trang web joblao và homelao cho các DN và người dân Lào (để thu thập và quảng cáo). Cần có link tài liệu hướng dẫn (video + docs).
+- Chuyển đổi số: Giới thiệu trang web rao vặt joblao và homelao (miễn phí 3 năm) cho các DN và người dân Lào để thu thập data và quảng cáo thương hiệu.
+- Thu thập data khách hàng tham gia hội thảo: Check-in, tặng quà
 
 ## Sản phẩm chiến lược:
 - Đối với dự án (mảng ngân hàng, DN lớn):
@@ -17,11 +18,11 @@ Dự kiến ngày 26-27/07/2025
   - Đào tạo cách sử dụng AI nâng cao năng lực quản lý, năng suất lao động cho khoảng 200 doanh nghiệp VN tại Lào (Mr.Long phụ trách chính). Ví dụ: giới thiệu demo FoxAI Native dạng video (Mr.Hào phụ trách), đối tượng (giám đốc, kế toán) và ngôn ngữ trình bày (tiếng Việt).
   - Nội dung trình bày:
     - Dùng ChatGPT để soạn chiến lược (Mr.Thạch trình bày),
-    - FoxAI Native để hỏi đáp thông tin trong DN (fox.ai.vn),
-    - Dùng Canvas để tạo profile DN,
-    - demo OCR - RPA cho SAP B1,
-    - RPA tự động đăng bài trên joblao.la sang fanpage facebook,
-    - demo OCR nhận diện CCCD để checkin hội nghị (số điện thoại, tên công ty, email)...
+    - FoxAI Native để hỏi đáp thông tin trong DN giống fox.ai.vn (Mr.Long),
+    - Dùng Canvas để tạo profile DN (Mr.Long),
+    - Demo OCR - RPA cho SAP B1 (Mr.Long),
+    - RPA tự động đăng bài trên joblao.la sang fanpage facebook (Mr.Long),
+    - Demo OCR nhận diện CCCD để checkin hội nghị: số điện thoại, tên công ty, email...(Mr.Long)
 
 - Đối với sản phẩm mass (bán lẻ, số lượng lớn, giá rẻ, triển khai nhanh, đóng gói):
   - DMS: Hệ thống đặt hàng của Saigon Petro (quản lý Sale Order, định vị nhân viên, có giao diện Mobile và Web)
