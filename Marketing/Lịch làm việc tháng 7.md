@@ -4,16 +4,24 @@
 Dự kiến ngày 26-27/07/2025
 
 ## Đơn vị tổ chức chính: 
-Tạp chí Lào Việt, Hiệp hội doanh nghiệp VN tại Lào.
+- Tạp chí Lào Việt (đã có team marketing để phối hợp với team marketing của FoxAI), Hiệp hội doanh nghiệp VN tại Lào.
+- FoxAI có 1 gian hàng giới thiệu sản phẩm và có sản phẩm tặng quà cho KH đem về. Đây là 1 chuỗi các sự kiện talkshow của FoxAI (mỗi tháng 1 chủ đề: AI, KPI, Omnichannel...).
 
 ## Mục tiêu: 
 - FoxAI ra mắt công ty FoxAI Lào chính thức (Mr.Thạch phụ trách chính)
-- Đào tạo cách sử dụng AI nâng cao năng lực quản lý, hiệu suất cho doanh nghiệp (Mr.Long phụ trách chính)
-- Chuyển đổi số: người dân và doanh nghiệp ở Lào rất chuộng và đầu tư vào công nghệ như Facebook, WhatsApp... => Giới thiệu miễn phí trang web joblao và homelao cho các DN và người dân Lào (để thu thập và quảng cáo).
+- Chuyển đổi số: người dân và doanh nghiệp ở Lào rất chuộng và đầu tư vào công nghệ như Facebook, WhatsApp... => Giới thiệu miễn phí trang web joblao và homelao cho các DN và người dân Lào (để thu thập và quảng cáo). Cần có link tài liệu hướng dẫn (video + docs).
 
 ## Sản phẩm chiến lược:
 - Đối với dự án (mảng ngân hàng, DN lớn):
   - FoxAI Native: Thị trường tiềm năng (Lao Toyota và Điện lực Lao đang dùng SAP) => kết hợp với Lao Telecom, UniTel để bán sản phẩm cho FoxAI (Mr.Trường phụ trách) thông qua cách tổ chức hội thảo DN B2B. Chỉ cần nói trên Slide.
+  - Đào tạo cách sử dụng AI nâng cao năng lực quản lý, năng suất lao động cho khoảng 200 doanh nghiệp VN tại Lào (Mr.Long phụ trách chính). Ví dụ: giới thiệu demo FoxAI Native dạng video (Mr.Hào phụ trách), đối tượng (giám đốc, kế toán) và ngôn ngữ trình bày (tiếng Việt).
+  - Nội dung trình bày:
+    - Dùng ChatGPT để soạn chiến lược (Mr.Thạch trình bày),
+    - FoxAI Native để hỏi đáp thông tin trong DN (fox.ai.vn),
+    - Dùng Canvas để tạo profile DN,
+    - demo OCR - RPA cho SAP B1,
+    - RPA tự động đăng bài trên joblao.la sang fanpage facebook,
+    - demo OCR nhận diện CCCD để checkin hội nghị (số điện thoại, tên công ty, email)...
 
 - Đối với sản phẩm mass (bán lẻ, số lượng lớn, giá rẻ, triển khai nhanh, đóng gói):
   - DMS: Hệ thống đặt hàng của Saigon Petro (quản lý Sale Order, định vị nhân viên, có giao diện Mobile và Web)
