@@ -29,3 +29,11 @@ Dự kiến ngày 26-27/07/2025
   - Server - Data Center: Chỉ cần nói trên Slide.
   - Website: `joblao.la` (trang việc làm), `homelao.la` (trang bất động sản) để làm phễu thu thập thông tin khách hàng cho 2 thị trường (Mr.Tụ phụ trách deadline trước 26/07) => Giới thiệu cho doanh nghiệp Lào lên đó để đăng tin (Mr.Hào tư vấn cách thức để triển khai)
   - Hệ thống bán hàng đa kênh Omnichannel: Chỉ cần nói trên Slide (bao gồm cả Digital Marketing).
+
+## Quy trình mở tài khoản online Vietinbank
+
+- End-user chụp ảnh CCCD/Hộ chiếu (phải có dấu hiệu nhận biết hình quốc huy, số CC, giấy tờ không hợp lệ do cắt góc...) --> Lưu file (báo thành công) --> Database --> Phân chia theo khu vực để cho nhân viên kinh doanh --> Gọi điện cho khách bổ sung giấy tờ còn thiếu --> Đầy đủ thì gửi API cho hệ thống CRM để phê duyệt.
+
+- Ứng dụng Chatbot AI Private hỗ trợ chăm sóc khách hàng (bằng text, voice) và cán bộ nội bộ (tra cứu quy trình).
+
+- Ứng dụng RPA: Người dùng ra lệnh cho app Mobile_Bank bằng giọng nói (chế độ rảnh tay), đăng nhập bằng sinh trắc học, chuyển tiền cho Nguyễn Văn A...
