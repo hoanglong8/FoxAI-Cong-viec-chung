@@ -32,7 +32,7 @@ Dự kiến ngày 26-27/07/2025
 
 ## Quy trình mở tài khoản online Vietinbank
 
-- End-user chụp ảnh CCCD/Hộ chiếu (phải có dấu hiệu nhận biết hình quốc huy, số CC, giấy tờ không hợp lệ do cắt góc...) --> Lưu file (báo thành công) --> Database --> Phân chia theo khu vực để cho nhân viên kinh doanh --> Gọi điện cho khách bổ sung giấy tờ còn thiếu --> Đầy đủ thì gửi API cho hệ thống CRM để phê duyệt.
+- End-user chụp ảnh CCCD/Hộ chiếu (phải có dấu hiệu nhận biết hình quốc huy, số CC, giấy tờ không hợp lệ do cắt góc...) đồng thời lấy video sinh trắc học để lưu vào database (không cần đối chiếu với CCCD mà để so với giao dịch sau này) --> Lưu file (báo thành công) --> Database chạy ngầm --> Phân chia theo khu vực để cho nhân viên kinh doanh --> Gọi điện cho khách bổ sung giấy tờ còn thiếu --> Đầy đủ thì gửi API cho hệ thống CRM để phê duyệt.
 
 - Ứng dụng Chatbot AI Private hỗ trợ chăm sóc khách hàng (bằng text, voice) và cán bộ nội bộ (tra cứu quy trình).
 
