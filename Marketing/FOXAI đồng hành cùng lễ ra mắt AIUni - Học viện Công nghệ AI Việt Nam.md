@@ -1,10 +1,25 @@
 ## Nội dung chương trình
 Xem tại đây: https://notebooklm.google.com/notebook/c4bc0533-7837-4fa1-9eed-aa2446fd2d05
 
+Ông Nguyễn Đức Long giới thiệu về tầm nhìn, sứ mệnh và ba định hướng chiến lược của AI Uni (AI Universal, AI University, AI Unicorn).
+
 Giới thiệu Hội đồng cố vấn của AI Uni, bao gồm các chuyên gia như:
-Tiến sĩ Trần Việt Hùng (Steam for Vietnam, AI for Vietnam), Tiến sĩ Nguyễn Hoàng Anh (ứng dụng AI trong tài chính), Nguyễn Thị Cát (nghiên cứu AI tại Google), Tiến sĩ Lê Văn Hóa (ứng dụng AI trong y tế và phát triển thuốc), Hoàng Mạnh Tiến (ứng dụng AI trong phân tích tài chính), Tiến sĩ Nguyễn Thức Giang (ứng dụng AI trong nghiên cứu vật liệu tiên tiến), Phạm Tuấn Anh (chuyên gia bảo mật), Thạc sĩ Vũ Học Quyết (Công ty Lia), Nguyễn Tiến Cương (Giám đốc chương trình TF2.0), Tiến sĩ Dương Đức Anh (Phó Viện trưởng Viện Nghiên cứu Điện tử Tin học và Tự động hóa).
-Tiến sĩ Nguyễn Thu Hà (Viện Dinh dưỡng Quốc gia), Tiến sĩ Dương Tuấn Hưng (Viện Hàn lâm Khoa học và Công nghệ Việt Nam), Phó giáo sư Tiến sĩ Lê Chính Ngọc (Đại học Bách Khoa Hà Nội), Tiến sĩ Hà Nguy Dũng (Trường Điện tử Đại học Bách Khoa) chia sẻ trực tiếp tại sự kiện.
-Lễ ký kết hợp tác chiến lược giữa AI Uni (Ông Nguyễn Đức Long) và Viện Nghiên cứu Điện tử Tin học và Tự động hóa (Ông Dương Đức Anh).
+- Tiến sĩ Trần Việt Hùng (Steam for Vietnam, AI for Vietnam),
+- Tiến sĩ Nguyễn Hoàng Anh (ứng dụng AI trong tài chính),
+- Nguyễn Thị Cát (nghiên cứu AI tại Google),
+- Tiến sĩ Lê Văn Hóa (ứng dụng AI trong y tế và phát triển thuốc),
+- Hoàng Mạnh Tiến (ứng dụng AI trong phân tích tài chính),
+- Tiến sĩ Nguyễn Đức Giang (ứng dụng AI trong nghiên cứu vật liệu tiên tiến),
+- Phạm Tuấn Anh (chuyên gia bảo mật),
+- Thạc sĩ Vũ Học Quyết (Công ty Lia),
+- Nguyễn Tiến Cương (Giám đốc chương trình TF2.0),
+- Tiến sĩ Dương Đức Anh (Phó Viện trưởng Viện Nghiên cứu Điện tử Tin học và Tự động hóa).
+- Tiến sĩ Nguyễn Thu Hà (Viện Dinh dưỡng Quốc gia),
+- Tiến sĩ Dương Tuấn Hưng (Viện Hàn lâm Khoa học và Công nghệ Việt Nam),
+- Phó giáo sư Tiến sĩ Lê Chính Ngọc (Đại học Bách Khoa Hà Nội),
+- Tiến sĩ Hà Huy Dũng (Trường Điện tử Đại học Bách Khoa)
+
+Ông Nguyễn Văn Tiệp, Giám đốc Đào tạo AI Uni, trình bày tổng quan về các chương trình đào tạo (phổ cập, nâng cao, chuyên sâu) và các trụ cột năng lực AI.
 
 ---
 ## Hình ảnh sự kiện
