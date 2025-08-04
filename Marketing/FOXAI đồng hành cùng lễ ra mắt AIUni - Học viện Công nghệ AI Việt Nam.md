@@ -1,7 +1,7 @@
 ## Nội dung chương trình
 Xem tại đây: https://notebooklm.google.com/notebook/c4bc0533-7837-4fa1-9eed-aa2446fd2d05
 
-Ông Nguyễn Đức Long giới thiệu về tầm nhìn, sứ mệnh và ba định hướng chiến lược của AI Uni (AI Universal, AI University, AI Unicorn).
+Ông Nguyễn Đức Long - Chủ tịch AI Uni giới thiệu về tầm nhìn, sứ mệnh và ba định hướng chiến lược của AI Uni bao gồm: AI Universal, AI University, AI Unicorn.
 
 Giới thiệu Hội đồng cố vấn của AI Uni, bao gồm các chuyên gia như:
 - Tiến sĩ Trần Việt Hùng (Steam for Vietnam, AI for Vietnam),
@@ -23,7 +23,9 @@ Giới thiệu Hội đồng cố vấn của AI Uni, bao gồm các chuyên gia
 
 ---
 ## Hình ảnh sự kiện
-Xem tại Zalo
+https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/Es6pM58KyRpHlvTjDYm2MHcBtXpIQCoLqzcyUwbhsuCqyQ?e=pxOqS1
+
+Hoặc liên hệ với Ban tổ chức để lấy thêm hình ảnh (nếu cần)
 
 ---
 ## Bài viết đề xuất
