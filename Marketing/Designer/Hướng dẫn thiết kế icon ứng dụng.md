@@ -73,7 +73,7 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 
 ---
 
-## ✅ Mẫu Minh Họạ Chuẩn
+## ✅ Mẫu Minh Họa Chuẩn
 
 <img width="686" height="687" alt="image" src="https://github.com/user-attachments/assets/1bb60625-00db-4c74-a4fc-19cb53aaaca8" />
 
