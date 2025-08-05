@@ -1,5 +1,7 @@
 ## Nội dung chương trình
-Xem tại đây: https://notebooklm.google.com/notebook/c4bc0533-7837-4fa1-9eed-aa2446fd2d05
+Toàn văn tại đây: https://notebooklm.google.com/notebook/c4bc0533-7837-4fa1-9eed-aa2446fd2d05
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/0040d022-0cb8-457f-aadd-659b43cd761d" />
 
 Ông Nguyễn Đức Long - Chủ tịch AI Uni giới thiệu về tầm nhìn, sứ mệnh và ba định hướng chiến lược của AI Uni bao gồm: AI Universal, AI University, AI Unicorn.
 
@@ -19,13 +21,26 @@ Giới thiệu Hội đồng cố vấn của AI Uni, bao gồm các chuyên gia
 - Phó giáo sư Tiến sĩ Lê Chí Ngọc (Đại học Bách Khoa Hà Nội),
 - Tiến sĩ Hà Huy Dũng (Trường Điện tử Đại học Bách Khoa)
 
+<img width="1104" height="828" alt="image" src="https://github.com/user-attachments/assets/33cfa992-d569-4957-b309-a092c4fae7f4" />
+
 Ông Nguyễn Văn Tiệp, Giám đốc Đào tạo AI Uni, trình bày tổng quan về các chương trình đào tạo (phổ cập, nâng cao, chuyên sâu) và các trụ cột năng lực AI.
 
 ---
 ## Hình ảnh sự kiện
 https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/Es6pM58KyRpHlvTjDYm2MHcBtXpIQCoLqzcyUwbhsuCqyQ?e=pxOqS1
 
-Hoặc liên hệ với Ban tổ chức để lấy thêm hình ảnh (nếu cần)
+---
+# Bài viết liên quan
+
+https://www.vietnam.vn/dao-tao-1-000-giang-vien-ai-pho-cap-tri-tue-nhan-tao-toan-dan
+
+https://baomoi.com/dao-tao-1-000-giang-vien-ai-pho-cap-tri-tue-nhan-tao-toan-dan-c52904610.epi
+
+https://thuonghieucongluan.com.vn/aiuni-khoi-dong-chuong-trinh-dao-tao-1-000-giang-vien-genai-chuyen-nghiep-dong-hanh-cung-phong-trao-binh-dan-hoc-vu-so-quoc-gia-a273194.html
+
+https://thuonghieuvaphapluat.vn/aiuni-dao-tao-1000-giang-vien-genai-kien-tao-xa-hoi-al-toan-dien-d75269.html
+
+https://congthuong.vn/aluni-khoi-dong-dao-tao-1-000-giang-vien-genai-chuyen-nghiep-413448.html
 
 ---
 ## Bài viết đề xuất
