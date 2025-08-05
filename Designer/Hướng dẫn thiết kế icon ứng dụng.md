@@ -14,7 +14,7 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 | Độ tương phản        | Icon cần nổi bật khi thu nhỏ ở 64x64 px                                               |
 | Khả năng tái sử dụng | Có thể dùng cho web, app, extension, marketing                                        |
 
-<img width="1042" height="1042" alt="image" src="https://github.com/user-attachments/assets/3afec45b-3557-4ca0-9527-a2f0ca230445" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/3afec45b-3557-4ca0-9527-a2f0ca230445" />
 
 [Logo FOXAI](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffox.ai.vn%2F&psig=AOvVaw3a4hIRqCcFGQkzWcOw3MbW&ust=1754460438390000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCN9sqA844DFQAAAAAdAAAAABAE)
 
