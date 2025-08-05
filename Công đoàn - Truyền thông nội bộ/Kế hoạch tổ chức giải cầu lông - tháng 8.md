@@ -104,3 +104,4 @@ Cơ cấu giải thưởng được nâng cấp để tăng tính cạnh tranh v
 - Ngân sách: 250k/người => Thủy tạo poll trên group để đăng ký
 - Địa điểm: Thủy tìm địa điểm ở gần khu Ngoại giao đoàn (khoảng 70-80 người), nếu có màn LED thì không cần in backdrop. Yêu cầu cần có sân khấu và trang trí.
 - Số lượng khách mời: Thủy liên hệ các sếp
+- Lập ngân sách: Thủy - 06/08/2025.
