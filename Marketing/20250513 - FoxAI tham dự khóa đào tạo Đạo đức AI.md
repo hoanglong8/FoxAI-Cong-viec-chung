@@ -48,6 +48,8 @@ Khóa học trang bị cho đội ngũ FoxAI các kiến thức quan trọng nh�
 
 FoxAI luôn đặt khách hàng là trung tâm, cam kết mang đến những giải pháp AI không chỉ hiện đại mà còn an toàn, đáng tin cậy và phù hợp với các quy chuẩn đạo đức toàn cầu. Tham gia khóa đào tạo “Đạo đức AI” chính là minh chứng cho nỗ lực không ngừng của FoxAI trong việc xây dựng hệ sinh thái AI phát triển bền vững và vì lợi ích lâu dài của khách hàng.
 
+---
+Link ảnh sự kiện: https://foxai.sharepoint.com/:f:/s/TaiLieuTTSXFoxAI/EvlPmVlZAztKuETPY-kkUhUBjXxOxAEnaPWQYgecasr-4A?e=n30LiC
 
 ---
 Link bài viết tham khảo:
