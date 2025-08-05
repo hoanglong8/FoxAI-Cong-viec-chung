@@ -33,16 +33,15 @@
     - Trong trường hợp số lượng đăng ký không phải là lũy thừa của 2 (ví dụ: 4, 8, 16), Ban tổ chức sẽ bốc thăm một số vận động viên may mắn được miễn thi đấu vòng đầu tiên (vòng gửi xe).
     - Mỗi trận đấu diễn ra theo thể thức **3 hiệp thắng 2**, mỗi hiệp **21 điểm**.
 
-- **Lịch trình dự kiến (08h00 - 17h00)**:
-    - **08:00 – 08:30**: Check-in VĐV, khởi động, khai mạc.
-    - **08:30 – 12:00**:
+- **Lịch trình dự kiến (09h00 - 15h00)**:
+    - **09:00 – 09:30**: Check-in VĐV, khởi động, khai mạc.
+    - **09:30 – 12:00**:
         - Thi đấu vòng loại và Tứ kết nội dung Đơn nam.
         - Thi đấu vòng loại và Tứ kết nội dung Đôi nam nữ (thi đấu song song trên 2 sân).
-    - **12:00 – 13:30**: Nghỉ trưa (VĐV và BTC tự túc).
-    - **13:30 – 16:00**:
+    - **12:00 – 14:00**:
         - Thi đấu Bán kết hai nội dung.
         - Thi đấu Chung kết hai nội dung.
-    - **16:00 – 17:00**:
+    - **14:00 – 15:00**:
         - Tổng kết, phát biểu của Ban Lãnh đạo.
         - **Lễ trao giải** và vinh danh các nhà vô địch.
         - Chụp ảnh lưu niệm, kết thúc chương trình tại sân.
