@@ -1,8 +1,8 @@
-# **Kế hoạch tổ chức HỘI THAO FOXAI 2025 - Chào mừng 3 năm thành lập** 🏆🎉
+# **Kế hoạch tổ chức HỘI THAO FOXAI 2025 - Chào mừng 2 năm thành lập** 🏆🎉
 
 ## 1. Mục tiêu chương trình 🎯
 
-- **Hoạt động trọng điểm chào mừng kỷ niệm 3 năm thành lập công ty FOXAI (2022 - 2025)**, tạo dấu ấn và kỷ niệm đáng nhớ cho toàn thể nhân viên.
+- **Hoạt động trọng điểm chào mừng kỷ niệm 2 năm thành lập công ty FOXAI (2023 - 2025)**, tạo dấu ấn và kỷ niệm đáng nhớ cho toàn thể nhân viên.
 - Gắn kết các thành viên FOXAI qua sân chơi thể thao cạnh tranh và hấp dẫn.
 - Khuyến khích tinh thần rèn luyện sức khỏe, xây dựng văn hóa đồng đội và cạnh tranh lành mạnh.
 - Thể hiện mạnh mẽ văn hóa FoxAI **“Trẻ - Chất - Đổi mới”** qua một sự kiện quy mô và chuyên nghiệp.
@@ -56,7 +56,7 @@
 
 ## 6. Ngân sách dự kiến 💰
 
-*Ngân sách được điều chỉnh để phù hợp với quy mô sự kiện kỷ niệm 3 năm.*
+*Ngân sách được điều chỉnh để phù hợp với quy mô sự kiện kỷ niệm 2 năm.*
 
 | Khoản chi | Ước tính (VNĐ) | Ghi chú |
 | :--- | :--- | :--- |
