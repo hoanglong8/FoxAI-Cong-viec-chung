@@ -75,15 +75,15 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 
 ## ✅ Mẫu Minh Họạ Chuẩn
 
-![](./assets/foxai_native_icon_1024.png)
+<img width="686" height="687" alt="image" src="https://github.com/user-attachments/assets/1bb60625-00db-4c74-a4fc-19cb53aaaca8" />
 
 ---
 
-## 📁 Cấu Trúc Thư Mục Icon (đưa vào repo)
+## 📁 Cấu Trúc Thư Mục Icon
 
 ```
-assets/
-└── icon/
+Designer/
+└── FOXAI Native/
     ├── foxai_native_icon.svg
     ├── foxai_native_icon_1024.png
     ├── foxai_native_icon_512.png
@@ -102,6 +102,3 @@ assets/
 
 ---
 
-**Người viết**: PO dự án FOXAI Native
-**Phiên bản**: 1.0 – 2025-08-05
-**Mục tiêu**: Chuẩn hóa UI/UX và tăng tính nhận diện sản phẩm FOXAI Native
