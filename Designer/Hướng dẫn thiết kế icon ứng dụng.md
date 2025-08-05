@@ -4,8 +4,6 @@
 
 Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x1024 pixel, thể hiện được **bản sắc thương hiệu** và **tính năng cốt lõi**: AI Chatbot, RPA, OCR.
 
----
-
 ## 🧱️ 1. Nguyên Tắc Cốt Lõi
 
 | Yếu tố               | Mô tả                                                                                 |
@@ -16,8 +14,6 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 | Độ tương phản        | Icon cần nổi bật khi thu nhỏ ở 48x48 px                                               |
 | Khả năng tái sử dụng | Có thể dùng cho web, app, extension, marketing                                        |
 
----
-
 ## 🛠️ 2. Công Cụ Đề Xuất
 
 | Mục đích             | Công cụ                                                                                                      |
@@ -25,8 +21,6 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 | Vẽ vector            | [Figma](https://figma.com), [Adobe Illustrator](https://adobe.com/illustrator), [Sketch](https://sketch.com) |
 | Tạo icon AI nhanh    | [Iconify](https://iconify.design), \[DALL·E / ChatGPT + Image Editor]                                        |
 | Kiểm tra preview app | [MockUPhone](https://mockuphone.com), \[Figma preview]                                                       |
-
----
 
 ## �� 3. Lộ Trình Thiết Kế Icon
 
@@ -61,8 +55,6 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
   * `.png` (1024x1024, 512x512, 256x256, 128x128, 64x64)
 * Đặt tên file: `foxai_native_icon_{size}.png`
 
----
-
 ## 🚫 Yêu Cầu Bắt Buộc
 
 * **Không làm icon quá chi tiết** → khó nhìn ở size nhỏ
@@ -71,15 +63,11 @@ Thiết kế icon mobile app **FOXAI Native** với kích thước chuẩn 1024x
 * Đảm bảo mọi thành phần là **vector 100%**
 * Icon **không chứa nhiều text** → ưu tiên hình khối biểu tượng
 
----
-
-## ✅ Mẫu Minh Họa Chuẩn
+## ✅ Mẫu Minh Họa icon FOXAI Native
 
 <img width="686" height="687" alt="image" src="https://github.com/user-attachments/assets/1bb60625-00db-4c74-a4fc-19cb53aaaca8" />
 
----
-
-## 📁 Cấu Trúc Thư Mục Icon
+## 📁 [Cấu Trúc Thư Mục Icon](https://github.com/hoanglong8/FoxAI-Cong-viec-chung/tree/main/Designer/FOXAI%20Native)
 
 ```
 Designer/
@@ -91,8 +79,6 @@ Designer/
     ├── foxai_native_icon_128.png
     └── foxai_native_icon_64.png
 ```
-
----
 
 ## 📌 Tài Liệu Tham Khảo
 
