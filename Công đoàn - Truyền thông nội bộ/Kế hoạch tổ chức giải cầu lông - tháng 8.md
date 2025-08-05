@@ -99,3 +99,8 @@ Cơ cấu giải thưởng được nâng cấp để tăng tính cạnh tranh v
 - **Video khai mạc**: Chiếu một video ngắn (1-2 phút) nhìn lại hành trình 2 năm của công ty để khơi dậy niềm tự hào.
 - **Livestream Lễ trao giải**: Phát trực tiếp khoảnh khắc vinh danh trên các kênh nội bộ để toàn thể nhân viên cùng theo dõi.
 - **Góc "Storytelling"**: Khuyến khích VĐV và cổ động viên chia sẻ cảm xúc, hình ảnh lên mạng nội bộ với hashtag `#FOXAI_2nd_Anniversary` `#HoiThaoFOXAI2025`.
+
+## 10. Gala tiệc 
+- Ngân sách: 250k/người => Thủy tạo poll trên group để đăng ký
+- Địa điểm: Thủy tìm địa điểm ở gần khu Ngoại giao đoàn (khoảng 70-80 người), nếu có màn LED thì không cần in backdrop. Yêu cầu cần có sân khấu và trang trí.
+- Số lượng khách mời: Thủy liên hệ các sếp
