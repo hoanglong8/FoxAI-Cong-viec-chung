@@ -29,5 +29,9 @@ Kết quả:
 
 **Lưu ý:** Testcase cần xây theo khung từng service trong microservice: IAM service, Config service, ...
 
+## 6. Tiến độ sản phẩm 
+- homeslao.la, jobslao.la
+- GĐTT phải xây dựng được kế hoạch nhân sự dựa theo chiến lược sản phẩm, mỗi nhân sự chỉ chuyên 1 sản phẩm thôi.
+- Quỹ lương của GĐTT/ban điều hành thì phần trực tiếp tỷ lệ thấp, phần gián tiếp nhận cuối năm theo kết quả công ty cao lên.
 
 
