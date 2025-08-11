@@ -100,7 +100,56 @@
     - Thiết kế standee, backdrop & banner, video hành trình 2 năm: Phòng Marketing sẽ gửi ảnh trước ngày thứ 4 để Ms.Thủy in.
     - Tổ chức chương trình: MC (bonus), tổ chức minigame và cho phép các thành viên đăng ký các tiết mục cá nhân.
 
-Poll đăng ký:
-- Tiêu đề
-- Bắt buộc tham gia Gala
-- Vote đăng ký: Đôi nam, đôi nam nữ
+---
+🏸🔥 **[THÔNG BÁO] KHỞI ĐỘNG HỘI THAO FOXAI 2025 & MỞ CỔNG ĐĂNG KÝ THI ĐẤU** 🏸🔥
+
+Chào mừng toàn thể anh chị em đại gia đình FOXAI,
+
+Nhân dịp **kỷ niệm 2 năm thành lập công ty**, Công đoàn xin chính thức phát động **HỘI THAO FOXAI 2025** - một sân chơi để chúng ta cùng giao lưu, rèn luyện sức khỏe và bùng cháy hết mình! 🔥
+
+Để chuẩn bị cho một mùa giải thành công, BTC mở cổng đăng ký tham gia để chốt danh sách và sắp xếp lịch thi đấu.
+
+**📌 THÔNG TIN TÓM TẮT SỰ KIỆN:**
+* **Sự kiện:** GIẢI CẦU LÔNG FOXAI 2025 - CHÀO MỪNG 2 NĂM THÀNH LẬP 🏆🎉
+* **Thời gian thi đấu:** 14:00 - 17:30, Thứ Bảy ngày 16/08/2025.
+* **Tiệc GALA mừng sinh nhật:** Từ 19:00 cùng ngày.
+* **Địa điểm:** Sân cầu lông gần công ty (sẽ thông báo sau).
+
+---
+
+**📜 NỘI DUNG & THỂ LỆ THI ĐẤU:**
+
+* **Các nội dung:**
+    1.  **Đôi Nam**
+    2.  **Đôi Nam Nữ**
+* **Luật chơi:** Thi đấu loại trực tiếp, mỗi trận 3 hiệp, đánh 3 chạm 2, mỗi hiệp 21 điểm. Luật cụ thể theo nội dung tại https://thethaonamviet.vn/luat-choi-cau-long-doi/
+* **Điều lệ bắt buộc:** Mỗi vận động viên **CHỈ ĐƯỢC ĐĂNG KÝ 01 NỘI DUNG DUY NHẤT** để đảm bảo thể lực và tiến độ giải đấu.
+
+---
+
+**‼️ LƯU Ý SIÊU QUAN TRỌNG ‼️**
+
+Toàn bộ nhân viên FOXAI (bao gồm cả thực tập) **BẮT BUỘC** phải tham gia **TIỆC GALA BUỔI TỐI** để cùng nâng ly chúc mừng sinh nhật công ty và quan trọng hơn là **trực tiếp vinh danh, trao giải cho các nhà vô địch** trong không khí trang trọng nhất! 🏆
+
+---
+
+**🎯 MỤC ĐÍCH VOTE & KÊU GỌI HÀNH ĐỘNG**
+
+* **Với Vận động viên:** Việc vote này là **đăng ký thi đấu chính thức**. BTC cần danh sách để bốc thăm, chia cặp và dự trù thời gian.
+* **Với Cổ động viên:** Anh em không thi đấu không cần vote, nhưng hãy chuẩn bị tinh thần cổ vũ thật nhiệt tình nhé! Sẽ có giải **"Cổ động viên nhiệt huyết nhất"** với phần thưởng cực hấp dẫn! 📣
+
+**Hạn chót đăng ký (vote): 17h00 Thứ Tư (13/08/2025).**
+
+Anh em VĐV hãy bình chọn ngay tại poll bên dưới để ghi danh tranh tài nhé! 👇
+
+Cảm ơn cả nhà! ❤️
+
+---
+**(Tạo Bình chọn/Poll trên Zalo với các tùy chọn sau)**
+
+**BẠN ĐĂNG KÝ THAM GIA NỘI DUNG NÀO TẠI HỘI THAO FOXAI 2025?**
+
+1.  **Đôi Nam**
+2.  **Đôi Nam Nữ**
+
+**(Nhớ tắt tùy chọn "Cho phép người khác thêm phương án")**
