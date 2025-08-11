@@ -14,7 +14,7 @@ Kết quả:
 
 ## 3. Tiến độ R&D và kinh doanh AI
 - Với những dự án mà kinh doanh chuyển về, bộ phận nào sẽ tiếp quản tiếp, bố trí nhân sự làm gì để triển khai được tiếp theo: Dự án đào tạo chính quyền xã thông minh (đang xây dựng tài liệu đào tạo), dự án ABS (đang làm lại bản demo), dự án Huetronics (đang chờ ký hợp đồng), dự án Parcific Airline (đã gửi email kế hoạch khảo sát)...
-- Tiến độ làm POC: nhân sự hiện tại, ai đang làm gì. Dự án SHB (đã xây dựng POC và gửi cho KH), Vietinbank Lào (tuần này sẽ demo), 
+- Tiến độ làm POC: nhân sự hiện tại, ai đang làm gì. Dự án SHB (đã xây dựng POC và gửi cho KH), Vietinbank Lào (đã xong giao diện web, OCR, đang thi công tính năng chụp ảnh-chân dung, tuần này sẽ demo), TLTL (đã xây dựng tờ trình, tuần này sẽ làm demo).
 - Kế hoạch triển khai dự án tiếp theo: Ví dụ LaoVietBank cần bao nhiêu người online, offline để thực hiện
 - Chú ý: Phân biệt giữa quản lý (thống kê, hậu kiểm) và vận hành (có quy trình theo dõi & kết nối hàng ngày) 
 
