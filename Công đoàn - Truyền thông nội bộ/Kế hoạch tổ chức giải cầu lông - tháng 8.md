@@ -99,3 +99,8 @@
     - Tìm sân và thuê sân, mua cúp và huy chương: Mr.Long thuê trước ngày thứ 3. 
     - Thiết kế standee, backdrop & banner, video hành trình 2 năm: Phòng Marketing sẽ gửi ảnh trước ngày thứ 4 để Ms.Thủy in.
     - Tổ chức chương trình: MC (bonus), tổ chức minigame và cho phép các thành viên đăng ký các tiết mục cá nhân.
+
+Poll đăng ký:
+- Tiêu đề
+- Bắt buộc tham gia Gala
+- Vote đăng ký: Đôi nam, đôi nam nữ
