@@ -1,8 +1,8 @@
-# **Kế hoạch tổ chức HỘI THAO FOXAI 2025 - Chào mừng 2 năm thành lập** 🏆🎉
+### **KẾ HOẠCH TỔ CHỨC HỘI THAO FOXAI 2025 - CHÀO MỪNG 2 NĂM THÀNH LẬP** 🏆🎉
 
 ## 1. Mục tiêu chương trình 🎯
 
-- **Hoạt động trọng điểm chào mừng kỷ niệm 2 năm thành lập công ty FOXAI (2023 - 2025)**, tạo dấu ấn và kỷ niệm đáng nhớ cho toàn thể nhân viên.
+- **Hoạt động trọng điểm chào mừng kỷ niệm 2 năm thành lập công ty FOXAI (Tháng 8/2023 - Tháng 8/2025)**, tạo dấu ấn và kỷ niệm đáng nhớ cho toàn thể nhân viên.
 - Gắn kết các thành viên FOXAI qua sân chơi thể thao cạnh tranh và hấp dẫn.
 - Khuyến khích tinh thần rèn luyện sức khỏe, xây dựng văn hóa đồng đội và cạnh tranh lành mạnh.
 - Thể hiện mạnh mẽ văn hóa FoxAI **“Trẻ - Chất - Đổi mới”** qua một sự kiện quy mô và chuyên nghiệp.
@@ -11,97 +11,87 @@
 
 - **Thời gian**:
     - **Thứ Bảy, ngày 16 tháng 8 năm 2025**.
-    - **14h00 – 17h00**: Thi đấu và trao giải.
-    - **Từ 17h00**: Liên hoan chúc mừng sinh nhật công ty (địa điểm và chi phí sẽ có kế hoạch riêng).
+    - **14h00 – 17h30**: Thi đấu và chụp ảnh lưu niệm tại sân.
+    - **Từ 18h00**: Bắt đầu tiệc Gala chúc mừng sinh nhật công ty.
 
 - **Địa điểm**:
-    - Thuê 01 sân cầu lông chất lượng cao, liền kề tại khu vực gần văn phòng (ưu tiên khu vực Cầu Giấy, Nam Từ Liêm để thuận tiện di chuyển).
+    - Thuê 01 sân cầu lông chất lượng cao tại khu vực gần văn phòng (ưu tiên khu vực Cầu Giấy, Nam Từ Liêm).
 
 ## 3. Đối tượng và Nội dung thi đấu 🏸
 
 - **Đối tượng tham gia**: Toàn thể thành viên công ty FOXAI.
-- **Vận động viên**: Dự kiến khoảng **20 tay vợt** là nhân viên công ty đăng ký tham gia.
-- **Các nội dung thi đấu (01 nội dung)**: Đơn nam
-- **Hình thức**: Thi đấu loại trực tiếp (knock-out).
+- **Vận động viên**: Dự kiến khoảng **20-24 tay vợt** đăng ký tham gia.
+- **Các nội dung thi đấu (02 nội dung)**:
+    1.  **Đôi nam**
+    2.  **Đôi nam nữ**
+- **Điều lệ quan trọng**: Để đảm bảo thể lực và thời gian thi đấu, **mỗi vận động viên chỉ được đăng ký tham gia 01 nội dung duy nhất**.
 
 ## 4. Thể thức và Lịch trình thi đấu 🏆
 
 - **Thể thức thi đấu**:
-    - **Loại trực tiếp**: Thua một trận sẽ bị loại. Các vận động viên/cặp vận động viên sẽ được bốc thăm ngẫu nhiên để phân nhánh.
-    - Trong trường hợp số lượng đăng ký không phải là lũy thừa của 2 (ví dụ: 4, 8, 16), Ban tổ chức sẽ bốc thăm một số vận động viên may mắn được miễn thi đấu vòng đầu tiên (vòng gửi xe).
-    - Mỗi trận đấu diễn ra theo thể thức **3 hiệp thắng 2**, vòng loại mỗi hiệp **21 điểm**, vòng bán kết + chung kết **15 điểm**.
+    - **Loại trực tiếp**: Thua một trận sẽ bị loại. Các cặp VĐV sẽ được bốc thăm ngẫu nhiên để phân nhánh.
+    - **Thể thức tính điểm (Đề xuất)**: Để đảm bảo tiến độ, mỗi trận đấu sẽ diễn ra trong **01 hiệp duy nhất, chạm 31 điểm** (đổi sân ở điểm 16).
+- **Lịch trình dự kiến (14h00 - 17h30)**:
+    - **13:45 – 14:00**: Check-in VĐV, khởi động.
+    - **14:00 – 14:15**: Khai mạc ngắn gọn, phổ biến luật, chụp ảnh khai mạc.
+    - **14:15 – 16:30**: Thi đấu vòng loại và bán kết song song 2 nội dung.
+    - **16:30 – 17:15**: Thi đấu 02 trận Chung kết (Đôi nam và Đôi nam nữ).
+    - **17:15 – 17:30**: Tổng kết nhanh, chụp ảnh lưu niệm toàn đoàn và di chuyển đến địa điểm Gala.
 
-- **Lịch trình dự kiến (09h00 - 15h00)**:
-    - **13:30 – 14:00**: Check-in VĐV, khởi động, khai mạc.
-    - **14:00 – 16:00**:
-        - Thi đấu vòng loại và Tứ kết nội dung Đơn nam.
- .
-    - **16:00 – 17:00**:
-        - Thi đấu Bán kết.
-        - Thi đấu Chung kết.
-    - **17:00 – 17:30**:
-        - Tổng kết, phát biểu của Ban Lãnh đạo.
-          - Chụp ảnh lưu niệm, kết thúc chương trình tại sân.
+- **Lễ trao giải**: Sẽ được tổ chức trang trọng vào **đầu chương trình Gala** để vinh danh các nhà vô địch trước toàn thể công ty.
 
-      - **Lễ trao giải** và vinh danh các nhà vô địch sẽ thực hiện vào lúc khai tiệc Gala.
-      
+> **LƯU Ý QUAN TRỌNG VỀ THỜI GIAN:**
+> Với 2 nội dung thi đấu trên 1 sân trong 3 giờ, thời gian sẽ rất eo hẹp. BTC cần cân nhắc các phương án:
+> 1.  **Ưu tiên:** Áp dụng thể thức 1 hiệp 31 điểm như đề xuất.
+> 2.  **Phương án 2:** Thuê thêm 1 sân nữa trong cùng khung giờ để đẩy nhanh tiến độ (cần điều chỉnh ngân sách).
+> 3.  **Phương án 3:** Bắt đầu thi đấu sớm hơn, từ 13h00.
+
 ## 5. Nhân sự tổ chức 👥
 
 - **Ban tổ chức**:
     - **Trưởng ban**: Chủ tịch Công đoàn (Chịu trách nhiệm chung).
-    - **Phụ trách chuyên môn**: Phân công nhân sự có kinh nghiệm làm trọng tài chính và giám sát luật thi đấu.
+    - **Phụ trách chuyên môn**: Phân công 1-2 nhân sự có kinh nghiệm làm trọng tài chính và giám sát luật thi đấu (nhân sự nội bộ).
     - **Phụ trách hậu cần**: Công đoàn + Phòng Nhân sự (Chuẩn bị sân bãi, nước uống, dụng cụ y tế, quà tặng...).
     - **Phụ trách tài chính**: Phòng Kế toán (Quản lý và quyết toán ngân sách).
-    - **Phụ trách truyền thông**: Team Marketing (Thiết kế, chụp ảnh, quay phim, livestream, cập nhật diễn biến lên các kênh nội bộ).
+    - **Phụ trách truyền thông**: Team Marketing (Thiết kế, chụp ảnh, quay phim, cập nhật diễn biến).
 
-## 6. Ngân sách dự kiến 💰
+## 6. Ngân sách dự kiến (Giải đấu) 💰
 
-*Ngân sách được điều chỉnh để phù hợp với quy mô sự kiện kỷ niệm 2 năm.*
+*Ngân sách được điều chỉnh lại cho phù hợp với kế hoạch mới.*
 
 | Khoản chi | Ước tính (VNĐ) | Ghi chú |
 | :--- | :--- | :--- |
-| 1. Thuê 2 sân cầu lông (6h x ~200k/h/sân x 2) | 2,400,000 | Bao gồm thời gian thi đấu và chuẩn bị |
-| 2. Giải thưởng (Tiền mặt + Huy chương) | 1,500,000 | Tăng giá trị để chào mừng kỷ niệm 2 năm |
+| 1. Thuê 01 sân cầu lông (4h x ~120k/h) | 480,000 | Bao gồm 30p chuẩn bị và 30p dọn dẹp |
+| 2. Giải thưởng (Tiền mặt + Huy chương x 2 nội dung) | 2,600,000 | 1,3tr/nội dung (Vô địch 800k, Á quân 500k) |
 | 3. Nước uống, điện giải, snack, trái cây | 1,000,000 | Chuẩn bị chu đáo cho VĐV và cổ động viên |
-| 4. Tận dụng standee ở công ty | 0 | Thiết kế theo chủ đề "2 năm thành lập" |
-| 5. Dụng cụ (Cầu thi đấu, dụng cụ y tế...) | 500,000 | Chuẩn bị cầu mới và đồ sơ cứu cơ bản |
-| 6. Chi phí thuê trọng tài | 1,000,000 |  |
-| **Tổng cộng** | **~ 6,500,000** | Ngân sách có thể thay đổi dựa trên tài trợ |
+| 4. In ấn (Standee, giấy chứng nhận,...) | 500,000 | Tận dụng standee sẵn có, chỉ in mới nếu cần |
+| 5. Dụng cụ (Cầu thi đấu, dụng cụ y tế...) | 500,000 | Chuẩn bị cầu tiêu chuẩn và đồ sơ cứu cơ bản |
+| 6. Giải thưởng phụ (CĐV nhiệt huyết) | 300,000 | Tiền mặt |
+| **Tổng cộng** | **~ 5,380,000** | Ngân sách không bao gồm chi phí thuê trọng tài ngoài |
 
-## 7. Kế hoạch xin tài trợ từ Ban Lãnh đạo 🏅
-
-Để nâng tầm sự kiện, Ban tổ chức sẽ trình kế hoạch xin tài trợ từ Ban Lãnh đạo với các hạng mục và quyền lợi hấp dẫn, thể hiện sự ủng hộ của Ban Lãnh đạo đối với các hoạt động tập thể.
-
-| Rank | Giá trị tài trợ (VNĐ) | Quyền lợi nhà tài trợ |
-| :--- | :--- | :--- |
-| **Kim Cương** | 3,000,000+ | Logo nổi bật nhất trên Backdrop, banner, standee. Vinh danh và tặng hoa trong Lễ trao giải. |
-| **Vàng** | 2,000,000+ | Logo trên Backdrop, banner. Được vinh danh trong Lễ trao giải. |
-| **Bạc** | 1,000,000+ | Logo trên banner và được nhắc tên cảm ơn trong các bài đăng truyền thông. |
-
-## 8. Giải thưởng & Vinh danh 🥇
-
-Cơ cấu giải thưởng được nâng cấp để tăng tính cạnh tranh và ý nghĩa cho sự kiện kỷ niệm.
+## 7. Giải thưởng & Vinh danh 🥇
 
 | Hạng mục | Giải thưởng đề xuất |
 | :--- | :--- |
-| **Vô địch Đơn nam** | Cúp + Huy chương Vàng + 800,000 VNĐ tiền mặt |
-| **Á quân Đơn nam** | Huy chương Bạc + 500,000 VNĐ tiền mặt |
+| **Vô địch Đôi nam** | Cúp + 2 Huy chương Vàng + 800,000 VNĐ tiền mặt |
+| **Á quân Đôi nam** | 2 Huy chương Bạc + 500,000 VNĐ tiền mặt |
+| **Vô địch Đôi nam nữ** | Cúp + 2 Huy chương Vàng + 800,000 VNĐ tiền mặt |
+| **Á quân Đôi nam nữ** | 2 Huy chương Bạc + 500,000 VNĐ tiền mặt |
+| **Cổ động viên nhiệt huyết** | **300,000 VNĐ tiền mặt** + Một cái ôm từ CEO |
 
+## 8. Kế hoạch Gala tiệc 🥂
 
-**Giải thưởng phụ:**
-
-- **Cổ động viên nhiệt huyết**: Cổ động viên năng nổ, cuồng nhiệt nhất - **300k tiền mặt + Một cái ôm từ CEO**.
-
-
-## 9. Yếu tố sáng tạo & Dấu ấn 2 năm FOXAI ✨
-
-- **Chủ đề thiết kế**: Tất cả ấn phẩm (backdrop, banner, giấy chứng nhận, huy chương) sẽ được thiết kế đồng bộ với logo **"FOXAI - 2 Years Journey"**.
-- **Video khai mạc**: Chiếu một video ngắn (1-2 phút) nhìn lại hành trình 2 năm của công ty để khơi dậy niềm tự hào.
-- **Livestream Lễ trao giải**: Phát trực tiếp khoảnh khắc vinh danh trên các kênh nội bộ để toàn thể nhân viên cùng theo dõi.
-- **Góc "Storytelling"**: Khuyến khích VĐV và cổ động viên chia sẻ cảm xúc, hình ảnh lên mạng nội bộ với hashtag `#FOXAI_2nd_Anniversary` `#HoiThaoFOXAI2025`.
-
-## 10. Gala tiệc 
-- Ngân sách: 250k/người => Thủy tạo poll trên group để đăng ký
-- Địa điểm: Thủy tìm địa điểm ở gần khu Ngoại giao đoàn (khoảng 70-80 người), nếu có màn LED thì không cần in backdrop. Yêu cầu cần có sân khấu và trang trí.
-- Số lượng khách mời: Thủy liên hệ các sếp
-- Lập ngân sách: Thủy - 06/08/2025.
+- **Số lượng**: Dự kiến 70-80 người, **chỉ bao gồm thành viên công ty, không có khách mời bên ngoài**.
+- **Ngân sách (Dự kiến)**: **250,000 VNĐ/người**. Chị Thủy tạo poll trên group chung để nhân viên đăng ký và xác nhận số lượng chính xác.
+- **Địa điểm**: Chị Thủy khảo sát các nhà hàng/trung tâm sự kiện **gần khu Ngoại Giao Đoàn**.
+    - **Yêu cầu**: Có không gian riêng, sức chứa 80 người, có sân khấu, hệ thống âm thanh và màn LED. (Nếu có màn LED tốt sẽ không cần in backdrop, tiết kiệm chi phí).
+- **Chương trình Gala (Dự kiến)**:
+    1.  Đón khách & Check-in.
+    2.  Phát biểu khai mạc của Ban Lãnh đạo, nhìn lại hành trình 2 năm.
+    3.  **Lễ trao giải Hội thao FOXAI 2025**.
+    4.  Dùng tiệc.
+    5.  Trò chơi sân khấu (Team building/Gameshow).
+    6.  Giao lưu tự do, chụp ảnh.
+- **Phân công**:
+    - **Lập ngân sách chi tiết Gala**: Chị Thủy - Deadline: **13/08/2025**.
+    - **Khảo sát địa điểm, chốt đăng ký**: Chị Thủy và team Hậu cần.
