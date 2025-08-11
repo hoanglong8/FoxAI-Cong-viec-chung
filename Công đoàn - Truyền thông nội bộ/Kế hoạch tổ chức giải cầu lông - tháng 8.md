@@ -12,7 +12,7 @@
 - **Thời gian**:
     - **Thứ Bảy, ngày 16 tháng 8 năm 2025**.
     - **14h00 – 17h30**: Thi đấu và chụp ảnh lưu niệm tại sân.
-    - **Từ 18h00**: Bắt đầu tiệc Gala chúc mừng sinh nhật công ty.
+    - **Từ 19h00**: Bắt đầu tiệc Gala chúc mừng sinh nhật công ty.
 
 - **Địa điểm**:
     - Thuê 01 sân cầu lông chất lượng cao tại khu vực gần văn phòng (ưu tiên khu vực Cầu Giấy, Nam Từ Liêm).
@@ -81,10 +81,10 @@
 
 ## 8. Kế hoạch Gala tiệc 🥂
 
-- **Số lượng**: Dự kiến 70-80 người, **chỉ bao gồm thành viên công ty, không có khách mời bên ngoài**.
-- **Ngân sách (Dự kiến)**: **250,000 VNĐ/người**. Chị Thủy tạo poll trên group chung để nhân viên đăng ký và xác nhận số lượng chính xác.
+- **Số lượng**: Dự kiến 50 người, **chỉ bao gồm thành viên công ty, không có khách mời bên ngoài**.
+- **Ngân sách (Dự kiến)**: **250,000 VNĐ/người**. Thông báo trên group: yêu cầu tất cả tham gia đầy đủ, nhân sự không đi mà không báo trước cho GĐ trung tâm trước 1 ngày thì sẽ phải chịu chi phí 250k vào Công đoàn phí.
 - **Địa điểm**: Chị Thủy khảo sát các nhà hàng/trung tâm sự kiện **gần khu Ngoại Giao Đoàn**.
-    - **Yêu cầu**: Có không gian riêng, sức chứa 80 người, có sân khấu, hệ thống âm thanh và màn LED. (Nếu có màn LED tốt sẽ không cần in backdrop, tiết kiệm chi phí).
+    - **Yêu cầu**: Có không gian riêng, sức chứa 50 người, có sân khấu, hệ thống âm thanh và màn LED. (Nếu có màn LED tốt sẽ không cần in backdrop, tiết kiệm chi phí).
 - **Chương trình Gala (Dự kiến)**:
     1.  Đón khách & Check-in.
     2.  Phát biểu khai mạc của Ban Lãnh đạo, nhìn lại hành trình 2 năm.
@@ -92,6 +92,10 @@
     4.  Dùng tiệc.
     5.  Trò chơi sân khấu (Team building/Gameshow).
     6.  Giao lưu tự do, chụp ảnh.
+    7.  Trang phục: Đen/trắng, lịch sự, nữ váy, nam quần âu.
 - **Phân công**:
-    - **Lập ngân sách chi tiết Gala**: Chị Thủy - Deadline: **13/08/2025**.
-    - **Khảo sát địa điểm, chốt đăng ký**: Chị Thủy và team Hậu cần.
+    - **Lập ngân sách chi tiết Gala**: Chị Thủy.
+    - **Khảo sát địa điểm, chốt đăng ký**: Chị Thủy (sân khấu, âm thanh, màn hình LED - nếu có).
+    - Tìm sân và thuê sân, mua cúp và huy chương: Mr.Long thuê trước ngày thứ 3. 
+    - Thiết kế standee, backdrop & banner, video hành trình 2 năm: Phòng Marketing sẽ gửi ảnh trước ngày thứ 4 để Ms.Thủy in.
+    - Tổ chức chương trình: MC (bonus), tổ chức minigame và cho phép các thành viên đăng ký các tiết mục cá nhân.
