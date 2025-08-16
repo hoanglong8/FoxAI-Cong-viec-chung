@@ -155,21 +155,6 @@ Cảm ơn cả nhà! ❤️
 **(Nhớ tắt tùy chọn "Cho phép người khác thêm phương án")**
 ---
 
-### **Lịch thi đấu chi tiết**
-
-**Tổng thời gian thi đấu dự kiến:** Khoảng **4,5 giờ**
-
-| Thời gian | Sân 1 | Sân 2 | Vòng đấu |
-| :--- | :--- | :--- | :--- |
-| **13:45 - 14:00** | **KHAI MẠC, CHECK-IN VÀ PHỔ BIẾN LỊCH TRÌNH** | | |
-| **Slot 1**<br>**14:00 - 15:00** | **Trận 1 (Nam)**<br>Trọng/Hải **vs** Cường/Hoàng | **Trận 2 (Nam)**<br>Toàn/Tụ **vs** Tấn/Adam | Tứ kết Đôi nam |
-| **Slot 2**<br>**15:00 - 16:00** | **Trận 3 (Nam Nữ)**<br>A.Đức/T.Hương **vs** Hào/Oanh | **Trận 4 (Nam Nữ)**<br>Sơn/Hoài **vs** Đ.Hào/Q.Anh | Bán kết Đôi nam nữ |
-| **Slot 3**<br>**16:00 - 17:00** | **Trận 5 (Nam)**<br>Toản/Việt **vs** Hiếu/Đăng | **Trận 6 (Nam)**<br>Thắng Trận 1 **vs** Thắng Trận 2 | Bán kết Đôi nam |
-| **Slot 4**<br>**17:00 - 18:00** | **Trận 7 (CHUNG KẾT NAM)**<br>Thắng Trận 5 **vs** Thắng Trận 6 | **Trận 8 (CHUNG KẾT NAM NỮ)**<br>Thắng Trận 3 **vs** Thắng Trận 4 | **CHUNG KẾT** |
-| **18:00 - 18:30** | **BẾ MẠC, TRAO GIẢI VÀ CHỤP ẢNH LƯU NIỆM** 🏆 | | |
-
------
-
 ### **KỊCH BẢN CHI TIẾT - GIẢI CẦU LÔNG FOXAI SMASHUP 2025**
 
 #### **Giai đoạn 1: Chuẩn bị (13:00 - 13:45)**
@@ -191,6 +176,17 @@ Cảm ơn cả nhà! ❤️
 -----
 
 #### **Giai đoạn 2: Khai mạc và Thi đấu (13:45 - 18:00)**
+
+**Tổng thời gian thi đấu dự kiến:** Khoảng **4,5 giờ**
+
+| Thời gian | Sân 1 | Sân 2 | Vòng đấu |
+| :--- | :--- | :--- | :--- |
+| **13:45 - 14:00** | **KHAI MẠC, CHECK-IN VÀ PHỔ BIẾN LỊCH TRÌNH** | | |
+| **Slot 1**<br>**14:00 - 15:00** | **Trận 1 (Nam)**<br>Trọng/Hải **vs** Cường/Hoàng | **Trận 2 (Nam)**<br>Toàn/Tụ **vs** Tấn/Adam | Tứ kết Đôi nam |
+| **Slot 2**<br>**15:00 - 16:00** | **Trận 3 (Nam Nữ)**<br>A.Đức/T.Hương **vs** Hào/Oanh | **Trận 4 (Nam Nữ)**<br>Sơn/Hoài **vs** Đ.Hào/Q.Anh | Bán kết Đôi nam nữ |
+| **Slot 3**<br>**16:00 - 17:00** | **Trận 5 (Nam)**<br>Toản/Việt **vs** Hiếu/Đăng | **Trận 6 (Nam)**<br>Thắng Trận 1 **vs** Thắng Trận 2 | Bán kết Đôi nam |
+| **Slot 4**<br>**17:00 - 18:00** | **Trận 7 (CHUNG KẾT NAM)**<br>Thắng Trận 5 **vs** Thắng Trận 6 | **Trận 8 (CHUNG KẾT NAM NỮ)**<br>Thắng Trận 3 **vs** Thắng Trận 4 | **CHUNG KẾT** |
+| **18:00 - 18:30** | **BẾ MẠC, TRAO GIẢI VÀ CHỤP ẢNH LƯU NIỆM** 🏆 | | |
 
 | Timeline | Phụ trách | Công việc & Lời thoại MC mẫu |
 | :--- | :--- | :--- |
