@@ -175,17 +175,17 @@ Cảm ơn cả nhà! ❤️
 #### **Giai đoạn 1: Chuẩn bị (13:00 - 13:45)**
 
   * **13:00:** BTC có mặt tại sân, kiểm tra lần cuối các hạng mục:
-      * Sân bãi, lưới, ánh sáng - Mr.Long
-      * Bàn check-in, backdrop, standee - Ms.Dương MKT
-      * Hệ thống âm thanh, loa, micro - Mr.Định
-      * Nước uống, đồ ăn nhẹ, khu vực nghỉ ngơi cho VĐV - Mr.Định
-      * Biên bản thi đấu, bút, đồng hồ bấm giờ - Ms.Thủy
-      * Bộ dụng cụ y tế cơ bản - Ms.Thủy
-      * Huy chương, quà tặng - Ms.Thủy
+      * Sân bãi, lưới, ánh sáng - **Mr.Long**
+      * Bàn check-in, backdrop, standee, hashtag - **Ms.Dương MKT**
+      * Hệ thống âm thanh, loa, micro - **Mr.Định**
+      * Nước uống, đồ ăn nhẹ, khu vực nghỉ ngơi cho VĐV - **Mr.Định**
+      * Biên bản thi đấu, bút, đồng hồ bấm giờ - **Ms.Thủy**
+      * Bộ dụng cụ y tế cơ bản - **Ms.Thủy**
+      * Huy chương, quà tặng - **Ms.Thủy**
   * **13:30:** Họp nhanh BTC, phân công nhiệm vụ:
-      * **Trưởng BTC:** Điều phối chung - Mr.Long
-      * **Phụ trách check-in (2 người):** Đón VĐV, xác nhận cặp đấu - Mr. Định
-      * **Phụ trách sân 1 & 2 (2 người):** Gọi VĐV, giám sát trận đấu, ghi biên bản, báo kết quả - 2 trọng tài là Mr.Kiên và Mr.Hùng KD
+      * **Trưởng BTC:** Điều phối chung - **Mr.Long**
+      * **Phụ trách check-in (2 người):** Đón VĐV, xác nhận cặp đấu - **Mr. Định**
+      * **Phụ trách sân 1 & 2 (2 người):** Gọi VĐV, giám sát trận đấu, ghi biên bản, báo kết quả - 2 trọng tài là **Mr.Kiên và Mr.Hùng KD**
       * **MC:** Dẫn dắt toàn bộ chương trình theo kịch bản.
 
 -----
@@ -194,12 +194,12 @@ Cảm ơn cả nhà! ❤️
 
 | Timeline | Phụ trách | Công việc & Lời thoại MC mẫu |
 | :--- | :--- | :--- |
-| **13:45 - 14:00** | Lễ tân, MC | **Check-in & Khai mạc**\<br\>***MC:*** *"Alo alo, xin chào mừng toàn thể các VĐV và các bạn cổ động viên đã có mặt tại **Giải Cầu Lông FOXAI Smashup 2025**\! Chỉ còn ít phút nữa giải đấu sẽ chính thức bắt đầu, xin mời các VĐV chưa check-in vui lòng đến bàn BTC để hoàn tất thủ tục."*\<br\>*(Sau khi VĐV tập trung)*\<br\>***MC:*** *"Thay mặt BTC, tôi xin tuyên bố **Giải Cầu Lông FOXAI Smashup 2025** chính thức bắt đầu\! Xin trân trọng kính mời anh/chị [Tên Trưởng BTC] lên có đôi lời phát biểu."*\<br\>*(Trưởng BTC phát biểu)*\<br\>***MC:*** *"Xin cảm ơn anh/chị\! Tiếp theo, để đảm bảo một giải đấu công bằng và minh bạch, xin trân trọng kính mời **đại diện Tổ trọng tài** lên sân khấu tuyên thệ."* |
-| | Trọng tài | **Kịch bản Tuyên thệ của Đại diện Tổ trọng tài**\<br\>*(Trọng tài bước lên, đặt tay phải lên ngực)*\<br\>**Lời tuyên thệ:**\<br\>"Tôi, [Tên trọng tài], đại diện cho Tổ trọng tài của **Giải Cầu Lông FOXAI Smashup 2025**, xin long trọng tuyên thệ:\<br\>\<br\>1.  Điều hành các trận đấu với tinh thần **VÔ TƯ, KHÁCH QUAN và ĐÚNG LUẬT**.\<br\>2.  **TÔN TRỌNG** các vận động viên, đưa ra những quyết định chính xác nhất.\<br\>3.  Góp phần vào sự thành công chung của giải đấu trên tinh thần thể thao **TRUNG THỰC và CAO THƯỢNG**.\<br\>\<br\>Xin trân trọng cảm ơn\!" |
-| **14:00 - 15:00** | Phụ trách sân 1 & 2 | **Lượt trận 1 - Tứ kết Đôi nam**\<br\>***MC (vào 13:55):*** *"BTC xin thông báo, lượt trận đầu tiên sẽ bắt đầu sau 5 phút nữa\! Xin mời các VĐV sau đây di chuyển về sân thi đấu của mình:"*\<br\>***- Sân 1:*** *Trọng/Hải vs Cường/Hoàng.*\<br\>***- Sân 2:*** *Toàn/Tụ vs Tấn/Adam.*\<br\>*(Đúng 14:00, trọng tài cho trận đấu bắt đầu)* |
-| **15:00 - 16:00** | Phụ trách sân 1 & 2 | **Lượt trận 2 - Bán kết Đôi nam nữ**\<br\>***MC (vào 14:55):*** *"BTC xin mời các VĐV của lượt trận thứ hai chuẩn bị\!*\<br\>***- Sân 1:*** *A.Đức/T.Hương vs Hào/Oanh.*\<br\>***- Sân 2:*** *Sơn/Hoài vs Đ.Hào/Q.Anh.*\<br\>*(Đúng 15:00, trận đấu bắt đầu. MC thông báo kết quả lượt 1)* |
-| **16:00 - 17:00** | Phụ trách sân 1 & 2 | **Lượt trận 3 - Bán kết Đôi nam**\<br\>***MC (vào 15:55):*** *"Ngay sau đây sẽ là 2 trận Bán kết nảy lửa của nội dung Đôi nam\!*\<br\>***- Sân 1:*** *Toản/Việt vs Hiếu/Đăng.*\<br\>***- Sân 2:*** *Đội thắng Trận 1 vs Đội thắng Trận 2.*\<br\>*(Đúng 16:00, trận đấu bắt đầu. MC thông báo kết quả lượt 2)* |
-| **17:00 - 18:00** | Phụ trách sân 1 & 2 | **Lượt trận 4 - CHUNG KẾT**\<br\>***MC (vào 16:55, nhạc nền hào hùng):*** *"Và bây giờ là thời khắc quyết định\! Xin mời khán giả cùng hướng về 2 sân để theo dõi 2 trận Chung kết của **Giải Cầu Lông FOXAI Smashup 2025**\!*\<br\>***- Sân 1 - CHUNG KẾT NAM:*** *Màn so tài đỉnh cao giữa (Thắng Trận 5) và (Thắng Trận 6)\!*\<br\>***- Sân 2 - CHUNG KẾT NAM NỮ:*** *Cuộc đối đầu kịch tính giữa (Thắng Trận 3) và (Thắng Trận 4)\!*\<br\>*(Đúng 17:00, 2 trận chung kết đồng loạt bắt đầu)* |
+| **13:45 - 14:00** | Lễ tân, MC | **Check-in & Khai mạc**<br>***MC:*** *"Alo alo, xin chào mừng toàn thể các VĐV và các bạn cổ động viên đã có mặt tại **Giải Cầu Lông FOXAI Smashup 2025**\! Chỉ còn ít phút nữa giải đấu sẽ chính thức bắt đầu, xin mời các VĐV chưa check-in vui lòng đến bàn BTC để hoàn tất thủ tục."*<br>*(Sau khi VĐV tập trung)*<br>***MC:*** *"Thay mặt BTC, tôi xin tuyên bố **Giải Cầu Lông FOXAI Smashup 2025** chính thức bắt đầu\! Xin trân trọng kính mời anh/chị [Tên Trưởng BTC] lên có đôi lời phát biểu."*<br>*(Trưởng BTC phát biểu)*<br>***MC:*** *"Xin cảm ơn anh/chị\! Tiếp theo, để đảm bảo một giải đấu công bằng và minh bạch, xin trân trọng kính mời **đại diện Tổ trọng tài** lên sân khấu tuyên thệ."* |
+| | Trọng tài | **Kịch bản Tuyên thệ của Đại diện Tổ trọng tài**<br>*(Trọng tài bước lên, đặt tay phải lên ngực)*<br>**Lời tuyên thệ:**<br>"Tôi, [Tên trọng tài], đại diện cho Tổ trọng tài của **Giải Cầu Lông FOXAI Smashup 2025**, xin long trọng tuyên thệ:<br><br>1.  Điều hành các trận đấu với tinh thần **VÔ TƯ, KHÁCH QUAN và ĐÚNG LUẬT**.<br>2.  **TÔN TRỌNG** các vận động viên, đưa ra những quyết định chính xác nhất.<br>3.  Góp phần vào sự thành công chung của giải đấu trên tinh thần thể thao **TRUNG THỰC và CAO THƯỢNG**.<br><br>Xin trân trọng cảm ơn\!" |
+| **14:00 - 15:00** | Phụ trách sân 1 & 2 | **Lượt trận 1 - Tứ kết Đôi nam**<br>***MC (vào 13:55):*** *"BTC xin thông báo, lượt trận đầu tiên sẽ bắt đầu sau 5 phút nữa\! Xin mời các VĐV sau đây di chuyển về sân thi đấu của mình:"*<br>***- Sân 1:*** *Trọng/Hải vs Cường/Hoàng.*<br>***- Sân 2:*** *Toàn/Tụ vs Tấn/Adam.*<br>*(Đúng 14:00, trọng tài cho trận đấu bắt đầu)* |
+| **15:00 - 16:00** | Phụ trách sân 1 & 2 | **Lượt trận 2 - Bán kết Đôi nam nữ**<br>***MC (vào 14:55):*** *"BTC xin mời các VĐV của lượt trận thứ hai chuẩn bị\!*<br>***- Sân 1:*** *A.Đức/T.Hương vs Hào/Oanh.*<br>***- Sân 2:*** *Sơn/Hoài vs Đ.Hào/Q.Anh.*<br>*(Đúng 15:00, trận đấu bắt đầu. MC thông báo kết quả lượt 1)* |
+| **16:00 - 17:00** | Phụ trách sân 1 & 2 | **Lượt trận 3 - Bán kết Đôi nam**<br>***MC (vào 15:55):*** *"Ngay sau đây sẽ là 2 trận Bán kết nảy lửa của nội dung Đôi nam\!*<br>***- Sân 1:*** *Toản/Việt vs Hiếu/Đăng.*<br>***- Sân 2:*** *Đội thắng Trận 1 vs Đội thắng Trận 2.*<br>*(Đúng 16:00, trận đấu bắt đầu. MC thông báo kết quả lượt 2)* |
+| **17:00 - 18:00** | Phụ trách sân 1 & 2 | **Lượt trận 4 - CHUNG KẾT**<br>***MC (vào 16:55, nhạc nền hào hùng):*** *"Và bây giờ là thời khắc quyết định\! Xin mời khán giả cùng hướng về 2 sân để theo dõi 2 trận Chung kết của **Giải Cầu Lông FOXAI Smashup 2025**\!*<br>***- Sân 1 - CHUNG KẾT NAM:*** *Màn so tài đỉnh cao giữa (Thắng Trận 5) và (Thắng Trận 6)\!*<br>***- Sân 2 - CHUNG KẾT NAM NỮ:*** *Cuộc đối đầu kịch tính giữa (Thắng Trận 3) và (Thắng Trận 4)\!*<br>*(Đúng 17:00, 2 trận chung kết đồng loạt bắt đầu)* |
 
 -----
 
@@ -207,8 +207,8 @@ Cảm ơn cả nhà! ❤️
 
 | Timeline | Phụ trách | Công việc & Lời thoại MC mẫu |
 | :--- | :--- | :--- |
-| **18:00 - 18:10** | MC | **Tổng kết & Cảm ơn**\<br\>***MC:*** *"Xin chúc mừng các nhà tân vô địch của **Giải Cầu Lông FOXAI Smashup 2025**\! Thay mặt BTC, xin gửi lời cảm ơn chân thành đến Ban lãnh đạo công ty đã tạo điều kiện, các VĐV đã cống hiến hết mình, và đặc biệt là các cổ động viên đã cháy hết mình, tạo nên một giải đấu thành công rực rỡ."* |
-| **18:10 - 18:25** | MC, Ban Lãnh đạo | **Trao giải**\<br\>***MC:*** *"Và sau đây là giây phút vinh danh được mong chờ nhất\! Đầu tiên, BTC muốn trao một giải thưởng vô cùng đặc biệt, dành cho những người đã truyền lửa cho giải đấu."*\<br\>\<br\>**1. Giải Cổ động viên cuồng nhiệt nhất:**\<br\>***MC:*** *"Xin được công bố **Giải Cổ động viên cuồng nhiệt nhất**, được bình chọn bởi chính BTC\! Và người trao giải thưởng đặc biệt này, xin trân trọng kính mời chị **Lê Thu Thủy** - đại diện BTC\!"*\<br\>\<br\>**2. Trao giải Nhì (Á quân):**\<br\>***MC:*** *"Tiếp theo, chúng ta sẽ cùng vinh danh các cặp đôi Á quân đã có một hành trình đầy nỗ lực và ấn tượng."*\<br\>*- "Với **giải Nhì hạng mục Đôi nam nữ**, xin trân trọng kính mời **Giám đốc Trung tâm R\&D, anh Phạm Văn Tụ**, lên trao giải."*\<br\>*- "Với **giải Nhì hạng mục Đôi nam**, xin trân trọng kính mời **Giám đốc Trung tâm Sản xuất, anh Nguyễn Mạnh Toàn**, lên trao giải."*\<br\>\<br\>**3. Trao giải Vô địch:**\<br\>***MC (nhạc nền hào hùng):*** *"Và giờ là khoảnh khắc đỉnh cao\! Giây phút vinh danh hai cặp đôi Vô địch của **Giải Cầu Lông FOXAI Smashup 2025**\! Xin được trân trọng kính mời **Tổng Giám đốc Lê Viết Trường** sẽ lên sân khấu để trao cúp và huy chương vàng cho hai nhà Vô địch của chúng ta\!"* |
-| **18:25 - 18:30** | Tất cả | **Bế mạc & Chụp ảnh lưu niệm**\<br\>***MC:*** *"Một lần nữa xin chúc mừng tất cả các VĐV\! Xin mời anh Trường, anh Toàn, anh Tụ, chị Thủy cùng toàn thể các VĐV đạt giải ở lại sân khấu để chúng ta chụp những tấm ảnh lưu niệm, ghi lại khoảnh khắc đáng nhớ của ngày hôm nay. **Giải Cầu Lông FOXAI Smashup 2025** xin được phép khép lại. Hẹn gặp lại tất cả mọi người ở mùa giải năm sau\!"* |
+| **18:00 - 18:10** | MC | **Tổng kết & Cảm ơn**<br>***MC:*** *"Xin chúc mừng các nhà tân vô địch của **Giải Cầu Lông FOXAI Smashup 2025**\! Thay mặt BTC, xin gửi lời cảm ơn chân thành đến Ban lãnh đạo công ty đã tạo điều kiện, các VĐV đã cống hiến hết mình, và đặc biệt là các cổ động viên đã cháy hết mình, tạo nên một giải đấu thành công rực rỡ."* |
+| **18:10 - 18:25** | MC, Ban Lãnh đạo | **Trao giải**<br>***MC:*** *"Và sau đây là giây phút vinh danh được mong chờ nhất\! Đầu tiên, BTC muốn trao một giải thưởng vô cùng đặc biệt, dành cho những người đã truyền lửa cho giải đấu."*<br><br>**1. Giải Cổ động viên cuồng nhiệt nhất:**<br>***MC:*** *"Xin được công bố **Giải Cổ động viên cuồng nhiệt nhất**, được bình chọn bởi chính BTC\! Và người trao giải thưởng đặc biệt này, xin trân trọng kính mời chị **Lê Thu Thủy** - đại diện BTC\!"*<br><br>**2. Trao giải Nhì (Á quân):**<br>***MC:*** *"Tiếp theo, chúng ta sẽ cùng vinh danh các cặp đôi Á quân đã có một hành trình đầy nỗ lực và ấn tượng."*<br>*- "Với **giải Nhì hạng mục Đôi nam nữ**, xin trân trọng kính mời **Giám đốc Trung tâm R\&D, anh Phạm Văn Tụ**, lên trao giải."*<br>*- "Với **giải Nhì hạng mục Đôi nam**, xin trân trọng kính mời **Giám đốc Trung tâm Sản xuất, anh Nguyễn Mạnh Toàn**, lên trao giải."*<br><br>**3. Trao giải Vô địch:**<br>***MC (nhạc nền hào hùng):*** *"Và giờ là khoảnh khắc đỉnh cao\! Giây phút vinh danh hai cặp đôi Vô địch của **Giải Cầu Lông FOXAI Smashup 2025**\! Xin được trân trọng kính mời **Tổng Giám đốc Lê Viết Trường** sẽ lên sân khấu để trao cúp và huy chương vàng cho hai nhà Vô địch của chúng ta\!"* |
+| **18:25 - 18:30** | Tất cả | **Bế mạc & Chụp ảnh lưu niệm**<br>***MC:*** *"Một lần nữa xin chúc mừng tất cả các VĐV\! Xin mời anh Trường, anh Toàn, anh Tụ, chị Thủy cùng toàn thể các VĐV đạt giải ở lại sân khấu để chúng ta chụp những tấm ảnh lưu niệm, ghi lại khoảnh khắc đáng nhớ của ngày hôm nay. **Giải Cầu Lông FOXAI Smashup 2025** xin được phép khép lại. Hẹn gặp lại tất cả mọi người ở mùa giải năm sau\!"* |
 
 -----
