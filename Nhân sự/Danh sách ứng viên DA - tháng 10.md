@@ -1,4 +1,4 @@
-Dưới đây là bảng tổng hợp các ứng viên hàng đầu (từ 8.0 điểm trở lên), được sắp xếp theo điểm số từ cao xuống thấp:
+Dưới đây là bảng tổng hợp các ứng viên hàng đầu được sắp xếp theo điểm số từ cao xuống thấp => Ms.Thủy gọi điện hẹn lịch phỏng vấn:
 
 -----
 
